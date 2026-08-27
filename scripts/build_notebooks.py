@@ -10,8 +10,8 @@ import nbformat
 from course_spec import MODULES, QUIZ_SPEC
 
 ROOT = Path(__file__).resolve().parents[1]
-REPOSITORY = "muzammilafroz/isb-spia-data-test-learning-lab"
-PAGES_ROOT = "https://muzammilafroz.github.io/isb-spia-data-test-learning-lab"
+REPOSITORY = "muzammilafroz/applied-economics-data-learning-lab"
+PAGES_ROOT = "https://muzammilafroz.github.io/applied-economics-data-learning-lab"
 
 
 def markdown(source: str):
@@ -32,7 +32,7 @@ def notebook_header(title: str, filename: str, *, module_id: str | None) -> str:
     ]
     if module_id:
         links.append(f"[Take the test]({PAGES_ROOT}/tests/?module={module_id})")
-    return f"# {title}\n\n" + " | ".join(links) + "\n\n> This independent learning resource uses fictional, synthetic data. It is not an official ISB or SPIA product or credential."
+    return f"# {title}\n\n" + " | ".join(links) + "\n\n> This independent learning resource uses fictional, synthetic data. It is not an official assessment or credential."
 
 
 BOOTSTRAP = r'''
@@ -49,7 +49,7 @@ if sys.platform == "emscripten":
     import pyodide_http
     pyodide_http.patch_all()
 
-RAW_CODE_ROOT = "https://raw.githubusercontent.com/muzammilafroz/isb-spia-data-test-learning-lab/v1.0.0/learning_lab"
+RAW_CODE_ROOT = "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.0/learning_lab"
 if sys.platform == "emscripten":
     from js import window
     if window.location.hostname in {"127.0.0.1", "localhost"}:

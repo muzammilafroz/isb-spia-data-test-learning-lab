@@ -23,8 +23,8 @@ jobs:
         shell: bash
         run: |
           for attempt in {1..30}; do
-            if curl --fail --silent --show-error "https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/" > /dev/null \
-              && curl --fail --silent --show-error "https://raw.githubusercontent.com/muzammilafroz/isb-spia-data-test-learning-lab/v1.0.0/data/teaching/expected_outputs.json" > /dev/null; then
+            if curl --fail --silent --show-error "https://muzammilafroz.github.io/applied-economics-data-learning-lab/" > /dev/null \
+              && curl --fail --silent --show-error "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.0/data/teaching/expected_outputs.json" > /dev/null; then
               exit 0
             fi
             sleep 10
@@ -32,5 +32,5 @@ jobs:
           exit 1
       - name: Run live public checks
         env:
-          LIVE_SITE: https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/
+          LIVE_SITE: https://muzammilafroz.github.io/applied-economics-data-learning-lab/
         run: npm run test:live

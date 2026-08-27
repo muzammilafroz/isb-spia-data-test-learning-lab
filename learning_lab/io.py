@@ -8,7 +8,7 @@ from urllib.request import urlopen
 
 import pandas as pd
 
-REPOSITORY = "muzammilafroz/isb-spia-data-test-learning-lab"
+REPOSITORY = "muzammilafroz/applied-economics-data-learning-lab"
 DEFAULT_REF = "v1.0.0"
 
 

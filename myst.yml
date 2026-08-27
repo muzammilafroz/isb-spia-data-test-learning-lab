@@ -2,7 +2,7 @@ version: 1
 project:
   title: Applied Data Coding Learning Lab
   description: Geospatial and household survey analysis with reproducible Python
-  github: https://github.com/muzammilafroz/isb-spia-data-test-learning-lab
+  github: https://github.com/muzammilafroz/applied-economics-data-learning-lab
   license:
     content: CC-BY-4.0
     code: MIT

@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 
-const RAW_ROOT = "https://raw.githubusercontent.com/muzammilafroz/isb-spia-data-test-learning-lab/v1.0.0";
+const RAW_ROOT = "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.0";
 
 test("released site, raw data, and Colab target are public", async ({ page, request }) => {
   const data = await request.get(`${RAW_ROOT}/data/teaching/expected_outputs.json`);
@@ -11,7 +11,7 @@ test("released site, raw data, and Colab target are public", async ({ page, requ
   const notebook = await request.get(`${RAW_ROOT}/notebooks/lessons/01_python_pandas_foundations.ipynb`);
   expect(notebook.ok()).toBeTruthy();
   const source = await notebook.text();
-  expect(source).toContain("https://colab.research.google.com/github/muzammilafroz/isb-spia-data-test-learning-lab/blob/main/notebooks/lessons/01_python_pandas_foundations.ipynb");
+  expect(source).toContain("https://colab.research.google.com/github/muzammilafroz/applied-economics-data-learning-lab/blob/main/notebooks/lessons/01_python_pandas_foundations.ipynb");
 
   await page.goto("");
   await expect(page).toHaveTitle(/Applied Data Coding Learning Lab/);

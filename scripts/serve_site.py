@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-BASE = "/isb-spia-data-test-learning-lab"
+BASE = "/applied-economics-data-learning-lab"
 
 
 class PagesHandler(SimpleHTTPRequestHandler):

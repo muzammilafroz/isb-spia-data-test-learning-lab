@@ -8,7 +8,7 @@ export default defineConfig({
   retries: process.env.CI ? 1 : 0,
   reporter: process.env.CI ? [["line"], ["html", { open: "never" }]] : "line",
   use: {
-    baseURL: process.env.LIVE_SITE ?? "http://127.0.0.1:8000/isb-spia-data-test-learning-lab/",
+    baseURL: process.env.LIVE_SITE ?? "http://127.0.0.1:8000/applied-economics-data-learning-lab/",
     trace: "retain-on-failure",
     screenshot: "only-on-failure",
     video: "retain-on-failure",
@@ -18,7 +18,7 @@ export default defineConfig({
   ],
   webServer: process.env.LIVE_SITE ? undefined : {
     command: "uv run python scripts/serve_site.py --port 8000",
-    url: "http://127.0.0.1:8000/isb-spia-data-test-learning-lab/",
+    url: "http://127.0.0.1:8000/applied-economics-data-learning-lab/",
     reuseExistingServer: !process.env.CI,
     timeout: 120_000,
   },

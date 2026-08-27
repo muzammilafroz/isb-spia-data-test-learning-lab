@@ -13,7 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BUILD = ROOT / "_build"
 DIST = ROOT / "dist"
-BASE_URL = "/isb-spia-data-test-learning-lab"
+BASE_URL = "/applied-economics-data-learning-lab"
 ASSET_PLACEHOLDER = "/myst_assets_folder/"
 INDEX_REDIRECT = "<script>(function(){var p=window.location.pathname;if(p.endsWith('/index.html'))window.location.replace((p.slice(0,-10)||'/')+window.location.search+window.location.hash);})();</script>"
 MOBILE_SAFETY_STYLE = (

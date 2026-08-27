@@ -11,8 +11,8 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-PAGES_ROOT = "https://muzammilafroz.github.io/isb-spia-data-test-learning-lab"
-BASE_PATH = "/isb-spia-data-test-learning-lab"
+PAGES_ROOT = "https://muzammilafroz.github.io/applied-economics-data-learning-lab"
+BASE_PATH = "/applied-economics-data-learning-lab"
 
 
 def require(path: Path, errors: list[str]) -> None:
@@ -84,7 +84,7 @@ def main() -> None:
         for path in sorted((ROOT / "notebooks" / folder).glob("*.ipynb")):
             notebook = nbformat.read(path, as_version=4)
             source = "\n".join(cell.source for cell in notebook.cells)
-            expected_colab = f"https://colab.research.google.com/github/muzammilafroz/isb-spia-data-test-learning-lab/blob/main/notebooks/{folder}/{path.name}"
+            expected_colab = f"https://colab.research.google.com/github/muzammilafroz/applied-economics-data-learning-lab/blob/main/notebooks/{folder}/{path.name}"
             expected_lite = f"{PAGES_ROOT}/lab/index.html?path={folder}/{path.name}"
             if expected_colab not in source:
                 errors.append(f"missing Colab link in {path.relative_to(ROOT)}")

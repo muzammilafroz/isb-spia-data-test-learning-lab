@@ -2,11 +2,11 @@
 
 Learn reproducible Python through geospatial joins, household survey cleaning, regression, and research validation.
 
-This is an independent educational resource. It is not an official ISB or SPIA product, assessment, credential, or answer repository. Every public data row is independently simulated for teaching. No controlled survey microdata or original recruitment materials are included.
+This is an independent educational resource, not an official assessment, credential, or answer repository. Every public data row is independently simulated for teaching. No controlled survey microdata or original recruitment materials are included.
 
-- [Open the learning site](https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/)
-- [Run notebooks in JupyterLite](https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/lab/)
-- [Open the self-study test center](https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/tests/)
+- [Open the learning site](https://muzammilafroz.github.io/applied-economics-data-learning-lab/)
+- [Run notebooks in JupyterLite](https://muzammilafroz.github.io/applied-economics-data-learning-lab/lab/)
+- [Open the self-study test center](https://muzammilafroz.github.io/applied-economics-data-learning-lab/tests/)
 
 ## Learning routes
 

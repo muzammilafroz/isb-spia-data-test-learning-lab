@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 
@@ -8,9 +9,6 @@ EXCLUDED_PARTS = {".git", ".venv", "node_modules", "_build", "dist", "tmp"}
 SELF = Path(__file__).resolve()
 
 forbidden_names = {
-    "ISB_SPIA_Predoc_Data_Test.pdf",
-    "ISB_SPIA_Predoc_Data_Test_Submission_Nausheen_Qureshi.pdf",
-    "ISB_SPIA_Predoc_Data_Test_Submission_Package.zip",
     "BurkinaFaso_2018_survey.csv",
     "BurkinaFaso_2018_test_results.csv",
     "full_survey_provided.csv",
@@ -18,7 +16,6 @@ forbidden_names = {
 forbidden_fragments = (
     "Problem 1 - Uganda map of sampling points",
     "Problem 2 - Relationship between malaria and wealth",
-    "Nausheen Qureshi",
 )
 forbidden_path_fragments = (
     "predoc",
@@ -27,9 +24,31 @@ forbidden_path_fragments = (
     "problem 2 -",
     "uganda",
     "burkinafaso",
-    "nausheen",
 )
 microdata_signature = {"hv271", "hv201", "hv227", "hml1a", "hv204", "hv220"}
+institutional_terms = (
+    "".join(("i", "s", "b")),
+    "".join(("s", "p", "i", "a")),
+)
+
+
+def notebook_visible_text(raw_text: str) -> str:
+    """Return searchable notebook text without opaque binary display payloads."""
+    notebook = json.loads(raw_text)
+    chunks: list[str] = []
+    for cell in notebook.get("cells", []):
+        source = cell.get("source", "")
+        chunks.append("".join(source) if isinstance(source, list) else str(source))
+        for output in cell.get("outputs", []):
+            stream = output.get("text", "")
+            chunks.append("".join(stream) if isinstance(stream, list) else str(stream))
+            chunks.append(str(output.get("evalue", "")))
+            chunks.extend(output.get("traceback", []))
+            for mime_type, value in output.get("data", {}).items():
+                if mime_type.startswith("image/"):
+                    continue
+                chunks.append("".join(value) if isinstance(value, list) else str(value))
+    return "\n".join(chunks)
 
 errors = []
 for path in ROOT.rglob("*"):
@@ -47,9 +66,13 @@ for path in ROOT.rglob("*"):
         text = path.read_text(encoding="utf-8")
     except UnicodeDecodeError:
         continue
+    searchable_text = notebook_visible_text(text) if path.suffix.lower() == ".ipynb" else text
     for fragment in forbidden_fragments:
-        if fragment.lower() in text.lower():
+        if fragment.lower() in searchable_text.lower():
             errors.append(f"forbidden private-workspace text in {path.relative_to(ROOT)}")
+    for term in institutional_terms:
+        if term in searchable_text.lower():
+            errors.append(f"institution-specific term in {path.relative_to(ROOT)}")
     if path.suffix.lower() == ".csv":
         header = set(re.split(r",", text.splitlines()[0])) if text else set()
         if len(header & microdata_signature) >= 4:

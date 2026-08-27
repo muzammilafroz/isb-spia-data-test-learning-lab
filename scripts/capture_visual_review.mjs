@@ -3,7 +3,7 @@ import path from "node:path";
 
 import { chromium } from "@playwright/test";
 
-const base = "http://127.0.0.1:8000/isb-spia-data-test-learning-lab/";
+const base = "http://127.0.0.1:8000/applied-economics-data-learning-lab/";
 const output = path.join("tmp", "visual-review");
 fs.rmSync(output, { recursive: true, force: true });
 fs.mkdirSync(output, { recursive: true });
