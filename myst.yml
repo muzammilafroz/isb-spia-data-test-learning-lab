@@ -1,0 +1,36 @@
+version: 1
+project:
+  title: Applied Data Coding Learning Lab
+  description: Geospatial and household survey analysis with reproducible Python
+  github: https://github.com/muzammilafroz/isb-spia-data-test-learning-lab
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  toc:
+    - file: book/index.md
+    - file: book/course-map.md
+    - title: Lessons
+      children:
+        - file: notebooks/lessons/01_python_pandas_foundations.ipynb
+        - file: notebooks/lessons/02_geospatial_validation_mapping.ipynb
+        - file: notebooks/lessons/03_household_rates_cleaning.ipynb
+        - file: notebooks/lessons/04_regression_fixed_effects.ipynb
+        - file: notebooks/lessons/05_validation_reproducibility_defense.ipynb
+    - title: Practice notebooks
+      children:
+        - file: notebooks/tests/01_python_pandas_test.ipynb
+        - file: notebooks/tests/02_geospatial_test.ipynb
+        - file: notebooks/tests/03_household_rates_test.ipynb
+        - file: notebooks/tests/04_regression_test.ipynb
+        - file: notebooks/tests/05_validation_test.ipynb
+        - file: notebooks/tests/06_capstone_test.ipynb
+    - file: book/glossary.md
+    - file: book/resources.md
+    - file: book/privacy-and-certificate.md
+    - file: book/about.md
+site:
+  template: book-theme
+  options:
+    logo_text: Applied Data Coding Learning Lab
+    favicon: book/assets/favicon.svg
+    folders: true
