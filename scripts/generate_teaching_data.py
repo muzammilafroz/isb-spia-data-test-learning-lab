@@ -242,7 +242,10 @@ def generate_surveys(output: Path, rng: random.Random) -> None:
 
 
 def sha256(path: Path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
+    # Git can present text files with CRLF on Windows and LF on Linux. Hash the
+    # canonical LF form so the manifest is identical on every supported host.
+    canonical_bytes = path.read_bytes().replace(b"\r\n", b"\n")
+    return hashlib.sha256(canonical_bytes).hexdigest()
 
 
 def row_count(path: Path) -> int | None:

@@ -8,7 +8,7 @@
     {
       "file": "expected_outputs.json",
       "rows": null,
-      "sha256": "e099016361346f080a133e80e8f86dafba8d29df8b12f59ae240f6d5ccb06bf0"
+      "sha256": "51728f149946278f8228cf47222d17a2decd2193a8a5563b7018d17e3fa1fd26"
     },
     {
       "file": "lumen_2014.csv",
@@ -53,7 +53,7 @@
     {
       "file": "training_districts.geojson",
       "rows": null,
-      "sha256": "c5296d0b86fa9358d2233cb363ae58f0e20da1db604c802a8fcde4168e4411ed"
+      "sha256": "c42ea3c1be4ddb6c4d5b6a7906c53ee609482b4da17089d45b6e7bd2d22219c9"
     }
   ],
   "generator_seed": 20260827,
