@@ -1,0 +1,321 @@
+hhid,year,country,region,wealth_raw,water_source,water_minutes_raw,head_age_raw,head_sex,electricity,floor_material,wall_material,bednets_raw,positive_rate,sampled_member_count
+01000000,2014,Lumen,Region 1,27847,unprotected well,998,98,male,0,dirty,finished,-99,0.000000,1
+01000001,2014,Lumen,Region 2,-21832,piped on premises,996,45,male,1,cement,finished,1,1.000000,2
+01000002,2014,Lumen,Region 3,-51874,"river, dam, lake, pond, stream, canal or irrigation channel",43,59,male,0,dirt,natural,4,0.666667,3
+01000003,2014,Lumen,Region 4,-59493,"river, dam, lake, pond, stream, canal or irrigation channel",29,57,male,1,dirt,natural,1,0.250000,4
+01000004,2014,Lumen,Region 1,-21082,public tap,30,32,male,0,cement,finished,3,0.000000,1
+01000005,2014,Lumen,Region 2,59526,protected well,6,35,male,0,cement,finished,3,0.500000,2
+01000006,2014,Lumen,Region 3,-180870,unprotected well,51,62,male,0,dirt,natural,4,0.333333,3
+01000007,2014,Lumen,Region 4,3194,protected well,23,50,male,0,cement,finished,2,0.000000,4
+01000008,2014,Lumen,Region 1,-120771,"river, dam, lake, pond, stream, canal or irrigation channel",38,50,male,0,dirt,natural,3,1.000000,1
+01000009,2014,Lumen,Region 2,-194814,unprotected well,41,45,male,0,dirt,natural,0,0.000000,2
+01000010,2014,Lumen,Region 3,-109919,public tap,64,37,male,0,dirt,natural,2,0.666667,3
+01000011,2014,Lumen,Region 4,-16391,piped on premises,996,42,male,1,cement,finished,2,0.250000,4
+01000012,2014,Lumen,Region 1,194901,piped on premises,996,35,male,1,cement,finished,3,0.000000,1
+01000013,2014,Lumen,Region 2,115812,unprotected well,22,28,male,1,cement,finished,4,0.000000,2
+01000014,2014,Lumen,Region 3,-33231,unprotected well,48,48,male,0,dirt,finished,2,0.000000,3
+01000015,2014,Lumen,Region 4,177707,piped on premises,996,61,male,1,cement,finished,5,0.000000,4
+01000016,2014,Lumen,Region 1,-107244,unprotected well,34,58,male,0,dirt,natural,1,1.000000,1
+01000017,2014,Lumen,Region 2,92403,protected well,30,42,male,1,cement,finished,1,0.000000,2
+01000018,2014,Lumen,Region 3,-142869,public tap,22,53,male,0,dirt,natural,2,0.333333,3
+01000019,2014,Lumen,Region 4,-94967,protected well,60,46,female,0,dirt,natural,1,0.500000,4
+01000020,2014,Lumen,Region 1,-36682,public tap,39,39,male,0,dirt,finished,2,1.000000,1
+01000021,2014,Lumen,Region 2,65687,piped on premises,996,27,male,1,cement,finished,2,0.500000,2
+01000022,2014,Lumen,Region 3,-17427,piped on premises,996,43,male,0,cement,finished,3,0.333333,3
+01000023,2014,Lumen,Region 4,82868,protected well,24,48,male,1,cement,finished,3,0.250000,4
+01000024,2014,Lumen,Region 1,-146433,public tap,47,42,male,0,dirt,natural,2,1.000000,1
+01000025,2014,Lumen,Region 2,94814,public tap,47,51,male,1,cement,finished,2,0.000000,2
+01000026,2014,Lumen,Region 3,50781,protected well,34,40,male,1,cement,finished,3,0.000000,3
+01000027,2014,Lumen,Region 4,1159,"river, dam, lake, pond, stream, canal or irrigation channel",43,44,male,1,cement,finished,2,0.250000,4
+01000028,2014,Lumen,Region 1,12459,protected well,29,70,male,1,cement,finished,2,1.000000,1
+01000029,2014,Lumen,Region 2,114072,public tap,22,65,male,1,cement,finished,4,0.000000,2
+01000030,2014,Lumen,Region 3,31651,public tap,22,52,female,1,cement,finished,2,0.000000,3
+01000031,2014,Lumen,Region 4,-145997,protected well,25,48,male,0,dirt,natural,4,0.500000,4
+01000032,2014,Lumen,Region 1,164696,protected well,15,24,male,1,cement,finished,2,0.000000,1
+01000033,2014,Lumen,Region 2,-6272,public tap,27,38,female,1,cement,finished,3,0.500000,2
+01000034,2014,Lumen,Region 3,-302092,"river, dam, lake, pond, stream, canal or irrigation channel",63,38,male,0,dirt,natural,1,1.000000,3
+01000035,2014,Lumen,Region 4,89969,"river, dam, lake, pond, stream, canal or irrigation channel",25,43,male,1,cement,finished,2,0.500000,4
+01000036,2014,Lumen,Region 1,119722,piped on premises,996,30,male,1,cement,finished,1,0.000000,1
+01000037,2014,Lumen,Region 2,-28236,unprotected well,47,24,male,0,cement,finished,2,0.000000,2
+01000038,2014,Lumen,Region 3,-38884,"river, dam, lake, pond, stream, canal or irrigation channel",28,40,male,0,dirt,finished,1,0.666667,3
+01000039,2014,Lumen,Region 4,-133056,"river, dam, lake, pond, stream, canal or irrigation channel",19,45,female,0,dirt,natural,1,0.500000,4
+01000040,2014,Lumen,Region 1,15369,public tap,24,30,male,1,cement,finished,2,0.000000,1
+01000041,2014,Lumen,Region 2,-89639,piped on premises,998,25,male,0,dirt,natural,3,0.500000,2
+01000042,2014,Lumen,Region 3,-118940,public tap,18,79,male,0,dirt,natural,4,0.333333,3
+01000043,2014,Lumen,Region 4,42898,piped on premises,996,42,male,1,cement,finished,3,0.000000,4
+01000044,2014,Lumen,Region 1,-9737,piped on premises,996,69,male,1,cement,finished,2,0.000000,1
+01000045,2014,Lumen,Region 2,-31584,public tap,29,47,male,0,dirt,finished,2,0.000000,2
+01000046,2014,Lumen,Region 3,-86991,piped on premises,996,33,female,0,dirt,natural,2,0.666667,3
+01000047,2014,Lumen,Region 4,70603,piped on premises,996,56,male,1,cement,finished,0,0.000000,4
+01000048,2014,Lumen,Region 1,39496,public tap,49,20,male,1,cement,finished,2,0.000000,1
+01000049,2014,Lumen,Region 2,2238,protected well,47,57,male,1,cement,finished,4,0.500000,2
+01000050,2014,Lumen,Region 3,8631,protected well,24,48,male,1,cement,finished,2,0.333333,3
+01000051,2014,Lumen,Region 4,-80754,"river, dam, lake, pond, stream, canal or irrigation channel",37,50,male,0,dirt,natural,3,0.500000,4
+01000052,2014,Lumen,Region 1,-74121,public tap,43,65,male,0,dirt,natural,1,0.000000,1
+01000053,2014,Lumen,Region 2,54951,public tap,38,56,male,1,cement,finished,2,0.000000,2
+01000054,2014,Lumen,Region 3,-68614,protected well,37,58,male,0,dirt,natural,2,0.666667,3
+01000055,2014,Lumen,Region 4,110145,unprotected well,39,46,male,1,cement,finished,3,0.500000,4
+01000056,2014,Lumen,Region 1,-8794,protected well,39,52,male,1,cement,finished,2,0.000000,1
+01000057,2014,Lumen,Region 2,-112679,protected well,17,29,male,0,dirt,natural,1,1.000000,2
+01000058,2014,Lumen,Region 3,-119938,public tap,46,29,male,0,dirt,natural,1,0.666667,3
+01000059,2014,Lumen,Region 4,55346,public tap,32,34,male,1,cement,finished,4,0.250000,4
+01000060,2014,Lumen,Region 1,-162312,public tap,18,59,female,0,dirt,natural,2,1.000000,1
+01000061,2014,Lumen,Region 2,-40445,protected well,16,40,male,0,dirt,finished,3,0.500000,2
+01000062,2014,Lumen,Region 3,-24037,"river, dam, lake, pond, stream, canal or irrigation channel",29,44,male,1,cement,finished,2,1.000000,3
+01000063,2014,Lumen,Region 4,176514,public tap,33,30,male,1,cement,finished,2,0.000000,4
+01000064,2014,Lumen,Region 1,-87934,public tap,37,69,female,0,dirt,natural,2,0.000000,1
+01000065,2014,Lumen,Region 2,-20497,unprotected well,28,26,male,0,cement,finished,0,0.500000,2
+01000066,2014,Lumen,Region 3,-50426,"river, dam, lake, pond, stream, canal or irrigation channel",44,25,female,1,dirt,natural,2,0.666667,3
+01000067,2014,Lumen,Region 4,-149602,public tap,,34,male,0,dirt,natural,1,0.750000,4
+01000068,2014,Lumen,Region 1,-197649,unprotected well,50,61,male,0,dirt,natural,1,1.000000,1
+01000069,2014,Lumen,Region 2,-115138,"river, dam, lake, pond, stream, canal or irrigation channel",55,49,female,0,dirt,natural,2,0.500000,2
+01000070,2014,Lumen,Region 3,114205,protected well,28,67,male,1,cement,finished,2,0.000000,3
+01000071,2014,Lumen,Region 4,-79221,protected well,55,49,male,0,dirt,natural,1,0.500000,4
+01000072,2014,Lumen,Region 1,-19821,unprotected well,25,39,male,1,cement,finished,2,1.000000,1
+01000073,2014,Lumen,Region 2,-117848,public tap,23,20,female,0,dirt,natural,3,1.000000,2
+01000074,2014,Lumen,Region 3,-55644,unprotected well,47,39,male,0,dirt,natural,3,0.000000,3
+01000075,2014,Lumen,Region 4,10544,unprotected well,23,56,female,0,cement,finished,3,0.500000,4
+01000076,2014,Lumen,Region 1,55524,piped on premises,996,55,female,1,cement,finished,3,0.000000,1
+01000077,2014,Lumen,Region 2,-108842,protected well,7,42,male,0,dirt,natural,4,0.500000,2
+01000078,2014,Lumen,Region 3,92805,public tap,37,47,male,1,cement,finished,2,0.000000,3
+01000079,2014,Lumen,Region 4,-116331,protected well,49,55,male,0,dirt,natural,2,0.500000,4
+01000080,2014,Lumen,Region 1,71750,piped on premises,996,24,male,1,cement,finished,2,1.000000,1
+01000081,2014,Lumen,Region 2,74819,protected well,33,53,male,1,cement,finished,2,0.000000,2
+01000082,2014,Lumen,Region 3,-5413,public tap,998,35,male,0,cement,finished,3,1.000000,3
+01000083,2014,Lumen,Region 4,81728,public tap,1,55,male,1,cement,finished,1,0.000000,4
+01000084,2014,Lumen,Region 1,-161833,unprotected well,25,43,male,0,dirt,natural,2,0.000000,1
+01000085,2014,Lumen,Region 2,-63072,public tap,51,38,male,0,dirt,natural,3,0.000000,2
+01000086,2014,Lumen,Region 3,3401,"river, dam, lake, pond, stream, canal or irrigation channel",32,47,female,1,cement,finished,3,0.333333,3
+01000087,2014,Lumen,Region 4,-237733,protected well,32,66,male,0,dirt,natural,2,0.750000,4
+01000088,2014,Lumen,Region 1,76026,protected well,16,68,male,1,cement,finished,1,1.000000,1
+01000089,2014,Lumen,Region 2,13833,public tap,34,98,female,1,cement,finished,0,0.000000,2
+01000090,2014,Lumen,Region 3,-70219,"river, dam, lake, pond, stream, canal or irrigation channel",25,45,male,0,dirt,natural,3,0.333333,3
+01000091,2014,Lumen,Region 4,194193,public tap,26,50,male,1,cement,finished,4,0.000000,4
+01000092,2014,Lumen,Region 1,-127334,unprotected well,53,64,female,0,dirt,natural,3,1.000000,1
+01000093,2014,Lumen,Region 2,63064,"river, dam, lake, pond, stream, canal or irrigation channel",23,35,male,1,cement,finished,2,0.500000,2
+01000094,2014,Lumen,Region 3,29101,piped on premises,996,28,male,1,cement,finished,3,0.000000,3
+01000095,2014,Lumen,Region 4,-136098,"river, dam, lake, pond, stream, canal or irrigation channel",41,25,male,0,dirt,natural,2,0.500000,4
+01000096,2014,Lumen,Region 1,68212,piped on premises,996,27,male,1,cement,finished,3,1.000000,1
+01000097,2014,Lumen,Region 2,23263,unprotected well,23,48,male,1,cement,finished,2,0.500000,2
+01000098,2014,Lumen,Region 3,-108036,public tap,25,79,male,0,dirt,natural,2,0.333333,3
+01000099,2014,Lumen,Region 4,-91660,"river, dam, lake, pond, stream, canal or irrigation channel",39,56,male,0,dirt,natural,2,0.250000,4
+01000100,2014,Lumen,Region 1,53657,piped on premises,996,56,male,1,cement,finished,3,0.000000,1
+01000101,2014,Lumen,Region 2,-69717,protected well,19,49,male,0,dirt,natural,1,0.000000,2
+01000102,2014,Lumen,Region 3,-27068,unprotected well,39,49,male,1,cement,finished,0,0.333333,3
+01000103,2014,Lumen,Region 4,65384,piped on premises,996,73,male,0,cement,finished,3,0.250000,4
+01000104,2014,Lumen,Region 1,38339,piped on premises,996,53,male,1,cement,finished,2,0.000000,1
+01000105,2014,Lumen,Region 2,145,piped on premises,996,60,male,0,cement,finished,3,1.000000,2
+01000106,2014,Lumen,Region 3,-195306,"river, dam, lake, pond, stream, canal or irrigation channel",36,55,male,0,dirt,natural,3,0.666667,3
+01000107,2014,Lumen,Region 4,-606,"river, dam, lake, pond, stream, canal or irrigation channel",35,66,male,1,cement,finished,1,1.000000,4
+01000108,2014,Lumen,Region 1,-62636,"river, dam, lake, pond, stream, canal or irrigation channel",27,62,male,0,dirt,natural,0,1.000000,1
+01000109,2014,Lumen,Region 2,-61568,"river, dam, lake, pond, stream, canal or irrigation channel",15,45,male,0,dirt,natural,2,0.500000,2
+01000110,2014,Lumen,Region 3,-142922,"river, dam, lake, pond, stream, canal or irrigation channel",34,50,male,0,dirt,natural,1,0.333333,3
+01000111,2014,Lumen,Region 4,-22028,protected well,20,48,male,0,cement,finished,2,0.000000,4
+01000112,2014,Lumen,Region 1,79134,protected well,31,57,male,1,cement,finished,3,0.000000,1
+01000113,2014,Lumen,Region 2,-129876,"river, dam, lake, pond, stream, canal or irrigation channel",25,42,male,0,dirty,natural,3,0.000000,2
+01000114,2014,Lumen,Region 3,-54568,"river, dam, lake, pond, stream, canal or irrigation channel",40,43,male,1,dirt,natural,4,0.666667,3
+01000115,2014,Lumen,Region 4,-86529,piped on premises,996,68,male,0,dirt,natural,1,0.500000,4
+01000116,2014,Lumen,Region 1,-179102,protected well,21,59,male,0,dirt,natural,1,1.000000,1
+01000117,2014,Lumen,Region 2,-31485,unprotected well,51,32,male,0,dirt,finished,2,0.000000,2
+01000118,2014,Lumen,Region 3,-28945,"river, dam, lake, pond, stream, canal or irrigation channel",39,78,male,0,cement,finished,2,0.333333,3
+01000119,2014,Lumen,Region 4,-138556,protected well,9,44,male,0,dirt,natural,3,0.500000,4
+01000120,2014,Lumen,Region 1,50700,piped on premises,996,37,male,0,cement,finished,3,0.000000,1
+01000121,2014,Lumen,Region 2,9987,protected well,18,55,male,0,cement,finished,2,0.500000,2
+01000122,2014,Lumen,Region 3,-180186,protected well,47,52,male,0,dirt,natural,4,0.333333,3
+01000123,2014,Lumen,Region 4,-89350,protected well,998,52,male,0,dirt,natural,3,0.750000,4
+01000124,2014,Lumen,Region 1,-13012,piped on premises,996,52,male,1,cement,finished,3,1.000000,1
+01000125,2014,Lumen,Region 2,-25056,public tap,30,74,male,0,cement,finished,2,0.500000,2
+01000126,2014,Lumen,Region 3,-36110,protected well,4,64,male,0,dirt,finished,3,0.000000,3
+01000127,2014,Lumen,Region 4,51331,"river, dam, lake, pond, stream, canal or irrigation channel",18,53,male,1,cement,finished,3,0.250000,4
+01000128,2014,Lumen,Region 1,41671,piped on premises,996,47,male,0,cement,finished,3,0.000000,1
+01000129,2014,Lumen,Region 2,48042,protected well,23,28,male,1,cement,finished,2,0.000000,2
+01000130,2014,Lumen,Region 3,19722,"river, dam, lake, pond, stream, canal or irrigation channel",29,59,male,1,cement,finished,1,0.333333,3
+01000131,2014,Lumen,Region 4,-56795,public tap,29,7,male,0,dirt,natural,2,0.500000,4
+01000132,2014,Lumen,Region 1,4146,protected well,21,46,male,1,cement,finished,2,0.000000,1
+01000133,2014,Lumen,Region 2,-143801,public tap,27,50,male,0,dirt,natural,1,0.500000,2
+01000134,2014,Lumen,Region 3,-139977,public tap,,36,male,0,dirt,natural,2,0.666667,3
+01000135,2014,Lumen,Region 4,-12280,piped on premises,996,40,male,0,cement,finished,1,0.250000,4
+01000136,2014,Lumen,Region 1,-106440,protected well,44,37,male,0,dirt,natural,2,0.000000,1
+01000137,2014,Lumen,Region 2,173891,public tap,12,59,male,1,cement,finished,3,0.000000,2
+01000138,2014,Lumen,Region 3,-124004,protected well,60,40,female,0,dirt,natural,2,0.666667,3
+01000139,2014,Lumen,Region 4,-200848,"river, dam, lake, pond, stream, canal or irrigation channel",31,60,male,0,dirt,natural,2,0.500000,4
+01000140,2014,Lumen,Region 1,-94188,"river, dam, lake, pond, stream, canal or irrigation channel",44,31,male,0,dirt,natural,2,0.000000,1
+01000141,2014,Lumen,Region 2,-144948,unprotected well,7,48,male,0,dirt,natural,3,0.000000,2
+01000142,2014,Lumen,Region 3,30270,protected well,24,49,female,1,cement,finished,2,0.333333,3
+01000143,2014,Lumen,Region 4,-79987,unprotected well,58,46,male,0,dirt,natural,2,0.750000,4
+01000144,2014,Lumen,Region 1,-52707,public tap,12,34,male,0,dirt,natural,3,1.000000,1
+01000145,2014,Lumen,Region 2,-1952,piped on premises,996,47,male,1,cement,finished,2,0.000000,2
+01000146,2014,Lumen,Region 3,-20348,public tap,16,35,male,1,cement,finished,1,0.000000,3
+01000147,2014,Lumen,Region 4,13193,protected well,17,48,male,0,cement,finished,4,0.250000,4
+01000148,2014,Lumen,Region 1,-208005,"river, dam, lake, pond, stream, canal or irrigation channel",38,32,male,0,dirt,natural,2,1.000000,1
+01000149,2014,Lumen,Region 2,59431,protected well,17,58,male,1,cement,finished,3,0.000000,2
+01000150,2014,Lumen,Region 3,-66265,public tap,35,43,male,1,dirt,natural,2,0.666667,3
+01000151,2014,Lumen,Region 4,-62496,"river, dam, lake, pond, stream, canal or irrigation channel",33,23,male,0,dirt,natural,2,0.250000,4
+01000152,2014,Lumen,Region 1,-39326,protected well,46,40,male,1,dirt,finished,1,0.000000,1
+01000153,2014,Lumen,Region 2,108171,unprotected well,25,36,male,1,cement,finished,3,0.000000,2
+01000154,2014,Lumen,Region 3,-28583,unprotected well,50,38,male,0,cement,finished,5,0.333333,3
+01000155,2014,Lumen,Region 4,-34252,protected well,43,54,male,0,dirt,finished,3,0.250000,4
+01000156,2014,Lumen,Region 1,103387,piped on premises,996,49,male,1,cement,finished,1,0.000000,1
+01000157,2014,Lumen,Region 2,-102835,"river, dam, lake, pond, stream, canal or irrigation channel",50,60,female,0,dirt,natural,-99,0.000000,2
+01000158,2014,Lumen,Region 3,57665,protected well,31,27,male,1,cement,finished,3,0.000000,3
+01000159,2014,Lumen,Region 4,105399,piped on premises,996,48,male,1,cement,finished,2,0.250000,4
+01000160,2014,Lumen,Region 1,-196488,unprotected well,34,45,male,0,dirt,natural,2,1.000000,1
+01000161,2014,Lumen,Region 2,-6709,unprotected well,31,64,male,0,cement,finished,0,0.500000,2
+01000162,2014,Lumen,Region 3,67774,piped on premises,996,52,male,0,cement,finished,3,0.000000,3
+01000163,2014,Lumen,Region 4,-66211,public tap,31,73,male,0,dirt,natural,2,0.000000,4
+01000164,2014,Lumen,Region 1,-58089,"river, dam, lake, pond, stream, canal or irrigation channel",998,35,male,0,dirt,natural,2,0.000000,1
+01000165,2014,Lumen,Region 2,27905,public tap,40,52,male,1,cement,finished,2,0.000000,2
+01000166,2014,Lumen,Region 3,92650,protected well,31,63,male,1,cement,finished,3,0.000000,3
+01000167,2014,Lumen,Region 4,-119082,"river, dam, lake, pond, stream, canal or irrigation channel",37,46,female,0,dirt,natural,1,0.500000,4
+01000168,2014,Lumen,Region 1,-29562,piped on premises,996,58,male,0,cement,finished,2,0.000000,1
+01000169,2014,Lumen,Region 2,56493,piped on premises,996,65,male,1,cement,finished,1,0.500000,2
+01000170,2014,Lumen,Region 3,52354,"river, dam, lake, pond, stream, canal or irrigation channel",21,49,female,0,cement,finished,3,0.333333,3
+01000171,2014,Lumen,Region 4,168182,unprotected well,27,23,male,1,cement,finished,1,0.000000,4
+01000172,2014,Lumen,Region 1,-3494,"river, dam, lake, pond, stream, canal or irrigation channel",19,46,male,1,cement,finished,0,1.000000,1
+01000173,2014,Lumen,Region 2,-81748,public tap,37,30,male,0,dirt,natural,3,1.000000,2
+01000174,2014,Lumen,Region 3,19424,unprotected well,36,30,male,1,cement,finished,2,0.333333,3
+01000175,2014,Lumen,Region 4,-78380,public tap,29,81,male,0,dirt,natural,2,0.750000,4
+01000176,2014,Lumen,Region 1,73247,public tap,28,56,male,1,cement,finished,3,1.000000,1
+01000177,2014,Lumen,Region 2,214039,piped on premises,996,86,female,1,cement,finished,2,0.000000,2
+01000178,2014,Lumen,Region 3,84104,unprotected well,41,98,male,1,cement,finished,2,0.333333,3
+01000179,2014,Lumen,Region 4,12224,protected well,22,51,male,0,cement,finished,2,0.250000,4
+01000180,2014,Lumen,Region 1,-217087,"river, dam, lake, pond, stream, canal or irrigation channel",36,32,female,0,dirt,natural,2,1.000000,1
+01000181,2014,Lumen,Region 2,-90739,"river, dam, lake, pond, stream, canal or irrigation channel",24,50,male,0,dirt,natural,2,0.500000,2
+01000182,2014,Lumen,Region 3,-24174,unprotected well,33,60,female,0,cement,finished,2,0.000000,3
+01000183,2014,Lumen,Region 4,44021,unprotected well,35,44,male,1,cement,finished,3,0.250000,4
+01000184,2014,Lumen,Region 1,-91969,"river, dam, lake, pond, stream, canal or irrigation channel",36,27,male,0,dirt,natural,1,1.000000,1
+01000185,2014,Lumen,Region 2,-104624,"river, dam, lake, pond, stream, canal or irrigation channel",41,42,male,0,dirt,natural,2,0.500000,2
+01000186,2014,Lumen,Region 3,-168793,"river, dam, lake, pond, stream, canal or irrigation channel",23,44,male,0,dirt,natural,4,0.333333,3
+01000187,2014,Lumen,Region 4,-209864,"river, dam, lake, pond, stream, canal or irrigation channel",36,58,female,0,dirt,natural,4,1.000000,4
+01000188,2014,Lumen,Region 1,-10042,public tap,42,51,male,1,cement,finished,1,1.000000,1
+01000189,2014,Lumen,Region 2,-54105,"river, dam, lake, pond, stream, canal or irrigation channel",41,26,male,0,dirt,natural,1,0.000000,2
+01000190,2014,Lumen,Region 3,-24856,protected well,19,24,female,0,cement,finished,3,1.000000,3
+01000191,2014,Lumen,Region 4,-10695,piped on premises,996,51,female,1,cement,finished,1,0.250000,4
+01000192,2014,Lumen,Region 1,-36932,protected well,53,46,male,0,dirt,finished,2,0.000000,1
+01000193,2014,Lumen,Region 2,-77727,piped on premises,996,73,male,0,dirt,natural,1,0.500000,2
+01000194,2014,Lumen,Region 3,-2233,"river, dam, lake, pond, stream, canal or irrigation channel",40,44,male,1,cement,finished,4,0.333333,3
+01000195,2014,Lumen,Region 4,-170076,"river, dam, lake, pond, stream, canal or irrigation channel",18,43,male,0,dirt,natural,2,0.500000,4
+01000196,2014,Lumen,Region 1,-17505,unprotected well,32,30,male,0,cement,finished,2,0.000000,1
+01000197,2014,Lumen,Region 2,-99208,"river, dam, lake, pond, stream, canal or irrigation channel",32,64,male,0,dirt,natural,2,0.000000,2
+01000198,2014,Lumen,Region 3,20491,unprotected well,47,54,male,1,cement,finished,1,0.666667,3
+01000199,2014,Lumen,Region 4,-95832,"river, dam, lake, pond, stream, canal or irrigation channel",27,56,male,0,dirt,natural,2,0.500000,4
+01000200,2014,Lumen,Region 1,-88516,"river, dam, lake, pond, stream, canal or irrigation channel",23,62,male,0,dirt,natural,3,1.000000,1
+01000201,2014,Lumen,Region 2,-67039,"river, dam, lake, pond, stream, canal or irrigation channel",,48,male,0,dirt,natural,1,0.000000,2
+01000202,2014,Lumen,Region 3,4150,unprotected well,32,59,male,0,cement,finished,3,0.333333,3
+01000203,2014,Lumen,Region 4,-2771,"river, dam, lake, pond, stream, canal or irrigation channel",14,39,male,1,cement,finished,2,0.500000,4
+01000204,2014,Lumen,Region 1,27456,public tap,23,41,female,1,cement,finished,1,0.000000,1
+01000205,2014,Lumen,Region 2,-73484,"river, dam, lake, pond, stream, canal or irrigation channel",998,52,male,0,dirt,natural,2,0.500000,2
+01000206,2014,Lumen,Region 3,48533,"river, dam, lake, pond, stream, canal or irrigation channel",13,60,male,1,cement,finished,2,0.333333,3
+01000207,2014,Lumen,Region 4,-183914,public tap,21,25,male,0,dirt,natural,3,0.750000,4
+01000208,2014,Lumen,Region 1,-109149,protected well,38,55,female,0,dirt,natural,2,1.000000,1
+01000209,2014,Lumen,Region 2,28024,protected well,36,35,male,0,cement,finished,3,0.000000,2
+01000210,2014,Lumen,Region 3,-17782,protected well,17,57,male,1,cement,finished,2,0.000000,3
+01000211,2014,Lumen,Region 4,-53242,piped on premises,996,59,male,0,dirt,natural,3,0.500000,4
+01000212,2014,Lumen,Region 1,-86133,public tap,46,59,female,0,dirt,natural,2,0.000000,1
+01000213,2014,Lumen,Region 2,116727,protected well,11,55,male,1,cement,finished,1,0.000000,2
+01000214,2014,Lumen,Region 3,-92175,public tap,53,23,male,0,dirt,natural,2,0.333333,3
+01000215,2014,Lumen,Region 4,-161130,"river, dam, lake, pond, stream, canal or irrigation channel",43,41,male,0,dirt,natural,2,1.000000,4
+01000216,2014,Lumen,Region 1,-304915,"river, dam, lake, pond, stream, canal or irrigation channel",60,63,male,0,dirt,natural,1,1.000000,1
+01000217,2014,Lumen,Region 2,27310,protected well,17,33,male,0,cement,finished,2,0.000000,2
+01000218,2014,Lumen,Region 3,59353,unprotected well,22,32,male,1,cement,finished,4,0.000000,3
+01000219,2014,Lumen,Region 4,86612,unprotected well,27,18,male,1,cement,finished,3,0.000000,4
+01000220,2014,Lumen,Region 1,-128415,protected well,29,37,female,0,dirt,natural,2,0.000000,1
+01000221,2014,Lumen,Region 2,94025,unprotected well,45,40,male,1,cement,finished,4,0.500000,2
+01000222,2014,Lumen,Region 3,116031,piped on premises,996,61,male,1,cement,finished,3,0.000000,3
+01000223,2014,Lumen,Region 4,52094,protected well,7,56,male,1,cement,finished,1,0.250000,4
+01000224,2014,Lumen,Region 1,51003,public tap,11,39,male,1,cement,finished,1,1.000000,1
+01000225,2014,Lumen,Region 2,72703,piped on premises,996,46,male,1,cement,finished,1,0.500000,2
+01000226,2014,Lumen,Region 3,-71522,public tap,52,62,male,0,dirty,natural,2,0.000000,3
+01000227,2014,Lumen,Region 4,-175282,"river, dam, lake, pond, stream, canal or irrigation channel",55,59,male,0,dirt,natural,2,0.750000,4
+01000228,2014,Lumen,Region 1,29803,unprotected well,21,62,female,0,cement,finished,3,1.000000,1
+01000229,2014,Lumen,Region 2,76245,protected well,18,30,male,1,cement,finished,2,0.000000,2
+01000230,2014,Lumen,Region 3,-39258,protected well,20,48,female,0,dirt,finished,2,0.000000,3
+01000231,2014,Lumen,Region 4,-66942,protected well,18,18,male,0,dirt,natural,1,0.250000,4
+01000232,2014,Lumen,Region 1,83549,unprotected well,24,58,female,1,cement,finished,2,0.000000,1
+01000233,2014,Lumen,Region 2,-11327,"river, dam, lake, pond, stream, canal or irrigation channel",43,63,male,1,cement,finished,3,1.000000,2
+01000234,2014,Lumen,Region 3,-36413,public tap,37,47,male,0,dirt,finished,3,0.333333,3
+01000235,2014,Lumen,Region 4,-31267,unprotected well,47,30,male,1,dirt,finished,3,0.750000,4
+01000236,2014,Lumen,Region 1,-121524,unprotected well,20,60,male,0,dirt,natural,2,1.000000,1
+01000237,2014,Lumen,Region 2,45476,piped on premises,996,61,male,0,cement,finished,1,0.000000,2
+01000238,2014,Lumen,Region 3,-57040,"river, dam, lake, pond, stream, canal or irrigation channel",58,42,male,0,dirt,natural,3,0.666667,3
+01000239,2014,Lumen,Region 4,36686,piped on premises,996,72,male,1,cement,finished,2,0.250000,4
+01000240,2014,Lumen,Region 1,64844,piped on premises,996,31,male,1,cement,finished,2,0.000000,1
+01000241,2014,Lumen,Region 2,90781,unprotected well,30,28,female,1,cement,finished,2,0.500000,2
+01000242,2014,Lumen,Region 3,-55388,protected well,37,51,female,0,dirt,natural,3,0.333333,3
+01000243,2014,Lumen,Region 4,8213,"river, dam, lake, pond, stream, canal or irrigation channel",46,47,male,0,cement,finished,4,0.000000,4
+01000244,2014,Lumen,Region 1,27543,protected well,32,44,male,1,cement,finished,1,1.000000,1
+01000245,2014,Lumen,Region 2,-57303,piped on premises,996,38,male,0,dirt,natural,1,1.000000,2
+01000246,2014,Lumen,Region 3,-118456,"river, dam, lake, pond, stream, canal or irrigation channel",998,47,male,0,dirt,natural,3,0.333333,3
+01000247,2014,Lumen,Region 4,125607,piped on premises,996,69,male,1,cement,finished,2,0.000000,4
+01000248,2014,Lumen,Region 1,11124,unprotected well,15,52,male,0,cement,finished,4,0.000000,1
+01000249,2014,Lumen,Region 2,-79797,unprotected well,4,46,male,0,dirt,natural,2,0.000000,2
+01000250,2014,Lumen,Region 3,-23467,public tap,36,55,male,0,cement,finished,3,0.000000,3
+01000251,2014,Lumen,Region 4,-1380,protected well,26,42,male,1,cement,finished,1,0.000000,4
+01000252,2014,Lumen,Region 1,53813,piped on premises,996,28,male,1,cement,finished,3,0.000000,1
+01000253,2014,Lumen,Region 2,-58066,public tap,29,57,female,0,dirt,natural,0,1.000000,2
+01000254,2014,Lumen,Region 3,-215387,public tap,45,45,female,0,dirt,natural,2,0.000000,3
+01000255,2014,Lumen,Region 4,37911,"river, dam, lake, pond, stream, canal or irrigation channel",26,38,male,1,cement,finished,1,0.000000,4
+01000256,2014,Lumen,Region 1,-119827,public tap,33,51,male,0,dirt,natural,0,1.000000,1
+01000257,2014,Lumen,Region 2,56225,protected well,18,42,male,0,cement,finished,2,0.000000,2
+01000258,2014,Lumen,Region 3,-41355,"river, dam, lake, pond, stream, canal or irrigation channel",51,47,male,0,dirt,finished,2,0.000000,3
+01000259,2014,Lumen,Region 4,57597,piped on premises,996,65,male,1,cement,finished,2,0.250000,4
+01000260,2014,Lumen,Region 1,-31790,protected well,21,53,male,0,dirt,finished,3,0.000000,1
+01000261,2014,Lumen,Region 2,22912,"river, dam, lake, pond, stream, canal or irrigation channel",29,40,male,1,cement,finished,0,0.000000,2
+01000262,2014,Lumen,Region 3,-70259,protected well,48,7,male,0,dirt,natural,3,0.333333,3
+01000263,2014,Lumen,Region 4,-168397,"river, dam, lake, pond, stream, canal or irrigation channel",35,47,male,0,dirt,natural,1,0.250000,4
+01000264,2014,Lumen,Region 1,151965,unprotected well,1,44,male,1,cement,finished,2,0.000000,1
+01000265,2014,Lumen,Region 2,-40723,protected well,45,54,male,1,dirt,finished,2,0.500000,2
+01000266,2014,Lumen,Region 3,-150519,"river, dam, lake, pond, stream, canal or irrigation channel",59,50,male,0,dirt,natural,3,0.666667,3
+01000267,2014,Lumen,Region 4,-50165,protected well,24,98,male,0,dirt,natural,1,0.000000,4
+01000268,2014,Lumen,Region 1,21440,piped on premises,996,33,male,1,cement,finished,1,1.000000,1
+01000269,2014,Lumen,Region 2,20134,protected well,64,35,female,1,cement,finished,3,0.500000,2
+01000270,2014,Lumen,Region 3,14605,public tap,8,29,male,0,cement,finished,1,0.666667,3
+01000271,2014,Lumen,Region 4,-155372,unprotected well,42,40,male,0,dirt,natural,1,0.500000,4
+01000272,2014,Lumen,Region 1,-85045,"river, dam, lake, pond, stream, canal or irrigation channel",5,30,female,0,dirt,natural,0,0.000000,1
+01000273,2014,Lumen,Region 2,135536,public tap,41,32,male,1,cement,finished,2,0.000000,2
+01000274,2014,Lumen,Region 3,-146134,public tap,27,81,female,0,dirt,natural,2,0.666667,3
+01000275,2014,Lumen,Region 4,-145490,public tap,31,32,female,0,dirt,natural,2,0.000000,4
+01000276,2014,Lumen,Region 1,35715,protected well,10,45,male,1,cement,finished,2,0.000000,1
+01000277,2014,Lumen,Region 2,-101893,"river, dam, lake, pond, stream, canal or irrigation channel",66,45,male,0,dirt,natural,2,0.500000,2
+01000278,2014,Lumen,Region 3,-185115,"river, dam, lake, pond, stream, canal or irrigation channel",59,50,female,0,dirt,natural,2,1.000000,3
+01000279,2014,Lumen,Region 4,-14655,protected well,34,53,female,1,cement,finished,3,0.500000,4
+01000280,2014,Lumen,Region 1,49396,"river, dam, lake, pond, stream, canal or irrigation channel",16,61,female,1,cement,finished,3,0.000000,1
+01000281,2014,Lumen,Region 2,-112034,"river, dam, lake, pond, stream, canal or irrigation channel",30,55,male,0,dirt,natural,3,0.000000,2
+01000282,2014,Lumen,Region 3,-4737,"river, dam, lake, pond, stream, canal or irrigation channel",42,56,male,1,cement,finished,4,0.333333,3
+01000283,2014,Lumen,Region 4,-50786,"river, dam, lake, pond, stream, canal or irrigation channel",51,44,female,0,dirt,natural,3,0.750000,4
+01000284,2014,Lumen,Region 1,-53883,public tap,36,53,male,0,dirt,natural,2,0.000000,1
+01000285,2014,Lumen,Region 2,-70714,protected well,50,34,male,0,dirt,natural,3,0.000000,2
+01000286,2014,Lumen,Region 3,-22614,public tap,27,70,male,1,cement,finished,2,0.000000,3
+01000287,2014,Lumen,Region 4,-147665,protected well,998,21,male,0,dirt,natural,1,0.750000,4
+01000288,2014,Lumen,Region 1,99385,protected well,29,51,female,1,cement,finished,2,0.000000,1
+01000289,2014,Lumen,Region 2,-49980,"river, dam, lake, pond, stream, canal or irrigation channel",19,38,male,1,dirt,natural,1,0.000000,2
+01000290,2014,Lumen,Region 3,-126035,public tap,35,39,male,0,dirt,natural,2,0.666667,3
+01000291,2014,Lumen,Region 4,89258,piped on premises,996,60,male,0,cement,finished,3,0.000000,4
+01000292,2014,Lumen,Region 1,-49366,protected well,69,51,male,0,dirt,natural,3,1.000000,1
+01000293,2014,Lumen,Region 2,-131693,protected well,28,42,female,0,dirt,natural,3,0.500000,2
+01000294,2014,Lumen,Region 3,11475,protected well,31,42,male,0,cement,finished,3,0.333333,3
+01000295,2014,Lumen,Region 4,84394,public tap,25,63,male,1,cement,finished,3,0.250000,4
+01000296,2014,Lumen,Region 1,23819,piped on premises,996,54,male,1,cement,finished,2,1.000000,1
+01000297,2014,Lumen,Region 2,-61984,protected well,29,41,male,0,dirt,natural,3,0.000000,2
+01000298,2014,Lumen,Region 3,-111902,"river, dam, lake, pond, stream, canal or irrigation channel",30,69,male,0,dirt,natural,3,0.333333,3
+01000299,2014,Lumen,Region 4,-87772,protected well,44,78,male,0,dirt,natural,3,0.250000,4
+01000300,2014,Lumen,Region 1,-181480,protected well,38,47,male,0,dirt,natural,3,1.000000,1
+01000301,2014,Lumen,Region 2,-29612,"river, dam, lake, pond, stream, canal or irrigation channel",45,29,male,1,cement,finished,3,0.000000,2
+01000302,2014,Lumen,Region 3,-80595,protected well,25,67,male,0,dirt,natural,3,0.666667,3
+01000303,2014,Lumen,Region 4,-134313,public tap,37,59,male,0,dirt,natural,1,0.250000,4
+01000304,2014,Lumen,Region 1,-98353,unprotected well,41,50,female,0,dirt,natural,3,1.000000,1
+01000305,2014,Lumen,Region 2,130878,protected well,46,58,male,1,cement,finished,3,0.000000,2
+01000306,2014,Lumen,Region 3,36953,protected well,9,43,male,1,cement,finished,5,0.333333,3
+01000307,2014,Lumen,Region 4,-156421,protected well,45,37,male,0,dirt,natural,0,0.500000,4
+01000308,2014,Lumen,Region 1,-1379,piped on premises,996,27,female,0,cement,finished,1,0.000000,1
+01000309,2014,Lumen,Region 2,-96842,public tap,29,49,male,0,dirt,natural,0,0.000000,2
+01000310,2014,Lumen,Region 3,-11203,"river, dam, lake, pond, stream, canal or irrigation channel",56,33,male,1,cement,finished,2,0.000000,3
+01000311,2014,Lumen,Region 4,-133275,"river, dam, lake, pond, stream, canal or irrigation channel",38,22,male,0,dirt,natural,4,0.250000,4
+01000312,2014,Lumen,Region 1,2268,protected well,38,44,male,1,cement,finished,2,0.000000,1
+01000313,2014,Lumen,Region 2,-155048,protected well,36,43,male,0,dirt,natural,4,0.000000,2
+01000314,2014,Lumen,Region 3,51281,unprotected well,25,46,female,1,cement,finished,-99,0.333333,3
+01000315,2014,Lumen,Region 4,-11537,unprotected well,20,35,male,0,cement,finished,2,0.500000,4
+01000316,2014,Lumen,Region 1,-39093,"river, dam, lake, pond, stream, canal or irrigation channel",38,43,male,0,dirt,finished,5,0.000000,1
+01000317,2014,Lumen,Region 2,-19413,protected well,23,38,male,0,cement,finished,1,0.500000,2
+01000318,2014,Lumen,Region 3,4442,piped on premises,996,58,male,1,cement,finished,3,0.000000,3
+01000319,2014,Lumen,Region 4,-197373,protected well,46,66,male,0,dirt,natural,2,0.750000,4

@@ -1,0 +1,62 @@
+{
+  "files": [
+    {
+      "file": "district_production.csv",
+      "rows": 25,
+      "sha256": "21266f875ed3c36df939c15636d6909646b311687cdd93eaa3acd7ccefa2ace8"
+    },
+    {
+      "file": "expected_outputs.json",
+      "rows": null,
+      "sha256": "e099016361346f080a133e80e8f86dafba8d29df8b12f59ae240f6d5ccb06bf0"
+    },
+    {
+      "file": "lumen_2014.csv",
+      "rows": 320,
+      "sha256": "cc82b9c6594b924ab4fa17ee9555984f4708512f63b0b935b4900556a7a3aacd"
+    },
+    {
+      "file": "lumen_2018_reference_rates.csv",
+      "rows": 308,
+      "sha256": "7786f12546b10f01129b9692b51b0eb8ad8ec645047bda3a58c5bd3d13196946"
+    },
+    {
+      "file": "lumen_2018_survey.csv",
+      "rows": 360,
+      "sha256": "dd247bb4139b402706b5681420f9ca53f5214a6c56af994b004463ffda51baad"
+    },
+    {
+      "file": "lumen_2018_test_results.csv",
+      "rows": 360,
+      "sha256": "0f0aa3375a2b47b6a3cb0518285abdcb3046954784ad253bc24492d0bad5dd79"
+    },
+    {
+      "file": "noria_2015.csv",
+      "rows": 300,
+      "sha256": "52f8584161ce698bec8e870997bddd6d0cd70f347b2512ad3bd915b1b3b1e395"
+    },
+    {
+      "file": "noria_2021.csv",
+      "rows": 340,
+      "sha256": "e1522aa425c8ef2654ed1eede1c42244656e16329ec2a9a6e234ae942eba5899"
+    },
+    {
+      "file": "survey_points.csv",
+      "rows": 80,
+      "sha256": "9f38abd0484657f1567f7dbfda9bc39ba0aa2061d54fb6406ce0fa0010b8b0f7"
+    },
+    {
+      "file": "synthetic_analysis_clean.csv",
+      "rows": 1268,
+      "sha256": "7cbccb54464bb767a16bbf12e5e39774c070c8595c0557f0c158e67851478b69"
+    },
+    {
+      "file": "training_districts.geojson",
+      "rows": null,
+      "sha256": "c5296d0b86fa9358d2233cb363ae58f0e20da1db604c802a8fcde4168e4411ed"
+    }
+  ],
+  "generator_seed": 20260827,
+  "schema_version": 1,
+  "synthetic_only": true
+}

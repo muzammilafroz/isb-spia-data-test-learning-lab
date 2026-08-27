@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+_build/
+dist/
+tmp/
+.pytest_cache/
+__pycache__/
+*.pyc
+.jupyter_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.coverage
+coverage.xml
+playwright-report/
+test-results/
+.DS_Store

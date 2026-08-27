@@ -1,0 +1,19 @@
+{
+  "clean_analysis_rows": 1268,
+  "district_count": 25,
+  "duplicated_coordinate_pairs": 6,
+  "duplicated_coordinate_rows": 12,
+  "first_valid_household_id": "04000001",
+  "first_valid_positive_rate": 0.5,
+  "inconclusive_test_results": 3,
+  "maximum_production": 24458,
+  "maximum_production_district_code": 25,
+  "poorwater_households": 419,
+  "poorwater_share": 0.330441640379,
+  "sampling_point_count": 80,
+  "schema_version": 1,
+  "test_slot_count": 23,
+  "tested_household_count": 360,
+  "valid_rate_households": 308,
+  "zero_denominator_households": 52
+}

@@ -1,0 +1,341 @@
+hhid,year,country,region,wealth_raw,water_source,water_minutes_raw,head_age_raw,head_sex,electricity,floor_material,wall_material,bednets_raw,positive_rate,sampled_member_count
+03000000,2021,Noria,Region 1,80200,public tap,998,98,male,1,dirty,finished,-99,0.000000,1
+03000001,2021,Noria,Region 2,228729,public tap,15,58,male,1,cement,finished,3,0.000000,2
+03000002,2021,Noria,Region 3,59892,piped on premises,996,66,male,1,cement,finished,2,0.333333,3
+03000003,2021,Noria,Region 4,162376,protected well,33,20,male,1,cement,finished,3,0.000000,4
+03000004,2021,Noria,Region 1,-22087,protected well,27,38,male,1,cement,finished,2,0.000000,1
+03000005,2021,Noria,Region 2,-82523,protected well,32,34,male,0,dirt,natural,1,0.500000,2
+03000006,2021,Noria,Region 3,-56197,protected well,18,29,male,0,dirt,natural,1,0.666667,3
+03000007,2021,Noria,Region 4,185322,public tap,35,43,male,1,cement,finished,3,0.750000,4
+03000008,2021,Noria,Region 1,141200,public tap,19,53,male,1,cement,finished,5,0.000000,1
+03000009,2021,Noria,Region 2,105302,unprotected well,32,29,female,1,cement,finished,3,0.000000,2
+03000010,2021,Noria,Region 3,70310,piped on premises,996,31,male,1,cement,finished,2,0.333333,3
+03000011,2021,Noria,Region 4,74669,protected well,36,39,male,1,cement,finished,2,1.000000,4
+03000012,2021,Noria,Region 1,32004,unprotected well,38,39,male,1,cement,finished,4,0.000000,1
+03000013,2021,Noria,Region 2,165396,piped on premises,996,38,male,1,cement,finished,3,0.000000,2
+03000014,2021,Noria,Region 3,103998,piped on premises,996,36,female,1,cement,finished,2,0.333333,3
+03000015,2021,Noria,Region 4,-106317,protected well,29,63,male,0,dirt,natural,2,0.500000,4
+03000016,2021,Noria,Region 1,39732,protected well,21,40,male,0,cement,finished,3,0.000000,1
+03000017,2021,Noria,Region 2,-156392,protected well,32,86,male,0,dirt,natural,1,1.000000,2
+03000018,2021,Noria,Region 3,31553,piped on premises,996,37,male,1,cement,finished,1,0.666667,3
+03000019,2021,Noria,Region 4,52490,unprotected well,34,62,male,0,cement,finished,2,0.000000,4
+03000020,2021,Noria,Region 1,11718,unprotected well,21,61,female,0,cement,finished,1,0.000000,1
+03000021,2021,Noria,Region 2,-104817,public tap,36,52,male,0,dirt,natural,2,1.000000,2
+03000022,2021,Noria,Region 3,52804,protected well,22,53,female,1,cement,finished,2,1.000000,3
+03000023,2021,Noria,Region 4,-12778,unprotected well,53,33,male,0,cement,finished,4,0.500000,4
+03000024,2021,Noria,Region 1,-44570,unprotected well,25,28,male,0,dirt,finished,2,1.000000,1
+03000025,2021,Noria,Region 2,128550,public tap,48,52,female,1,cement,finished,3,0.000000,2
+03000026,2021,Noria,Region 3,123697,public tap,14,32,male,1,cement,finished,2,0.000000,3
+03000027,2021,Noria,Region 4,-3402,unprotected well,26,60,male,1,cement,finished,1,0.500000,4
+03000028,2021,Noria,Region 1,71700,public tap,30,54,male,0,cement,finished,3,1.000000,1
+03000029,2021,Noria,Region 2,60713,public tap,7,75,female,0,cement,finished,5,0.000000,2
+03000030,2021,Noria,Region 3,-16575,piped on premises,996,41,female,0,cement,finished,1,0.333333,3
+03000031,2021,Noria,Region 4,16212,piped on premises,996,50,male,0,cement,finished,3,0.500000,4
+03000032,2021,Noria,Region 1,107281,protected well,42,40,male,1,cement,finished,2,0.000000,1
+03000033,2021,Noria,Region 2,-59534,piped on premises,996,54,male,0,dirt,natural,0,0.000000,2
+03000034,2021,Noria,Region 3,-69280,piped on premises,996,36,male,0,dirt,natural,3,0.333333,3
+03000035,2021,Noria,Region 4,166587,piped on premises,996,71,male,1,cement,finished,1,0.000000,4
+03000036,2021,Noria,Region 1,-55422,piped on premises,996,52,male,0,dirt,natural,3,0.000000,1
+03000037,2021,Noria,Region 2,110649,protected well,20,26,male,1,cement,finished,3,0.000000,2
+03000038,2021,Noria,Region 3,-58352,public tap,22,20,male,0,dirt,natural,3,0.666667,3
+03000039,2021,Noria,Region 4,85589,unprotected well,33,40,male,1,cement,finished,1,0.500000,4
+03000040,2021,Noria,Region 1,20709,piped on premises,996,43,male,1,cement,finished,2,1.000000,1
+03000041,2021,Noria,Region 2,18358,piped on premises,998,78,male,0,cement,finished,1,0.000000,2
+03000042,2021,Noria,Region 3,92573,piped on premises,996,42,male,0,cement,finished,3,0.000000,3
+03000043,2021,Noria,Region 4,109447,protected well,19,45,male,1,cement,finished,0,0.500000,4
+03000044,2021,Noria,Region 1,-7919,public tap,25,49,male,1,cement,finished,2,1.000000,1
+03000045,2021,Noria,Region 2,85821,piped on premises,996,22,male,1,cement,finished,4,0.500000,2
+03000046,2021,Noria,Region 3,105648,piped on premises,996,34,male,1,cement,finished,3,0.000000,3
+03000047,2021,Noria,Region 4,48095,public tap,18,64,female,1,cement,finished,3,0.250000,4
+03000048,2021,Noria,Region 1,133192,piped on premises,996,29,male,1,cement,finished,2,0.000000,1
+03000049,2021,Noria,Region 2,51579,unprotected well,47,60,male,1,cement,finished,2,0.000000,2
+03000050,2021,Noria,Region 3,108375,public tap,14,30,male,1,cement,finished,2,0.333333,3
+03000051,2021,Noria,Region 4,-70504,protected well,30,52,male,1,dirt,natural,3,0.500000,4
+03000052,2021,Noria,Region 1,-64449,protected well,22,52,male,0,dirt,natural,3,1.000000,1
+03000053,2021,Noria,Region 2,-34445,public tap,23,30,male,0,dirt,finished,2,0.500000,2
+03000054,2021,Noria,Region 3,84883,piped on premises,996,24,male,1,cement,finished,4,0.333333,3
+03000055,2021,Noria,Region 4,14636,protected well,9,59,male,0,cement,finished,4,0.250000,4
+03000056,2021,Noria,Region 1,116112,protected well,50,33,male,1,cement,finished,1,0.000000,1
+03000057,2021,Noria,Region 2,83834,public tap,24,23,male,1,cement,finished,3,0.000000,2
+03000058,2021,Noria,Region 3,-38283,protected well,32,52,male,0,dirt,finished,2,1.000000,3
+03000059,2021,Noria,Region 4,183518,public tap,43,42,male,1,cement,finished,2,0.000000,4
+03000060,2021,Noria,Region 1,-58763,protected well,15,48,male,0,dirt,natural,1,1.000000,1
+03000061,2021,Noria,Region 2,-45858,protected well,38,65,male,0,dirt,natural,2,1.000000,2
+03000062,2021,Noria,Region 3,-127371,"river, dam, lake, pond, stream, canal or irrigation channel",39,48,male,1,dirt,natural,2,0.000000,3
+03000063,2021,Noria,Region 4,-45925,"river, dam, lake, pond, stream, canal or irrigation channel",50,37,male,0,dirt,natural,1,0.750000,4
+03000064,2021,Noria,Region 1,186178,piped on premises,996,37,female,1,cement,finished,2,0.000000,1
+03000065,2021,Noria,Region 2,-39933,public tap,21,31,female,0,dirt,finished,2,0.000000,2
+03000066,2021,Noria,Region 3,156308,piped on premises,996,39,male,1,cement,finished,2,0.000000,3
+03000067,2021,Noria,Region 4,250209,piped on premises,996,43,male,1,cement,finished,1,0.250000,4
+03000068,2021,Noria,Region 1,-99533,"river, dam, lake, pond, stream, canal or irrigation channel",48,29,male,0,dirt,natural,3,1.000000,1
+03000069,2021,Noria,Region 2,2646,"river, dam, lake, pond, stream, canal or irrigation channel",37,53,female,0,cement,finished,3,0.000000,2
+03000070,2021,Noria,Region 3,80123,unprotected well,53,47,male,1,cement,finished,2,0.000000,3
+03000071,2021,Noria,Region 4,67117,unprotected well,13,35,male,1,cement,finished,4,0.500000,4
+03000072,2021,Noria,Region 1,64486,protected well,26,41,female,1,cement,finished,3,0.000000,1
+03000073,2021,Noria,Region 2,-8280,piped on premises,996,46,male,0,cement,finished,4,0.000000,2
+03000074,2021,Noria,Region 3,7896,piped on premises,996,32,male,0,cement,finished,2,1.000000,3
+03000075,2021,Noria,Region 4,-53398,piped on premises,996,37,male,0,dirt,natural,4,0.500000,4
+03000076,2021,Noria,Region 1,61265,piped on premises,996,74,male,1,cement,finished,2,0.000000,1
+03000077,2021,Noria,Region 2,-79848,protected well,45,59,male,0,dirt,natural,2,1.000000,2
+03000078,2021,Noria,Region 3,101514,public tap,33,34,male,1,cement,finished,2,0.000000,3
+03000079,2021,Noria,Region 4,-7874,piped on premises,996,39,male,0,cement,finished,3,0.000000,4
+03000080,2021,Noria,Region 1,1192,protected well,32,29,male,1,cement,finished,2,0.000000,1
+03000081,2021,Noria,Region 2,-27447,public tap,50,28,male,0,cement,finished,3,0.500000,2
+03000082,2021,Noria,Region 3,-47668,piped on premises,998,33,male,1,dirt,natural,3,0.666667,3
+03000083,2021,Noria,Region 4,98689,piped on premises,996,42,female,1,cement,finished,1,0.500000,4
+03000084,2021,Noria,Region 1,85705,unprotected well,31,44,female,1,cement,finished,4,0.000000,1
+03000085,2021,Noria,Region 2,62046,protected well,37,78,male,1,cement,finished,3,0.500000,2
+03000086,2021,Noria,Region 3,-143003,protected well,39,49,male,0,dirt,natural,2,1.000000,3
+03000087,2021,Noria,Region 4,-25105,protected well,39,31,female,0,cement,finished,2,0.250000,4
+03000088,2021,Noria,Region 1,-116637,"river, dam, lake, pond, stream, canal or irrigation channel",31,55,male,0,dirt,natural,2,1.000000,1
+03000089,2021,Noria,Region 2,82404,piped on premises,996,98,male,1,cement,finished,2,0.500000,2
+03000090,2021,Noria,Region 3,64334,public tap,19,41,male,1,cement,finished,4,0.000000,3
+03000091,2021,Noria,Region 4,-14883,piped on premises,996,56,female,0,cement,finished,5,0.250000,4
+03000092,2021,Noria,Region 1,-38060,protected well,47,34,male,0,dirt,finished,2,1.000000,1
+03000093,2021,Noria,Region 2,43613,public tap,36,44,male,1,cement,finished,3,0.000000,2
+03000094,2021,Noria,Region 3,-303063,"river, dam, lake, pond, stream, canal or irrigation channel",74,52,male,0,dirt,natural,2,0.666667,3
+03000095,2021,Noria,Region 4,-57813,"river, dam, lake, pond, stream, canal or irrigation channel",9,53,male,1,dirt,natural,1,0.750000,4
+03000096,2021,Noria,Region 1,47951,piped on premises,996,53,male,1,cement,finished,2,0.000000,1
+03000097,2021,Noria,Region 2,115959,piped on premises,996,25,male,1,cement,finished,2,0.500000,2
+03000098,2021,Noria,Region 3,7226,"river, dam, lake, pond, stream, canal or irrigation channel",7,70,male,1,cement,finished,1,0.333333,3
+03000099,2021,Noria,Region 4,-54008,unprotected well,28,44,male,0,dirt,natural,2,1.000000,4
+03000100,2021,Noria,Region 1,217572,piped on premises,996,84,male,1,cement,finished,3,0.000000,1
+03000101,2021,Noria,Region 2,1173,piped on premises,996,44,male,0,cement,finished,1,0.000000,2
+03000102,2021,Noria,Region 3,69164,public tap,58,21,female,1,cement,finished,1,0.666667,3
+03000103,2021,Noria,Region 4,74440,piped on premises,996,54,female,1,cement,finished,2,0.250000,4
+03000104,2021,Noria,Region 1,-90825,protected well,53,62,male,0,dirt,natural,5,0.000000,1
+03000105,2021,Noria,Region 2,49739,piped on premises,996,54,male,1,cement,finished,3,0.000000,2
+03000106,2021,Noria,Region 3,-129128,"river, dam, lake, pond, stream, canal or irrigation channel",28,33,female,0,dirt,natural,3,0.666667,3
+03000107,2021,Noria,Region 4,50516,piped on premises,996,26,male,1,cement,finished,1,0.750000,4
+03000108,2021,Noria,Region 1,21736,public tap,45,43,male,0,cement,finished,3,1.000000,1
+03000109,2021,Noria,Region 2,120558,public tap,6,53,male,1,cement,finished,2,0.500000,2
+03000110,2021,Noria,Region 3,50319,public tap,49,40,male,1,cement,finished,2,0.333333,3
+03000111,2021,Noria,Region 4,39697,piped on premises,996,41,male,1,cement,finished,0,0.250000,4
+03000112,2021,Noria,Region 1,-40897,protected well,23,36,male,0,dirt,finished,2,0.000000,1
+03000113,2021,Noria,Region 2,42046,protected well,51,34,male,1,dirty,finished,3,0.000000,2
+03000114,2021,Noria,Region 3,45508,"river, dam, lake, pond, stream, canal or irrigation channel",11,55,male,0,cement,finished,3,0.666667,3
+03000115,2021,Noria,Region 4,89789,unprotected well,41,28,male,1,cement,finished,4,0.000000,4
+03000116,2021,Noria,Region 1,-104352,public tap,59,41,male,0,dirt,natural,1,0.000000,1
+03000117,2021,Noria,Region 2,-114214,"river, dam, lake, pond, stream, canal or irrigation channel",35,60,male,0,dirt,natural,3,1.000000,2
+03000118,2021,Noria,Region 3,-46434,public tap,36,55,male,0,dirt,natural,0,0.333333,3
+03000119,2021,Noria,Region 4,-18249,"river, dam, lake, pond, stream, canal or irrigation channel",18,47,male,0,cement,finished,3,0.250000,4
+03000120,2021,Noria,Region 1,42934,public tap,26,18,male,1,cement,finished,2,1.000000,1
+03000121,2021,Noria,Region 2,-26549,protected well,35,70,female,1,cement,finished,0,1.000000,2
+03000122,2021,Noria,Region 3,308,piped on premises,996,64,male,1,cement,finished,3,0.333333,3
+03000123,2021,Noria,Region 4,41593,protected well,998,44,male,1,cement,finished,2,0.250000,4
+03000124,2021,Noria,Region 1,137496,public tap,26,54,male,1,cement,finished,2,0.000000,1
+03000125,2021,Noria,Region 2,-70122,public tap,44,54,male,0,dirt,natural,1,1.000000,2
+03000126,2021,Noria,Region 3,-8889,public tap,24,52,male,1,cement,finished,2,0.333333,3
+03000127,2021,Noria,Region 4,180174,unprotected well,4,25,male,1,cement,finished,5,0.000000,4
+03000128,2021,Noria,Region 1,105551,unprotected well,47,46,male,1,cement,finished,4,0.000000,1
+03000129,2021,Noria,Region 2,-29019,piped on premises,996,68,male,1,cement,finished,3,0.500000,2
+03000130,2021,Noria,Region 3,105104,protected well,11,56,female,1,cement,finished,2,0.000000,3
+03000131,2021,Noria,Region 4,2611,unprotected well,52,7,male,1,cement,finished,1,0.250000,4
+03000132,2021,Noria,Region 1,124798,piped on premises,996,53,male,1,cement,finished,3,0.000000,1
+03000133,2021,Noria,Region 2,56643,protected well,50,45,female,1,cement,finished,3,0.000000,2
+03000134,2021,Noria,Region 3,-27944,unprotected well,,45,male,0,cement,finished,1,1.000000,3
+03000135,2021,Noria,Region 4,118171,piped on premises,996,71,male,1,cement,finished,4,0.000000,4
+03000136,2021,Noria,Region 1,-21339,protected well,63,47,male,0,cement,finished,3,1.000000,1
+03000137,2021,Noria,Region 2,-71671,public tap,42,65,male,0,dirt,natural,3,0.500000,2
+03000138,2021,Noria,Region 3,4282,unprotected well,31,26,male,0,cement,finished,3,0.666667,3
+03000139,2021,Noria,Region 4,61640,public tap,28,55,male,1,cement,finished,2,0.750000,4
+03000140,2021,Noria,Region 1,96046,piped on premises,996,33,male,1,cement,finished,2,0.000000,1
+03000141,2021,Noria,Region 2,-9979,public tap,41,52,male,0,cement,finished,2,0.500000,2
+03000142,2021,Noria,Region 3,60467,public tap,33,43,male,1,cement,finished,1,0.333333,3
+03000143,2021,Noria,Region 4,-84847,"river, dam, lake, pond, stream, canal or irrigation channel",38,32,male,0,dirt,natural,2,0.000000,4
+03000144,2021,Noria,Region 1,40458,protected well,25,43,male,1,cement,finished,4,0.000000,1
+03000145,2021,Noria,Region 2,60038,protected well,22,54,male,1,cement,finished,3,0.000000,2
+03000146,2021,Noria,Region 3,-1184,"river, dam, lake, pond, stream, canal or irrigation channel",17,40,male,0,cement,finished,2,0.000000,3
+03000147,2021,Noria,Region 4,-24665,public tap,1,68,female,0,cement,finished,1,0.750000,4
+03000148,2021,Noria,Region 1,-183455,"river, dam, lake, pond, stream, canal or irrigation channel",51,64,female,0,dirt,natural,2,1.000000,1
+03000149,2021,Noria,Region 2,40745,protected well,44,44,male,1,cement,finished,2,0.500000,2
+03000150,2021,Noria,Region 3,-125318,"river, dam, lake, pond, stream, canal or irrigation channel",43,53,male,0,dirt,natural,1,0.000000,3
+03000151,2021,Noria,Region 4,133547,public tap,29,24,male,1,cement,finished,0,0.250000,4
+03000152,2021,Noria,Region 1,-39570,protected well,45,48,male,1,dirt,finished,2,1.000000,1
+03000153,2021,Noria,Region 2,-21479,protected well,27,46,male,0,cement,finished,5,0.000000,2
+03000154,2021,Noria,Region 3,66956,protected well,25,30,male,1,cement,finished,2,0.333333,3
+03000155,2021,Noria,Region 4,26816,protected well,32,39,male,1,cement,finished,2,0.250000,4
+03000156,2021,Noria,Region 1,-15647,public tap,23,45,male,0,cement,finished,2,1.000000,1
+03000157,2021,Noria,Region 2,58365,piped on premises,996,67,male,1,cement,finished,-99,0.000000,2
+03000158,2021,Noria,Region 3,45246,piped on premises,996,29,male,0,cement,finished,1,0.333333,3
+03000159,2021,Noria,Region 4,181818,public tap,18,42,female,1,cement,finished,1,0.250000,4
+03000160,2021,Noria,Region 1,-100439,protected well,25,31,male,0,dirt,natural,2,0.000000,1
+03000161,2021,Noria,Region 2,160501,protected well,19,29,male,1,cement,finished,1,0.000000,2
+03000162,2021,Noria,Region 3,50488,public tap,26,40,female,1,cement,finished,3,0.333333,3
+03000163,2021,Noria,Region 4,50266,piped on premises,996,21,male,1,cement,finished,4,0.250000,4
+03000164,2021,Noria,Region 1,159454,public tap,998,46,male,1,cement,finished,4,0.000000,1
+03000165,2021,Noria,Region 2,132427,public tap,20,19,male,1,cement,finished,2,0.500000,2
+03000166,2021,Noria,Region 3,119452,protected well,37,50,male,1,cement,finished,2,0.333333,3
+03000167,2021,Noria,Region 4,-48032,"river, dam, lake, pond, stream, canal or irrigation channel",33,43,male,0,dirt,natural,3,0.500000,4
+03000168,2021,Noria,Region 1,102290,unprotected well,29,35,female,0,cement,finished,3,0.000000,1
+03000169,2021,Noria,Region 2,-50789,public tap,62,50,male,0,dirt,natural,3,0.000000,2
+03000170,2021,Noria,Region 3,-47564,"river, dam, lake, pond, stream, canal or irrigation channel",35,40,female,0,dirt,natural,2,0.666667,3
+03000171,2021,Noria,Region 4,-66490,protected well,49,56,male,0,dirt,natural,2,0.500000,4
+03000172,2021,Noria,Region 1,14423,"river, dam, lake, pond, stream, canal or irrigation channel",25,62,male,1,cement,finished,3,1.000000,1
+03000173,2021,Noria,Region 2,82646,piped on premises,996,60,male,1,cement,finished,2,0.000000,2
+03000174,2021,Noria,Region 3,-102667,"river, dam, lake, pond, stream, canal or irrigation channel",21,49,male,0,dirt,natural,2,0.333333,3
+03000175,2021,Noria,Region 4,134873,piped on premises,996,57,male,1,cement,finished,3,0.250000,4
+03000176,2021,Noria,Region 1,791,piped on premises,996,75,male,0,cement,finished,4,0.000000,1
+03000177,2021,Noria,Region 2,47613,"river, dam, lake, pond, stream, canal or irrigation channel",42,42,male,1,cement,finished,2,0.500000,2
+03000178,2021,Noria,Region 3,164551,public tap,26,98,female,1,cement,finished,3,0.333333,3
+03000179,2021,Noria,Region 4,30553,piped on premises,996,48,male,1,cement,finished,3,0.250000,4
+03000180,2021,Noria,Region 1,-112899,"river, dam, lake, pond, stream, canal or irrigation channel",46,22,male,0,dirt,natural,3,0.000000,1
+03000181,2021,Noria,Region 2,-37386,protected well,39,30,male,0,dirt,finished,3,1.000000,2
+03000182,2021,Noria,Region 3,-102129,"river, dam, lake, pond, stream, canal or irrigation channel",53,30,male,0,dirt,natural,2,0.666667,3
+03000183,2021,Noria,Region 4,-9728,public tap,28,59,male,0,cement,finished,2,0.750000,4
+03000184,2021,Noria,Region 1,-171989,unprotected well,36,34,female,0,dirt,natural,3,0.000000,1
+03000185,2021,Noria,Region 2,-36206,"river, dam, lake, pond, stream, canal or irrigation channel",29,37,male,0,dirt,finished,2,0.500000,2
+03000186,2021,Noria,Region 3,-101868,public tap,44,37,male,0,dirt,natural,2,0.666667,3
+03000187,2021,Noria,Region 4,131183,piped on premises,996,40,female,1,cement,finished,2,0.250000,4
+03000188,2021,Noria,Region 1,-186249,protected well,58,70,male,0,dirt,natural,2,1.000000,1
+03000189,2021,Noria,Region 2,-10484,piped on premises,996,59,male,0,cement,finished,1,0.500000,2
+03000190,2021,Noria,Region 3,78285,unprotected well,35,49,male,1,cement,finished,1,0.666667,3
+03000191,2021,Noria,Region 4,87473,piped on premises,996,33,male,1,cement,finished,2,0.500000,4
+03000192,2021,Noria,Region 1,-5076,protected well,19,47,male,0,cement,finished,2,1.000000,1
+03000193,2021,Noria,Region 2,67023,piped on premises,996,54,male,1,cement,finished,2,0.500000,2
+03000194,2021,Noria,Region 3,-61032,protected well,34,53,male,0,dirt,natural,1,0.666667,3
+03000195,2021,Noria,Region 4,73323,unprotected well,24,39,male,1,cement,finished,4,0.000000,4
+03000196,2021,Noria,Region 1,123313,unprotected well,34,29,male,1,cement,finished,2,0.000000,1
+03000197,2021,Noria,Region 2,151919,public tap,1,32,male,1,cement,finished,2,0.500000,2
+03000198,2021,Noria,Region 3,50207,piped on premises,996,34,male,1,cement,finished,2,0.333333,3
+03000199,2021,Noria,Region 4,22860,public tap,40,69,male,1,cement,finished,3,0.000000,4
+03000200,2021,Noria,Region 1,146681,piped on premises,996,45,male,1,cement,finished,2,1.000000,1
+03000201,2021,Noria,Region 2,-22976,protected well,,48,male,0,cement,finished,2,0.500000,2
+03000202,2021,Noria,Region 3,-12407,public tap,16,31,male,0,cement,finished,2,0.333333,3
+03000203,2021,Noria,Region 4,9021,unprotected well,30,52,male,0,cement,finished,2,0.500000,4
+03000204,2021,Noria,Region 1,66057,piped on premises,996,64,male,1,cement,finished,1,1.000000,1
+03000205,2021,Noria,Region 2,191265,piped on premises,998,52,male,1,cement,finished,2,0.000000,2
+03000206,2021,Noria,Region 3,-12270,"river, dam, lake, pond, stream, canal or irrigation channel",12,47,male,0,cement,finished,1,0.000000,3
+03000207,2021,Noria,Region 4,33093,unprotected well,29,40,male,1,cement,finished,3,0.500000,4
+03000208,2021,Noria,Region 1,201649,protected well,17,30,male,1,cement,finished,4,0.000000,1
+03000209,2021,Noria,Region 2,-57825,public tap,37,31,male,0,dirt,natural,2,0.000000,2
+03000210,2021,Noria,Region 3,-14961,"river, dam, lake, pond, stream, canal or irrigation channel",59,35,male,0,cement,finished,0,0.333333,3
+03000211,2021,Noria,Region 4,-122959,public tap,60,52,male,0,dirt,natural,2,0.250000,4
+03000212,2021,Noria,Region 1,-13649,public tap,40,18,male,0,cement,finished,3,1.000000,1
+03000213,2021,Noria,Region 2,5265,piped on premises,996,18,male,1,cement,finished,3,0.500000,2
+03000214,2021,Noria,Region 3,-54669,protected well,36,73,male,0,dirt,natural,4,0.000000,3
+03000215,2021,Noria,Region 4,16231,protected well,2,23,male,1,cement,finished,2,0.000000,4
+03000216,2021,Noria,Region 1,-3621,"river, dam, lake, pond, stream, canal or irrigation channel",21,36,male,0,cement,finished,2,1.000000,1
+03000217,2021,Noria,Region 2,-11633,public tap,43,72,male,1,cement,finished,0,0.000000,2
+03000218,2021,Noria,Region 3,45580,unprotected well,27,35,male,0,cement,finished,2,0.666667,3
+03000219,2021,Noria,Region 4,238244,piped on premises,996,36,female,1,cement,finished,3,0.000000,4
+03000220,2021,Noria,Region 1,155700,piped on premises,996,67,male,1,cement,finished,2,0.000000,1
+03000221,2021,Noria,Region 2,-157758,"river, dam, lake, pond, stream, canal or irrigation channel",45,55,male,0,dirt,natural,4,0.500000,2
+03000222,2021,Noria,Region 3,-14466,piped on premises,996,21,male,1,cement,finished,2,0.333333,3
+03000223,2021,Noria,Region 4,-116597,"river, dam, lake, pond, stream, canal or irrigation channel",23,47,male,0,dirt,natural,1,0.500000,4
+03000224,2021,Noria,Region 1,59705,protected well,25,36,male,1,cement,finished,3,0.000000,1
+03000225,2021,Noria,Region 2,7906,protected well,44,56,male,1,cement,finished,0,0.500000,2
+03000226,2021,Noria,Region 3,220979,piped on premises,996,56,male,1,dirty,finished,2,0.000000,3
+03000227,2021,Noria,Region 4,100255,public tap,29,18,male,1,cement,finished,3,0.000000,4
+03000228,2021,Noria,Region 1,82303,unprotected well,19,49,male,1,cement,finished,3,0.000000,1
+03000229,2021,Noria,Region 2,-107257,protected well,39,69,male,0,dirt,natural,1,0.000000,2
+03000230,2021,Noria,Region 3,18259,"river, dam, lake, pond, stream, canal or irrigation channel",30,45,male,1,cement,finished,2,0.666667,3
+03000231,2021,Noria,Region 4,6409,unprotected well,35,39,male,1,cement,finished,2,0.500000,4
+03000232,2021,Noria,Region 1,109623,piped on premises,996,86,male,1,cement,finished,1,0.000000,1
+03000233,2021,Noria,Region 2,68996,piped on premises,996,30,male,1,cement,finished,3,0.000000,2
+03000234,2021,Noria,Region 3,-23352,piped on premises,996,43,male,0,cement,finished,2,0.666667,3
+03000235,2021,Noria,Region 4,-154502,public tap,19,62,male,0,dirt,natural,4,0.750000,4
+03000236,2021,Noria,Region 1,66611,piped on premises,996,30,male,1,cement,finished,1,0.000000,1
+03000237,2021,Noria,Region 2,23601,protected well,33,71,male,0,cement,finished,3,1.000000,2
+03000238,2021,Noria,Region 3,-55868,public tap,39,49,male,0,dirt,natural,1,0.666667,3
+03000239,2021,Noria,Region 4,19985,"river, dam, lake, pond, stream, canal or irrigation channel",48,36,female,0,cement,finished,3,0.000000,4
+03000240,2021,Noria,Region 1,127847,public tap,23,46,male,1,cement,finished,2,0.000000,1
+03000241,2021,Noria,Region 2,68443,unprotected well,52,55,female,1,cement,finished,3,0.000000,2
+03000242,2021,Noria,Region 3,-114524,"river, dam, lake, pond, stream, canal or irrigation channel",30,62,female,0,dirt,natural,2,1.000000,3
+03000243,2021,Noria,Region 4,-57871,"river, dam, lake, pond, stream, canal or irrigation channel",61,21,male,1,dirt,natural,1,0.500000,4
+03000244,2021,Noria,Region 1,116009,public tap,26,32,male,1,cement,finished,3,0.000000,1
+03000245,2021,Noria,Region 2,-19803,piped on premises,996,37,male,1,cement,finished,1,0.000000,2
+03000246,2021,Noria,Region 3,15096,"river, dam, lake, pond, stream, canal or irrigation channel",998,44,female,1,cement,finished,2,0.333333,3
+03000247,2021,Noria,Region 4,118282,public tap,12,64,male,1,cement,finished,2,0.250000,4
+03000248,2021,Noria,Region 1,85623,piped on premises,996,57,male,1,cement,finished,3,0.000000,1
+03000249,2021,Noria,Region 2,36642,public tap,43,47,male,1,cement,finished,2,0.500000,2
+03000250,2021,Noria,Region 3,69282,protected well,21,25,male,1,cement,finished,1,0.666667,3
+03000251,2021,Noria,Region 4,-145663,"river, dam, lake, pond, stream, canal or irrigation channel",23,71,male,0,dirt,natural,2,0.500000,4
+03000252,2021,Noria,Region 1,13858,piped on premises,996,37,male,0,cement,finished,3,0.000000,1
+03000253,2021,Noria,Region 2,-40861,"river, dam, lake, pond, stream, canal or irrigation channel",25,52,female,1,dirt,finished,2,1.000000,2
+03000254,2021,Noria,Region 3,25162,protected well,34,32,female,1,cement,finished,3,0.000000,3
+03000255,2021,Noria,Region 4,-119399,protected well,45,56,male,0,dirt,natural,3,0.750000,4
+03000256,2021,Noria,Region 1,-191364,"river, dam, lake, pond, stream, canal or irrigation channel",26,42,male,0,dirt,natural,2,0.000000,1
+03000257,2021,Noria,Region 2,-19466,"river, dam, lake, pond, stream, canal or irrigation channel",18,48,male,0,cement,finished,2,0.500000,2
+03000258,2021,Noria,Region 3,53900,piped on premises,996,58,male,1,cement,finished,2,0.333333,3
+03000259,2021,Noria,Region 4,184784,piped on premises,996,66,male,1,cement,finished,3,0.000000,4
+03000260,2021,Noria,Region 1,100402,unprotected well,33,50,male,1,cement,finished,1,1.000000,1
+03000261,2021,Noria,Region 2,94520,protected well,28,23,female,1,cement,finished,4,0.000000,2
+03000262,2021,Noria,Region 3,29683,protected well,25,7,male,1,cement,finished,3,0.666667,3
+03000263,2021,Noria,Region 4,80698,piped on premises,996,48,male,0,cement,finished,3,0.500000,4
+03000264,2021,Noria,Region 1,-64396,piped on premises,996,64,male,0,dirt,natural,3,1.000000,1
+03000265,2021,Noria,Region 2,9327,public tap,26,29,male,1,cement,finished,1,0.500000,2
+03000266,2021,Noria,Region 3,589,piped on premises,996,28,male,0,cement,finished,2,0.333333,3
+03000267,2021,Noria,Region 4,147509,piped on premises,996,98,male,1,cement,finished,5,0.000000,4
+03000268,2021,Noria,Region 1,35255,unprotected well,,71,male,1,cement,finished,3,0.000000,1
+03000269,2021,Noria,Region 2,-91283,protected well,21,26,male,0,dirt,natural,2,0.500000,2
+03000270,2021,Noria,Region 3,155277,public tap,1,39,male,1,cement,finished,0,0.000000,3
+03000271,2021,Noria,Region 4,47622,unprotected well,34,21,male,1,cement,finished,1,0.500000,4
+03000272,2021,Noria,Region 1,157612,piped on premises,996,36,male,1,cement,finished,2,0.000000,1
+03000273,2021,Noria,Region 2,-46535,unprotected well,33,69,male,0,dirt,natural,2,0.500000,2
+03000274,2021,Noria,Region 3,18919,unprotected well,39,19,male,1,cement,finished,1,0.666667,3
+03000275,2021,Noria,Region 4,51813,"river, dam, lake, pond, stream, canal or irrigation channel",14,56,male,1,cement,finished,3,0.250000,4
+03000276,2021,Noria,Region 1,-38298,unprotected well,34,29,male,1,dirt,finished,4,1.000000,1
+03000277,2021,Noria,Region 2,55377,"river, dam, lake, pond, stream, canal or irrigation channel",17,68,male,1,cement,finished,3,0.500000,2
+03000278,2021,Noria,Region 3,-3358,public tap,1,39,male,1,cement,finished,1,0.333333,3
+03000279,2021,Noria,Region 4,80285,public tap,36,24,male,1,cement,finished,1,0.000000,4
+03000280,2021,Noria,Region 1,174174,piped on premises,996,35,male,1,cement,finished,2,0.000000,1
+03000281,2021,Noria,Region 2,96269,protected well,15,37,male,1,cement,finished,2,1.000000,2
+03000282,2021,Noria,Region 3,24876,protected well,25,38,male,0,cement,finished,2,0.666667,3
+03000283,2021,Noria,Region 4,-35418,public tap,30,57,female,1,dirt,finished,4,0.750000,4
+03000284,2021,Noria,Region 1,185315,piped on premises,996,27,male,1,cement,finished,1,0.000000,1
+03000285,2021,Noria,Region 2,40129,"river, dam, lake, pond, stream, canal or irrigation channel",29,57,male,1,cement,finished,1,0.000000,2
+03000286,2021,Noria,Region 3,130884,piped on premises,996,32,male,1,cement,finished,1,0.000000,3
+03000287,2021,Noria,Region 4,44001,public tap,998,38,male,1,cement,finished,4,0.250000,4
+03000288,2021,Noria,Region 1,-47194,protected well,24,45,male,0,dirt,natural,3,0.000000,1
+03000289,2021,Noria,Region 2,-61164,protected well,56,49,male,0,dirt,natural,0,0.500000,2
+03000290,2021,Noria,Region 3,87047,protected well,28,57,male,1,cement,finished,3,0.000000,3
+03000291,2021,Noria,Region 4,60846,"river, dam, lake, pond, stream, canal or irrigation channel",59,34,male,1,cement,finished,3,0.250000,4
+03000292,2021,Noria,Region 1,81624,unprotected well,16,49,female,1,cement,finished,2,1.000000,1
+03000293,2021,Noria,Region 2,-40456,piped on premises,996,41,female,0,dirt,finished,1,0.500000,2
+03000294,2021,Noria,Region 3,-59611,protected well,22,55,male,0,dirt,natural,2,0.333333,3
+03000295,2021,Noria,Region 4,87437,piped on premises,996,36,male,1,cement,finished,3,0.000000,4
+03000296,2021,Noria,Region 1,37790,piped on premises,996,51,female,1,cement,finished,2,0.000000,1
+03000297,2021,Noria,Region 2,85401,piped on premises,996,56,male,1,cement,finished,3,0.000000,2
+03000298,2021,Noria,Region 3,32691,"river, dam, lake, pond, stream, canal or irrigation channel",11,49,male,1,cement,finished,3,0.333333,3
+03000299,2021,Noria,Region 4,4894,piped on premises,996,50,male,0,cement,finished,4,0.250000,4
+03000300,2021,Noria,Region 1,-135044,public tap,52,34,male,0,dirt,natural,2,1.000000,1
+03000301,2021,Noria,Region 2,17892,public tap,22,36,male,0,cement,finished,2,0.500000,2
+03000302,2021,Noria,Region 3,-16624,"river, dam, lake, pond, stream, canal or irrigation channel",30,61,male,1,cement,finished,3,0.333333,3
+03000303,2021,Noria,Region 4,-77978,"river, dam, lake, pond, stream, canal or irrigation channel",47,67,male,0,dirt,natural,4,0.500000,4
+03000304,2021,Noria,Region 1,90064,protected well,27,45,male,1,cement,finished,0,0.000000,1
+03000305,2021,Noria,Region 2,-137730,unprotected well,46,49,male,0,dirt,natural,2,0.500000,2
+03000306,2021,Noria,Region 3,148144,protected well,22,48,male,1,cement,finished,2,0.000000,3
+03000307,2021,Noria,Region 4,-15072,unprotected well,32,54,male,0,cement,finished,3,0.250000,4
+03000308,2021,Noria,Region 1,39905,piped on premises,996,56,male,1,cement,finished,1,0.000000,1
+03000309,2021,Noria,Region 2,130758,unprotected well,21,71,male,1,cement,finished,2,0.000000,2
+03000310,2021,Noria,Region 3,36720,protected well,41,18,female,1,cement,finished,1,0.000000,3
+03000311,2021,Noria,Region 4,-83120,protected well,31,86,male,0,dirt,natural,4,0.250000,4
+03000312,2021,Noria,Region 1,95971,piped on premises,996,33,female,1,cement,finished,0,1.000000,1
+03000313,2021,Noria,Region 2,-20053,public tap,34,53,male,0,cement,finished,3,0.500000,2
+03000314,2021,Noria,Region 3,-17155,"river, dam, lake, pond, stream, canal or irrigation channel",27,70,male,1,cement,finished,-99,0.666667,3
+03000315,2021,Noria,Region 4,-16104,public tap,14,56,male,0,cement,finished,3,0.250000,4
+03000316,2021,Noria,Region 1,84015,public tap,32,61,male,0,cement,finished,3,0.000000,1
+03000317,2021,Noria,Region 2,27482,unprotected well,31,37,male,1,cement,finished,2,0.000000,2
+03000318,2021,Noria,Region 3,-5714,public tap,26,62,male,0,cement,finished,2,0.666667,3
+03000319,2021,Noria,Region 4,-111348,unprotected well,45,53,male,0,dirt,natural,3,0.750000,4
+03000320,2021,Noria,Region 1,155617,piped on premises,996,28,male,1,cement,finished,2,0.000000,1
+03000321,2021,Noria,Region 2,-78739,unprotected well,39,44,female,0,dirt,natural,1,0.500000,2
+03000322,2021,Noria,Region 3,-71037,"river, dam, lake, pond, stream, canal or irrigation channel",43,53,male,0,dirt,natural,3,0.333333,3
+03000323,2021,Noria,Region 4,139857,protected well,23,50,male,1,cement,finished,1,0.250000,4
+03000324,2021,Noria,Region 1,120460,protected well,8,21,male,1,cement,finished,1,0.000000,1
+03000325,2021,Noria,Region 2,-65700,protected well,42,57,male,0,dirt,natural,2,0.500000,2
+03000326,2021,Noria,Region 3,7649,protected well,29,40,male,0,cement,finished,2,0.000000,3
+03000327,2021,Noria,Region 4,-50007,protected well,25,34,male,1,dirt,natural,2,0.750000,4
+03000328,2021,Noria,Region 1,1859,public tap,998,48,male,0,cement,finished,3,0.000000,1
+03000329,2021,Noria,Region 2,-8801,public tap,14,56,male,0,cement,finished,3,0.000000,2
+03000330,2021,Noria,Region 3,-122916,public tap,44,49,male,0,dirt,natural,1,0.666667,3
+03000331,2021,Noria,Region 4,47100,unprotected well,12,25,female,1,cement,finished,1,0.250000,4
+03000332,2021,Noria,Region 1,94644,public tap,6,35,female,1,cement,finished,2,0.000000,1
+03000333,2021,Noria,Region 2,200734,protected well,19,55,male,1,cement,finished,1,0.500000,2
+03000334,2021,Noria,Region 3,54895,public tap,54,40,male,1,cement,finished,1,0.333333,3
+03000335,2021,Noria,Region 4,-78331,protected well,,56,male,0,dirt,natural,3,0.500000,4
+03000336,2021,Noria,Region 1,48957,unprotected well,35,57,male,0,cement,finished,3,0.000000,1
+03000337,2021,Noria,Region 2,337762,piped on premises,996,29,male,1,cement,finished,1,0.000000,2
+03000338,2021,Noria,Region 3,161398,piped on premises,996,39,male,1,cement,finished,1,0.666667,3
+03000339,2021,Noria,Region 4,209043,piped on premises,996,54,male,1,dirty,finished,2,0.250000,4

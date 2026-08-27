@@ -1,0 +1,1269 @@
+source_record_key,survey_wave,hhid,year,country,region,positive_rate,sampled_member_count,wealth_index,water_source,water_minutes,head_age,female_head,electricity,poorwater,floor_material,wall_material,bednets
+lumen_2014:1,Lumen 2014,01000000,2014,Lumen,Region 1,0.000000,1,0.278470,unprotected well,,,0,0,1,dirt,finished,
+lumen_2014:2,Lumen 2014,01000001,2014,Lumen,Region 2,1.000000,2,-0.218320,piped on premises,0,45,0,1,0,cement,finished,1
+lumen_2014:3,Lumen 2014,01000002,2014,Lumen,Region 3,0.666667,3,-0.518740,"river, dam, lake, pond, stream, canal or irrigation channel",43,59,0,0,1,dirt,natural,4
+lumen_2014:4,Lumen 2014,01000003,2014,Lumen,Region 4,0.250000,4,-0.594930,"river, dam, lake, pond, stream, canal or irrigation channel",29,57,0,1,1,dirt,natural,1
+lumen_2014:5,Lumen 2014,01000004,2014,Lumen,Region 1,0.000000,1,-0.210820,public tap,30,32,0,0,0,cement,finished,3
+lumen_2014:6,Lumen 2014,01000005,2014,Lumen,Region 2,0.500000,2,0.595260,protected well,6,35,0,0,0,cement,finished,3
+lumen_2014:7,Lumen 2014,01000006,2014,Lumen,Region 3,0.333333,3,-1.808700,unprotected well,51,62,0,0,1,dirt,natural,4
+lumen_2014:8,Lumen 2014,01000007,2014,Lumen,Region 4,0.000000,4,0.031940,protected well,23,50,0,0,0,cement,finished,2
+lumen_2014:9,Lumen 2014,01000008,2014,Lumen,Region 1,1.000000,1,-1.207710,"river, dam, lake, pond, stream, canal or irrigation channel",38,50,0,0,1,dirt,natural,3
+lumen_2014:10,Lumen 2014,01000009,2014,Lumen,Region 2,0.000000,2,-1.948140,unprotected well,41,45,0,0,1,dirt,natural,0
+lumen_2014:11,Lumen 2014,01000010,2014,Lumen,Region 3,0.666667,3,-1.099190,public tap,64,37,0,0,0,dirt,natural,2
+lumen_2014:12,Lumen 2014,01000011,2014,Lumen,Region 4,0.250000,4,-0.163910,piped on premises,0,42,0,1,0,cement,finished,2
+lumen_2014:13,Lumen 2014,01000012,2014,Lumen,Region 1,0.000000,1,1.949010,piped on premises,0,35,0,1,0,cement,finished,3
+lumen_2014:14,Lumen 2014,01000013,2014,Lumen,Region 2,0.000000,2,1.158120,unprotected well,22,28,0,1,1,cement,finished,4
+lumen_2014:15,Lumen 2014,01000014,2014,Lumen,Region 3,0.000000,3,-0.332310,unprotected well,48,48,0,0,1,dirt,finished,2
+lumen_2014:16,Lumen 2014,01000015,2014,Lumen,Region 4,0.000000,4,1.777070,piped on premises,0,61,0,1,0,cement,finished,5
+lumen_2014:17,Lumen 2014,01000016,2014,Lumen,Region 1,1.000000,1,-1.072440,unprotected well,34,58,0,0,1,dirt,natural,1
+lumen_2014:18,Lumen 2014,01000017,2014,Lumen,Region 2,0.000000,2,0.924030,protected well,30,42,0,1,0,cement,finished,1
+lumen_2014:19,Lumen 2014,01000018,2014,Lumen,Region 3,0.333333,3,-1.428690,public tap,22,53,0,0,0,dirt,natural,2
+lumen_2014:20,Lumen 2014,01000019,2014,Lumen,Region 4,0.500000,4,-0.949670,protected well,60,46,1,0,0,dirt,natural,1
+lumen_2014:21,Lumen 2014,01000020,2014,Lumen,Region 1,1.000000,1,-0.366820,public tap,39,39,0,0,0,dirt,finished,2
+lumen_2014:22,Lumen 2014,01000021,2014,Lumen,Region 2,0.500000,2,0.656870,piped on premises,0,27,0,1,0,cement,finished,2
+lumen_2014:23,Lumen 2014,01000022,2014,Lumen,Region 3,0.333333,3,-0.174270,piped on premises,0,43,0,0,0,cement,finished,3
+lumen_2014:24,Lumen 2014,01000023,2014,Lumen,Region 4,0.250000,4,0.828680,protected well,24,48,0,1,0,cement,finished,3
+lumen_2014:25,Lumen 2014,01000024,2014,Lumen,Region 1,1.000000,1,-1.464330,public tap,47,42,0,0,0,dirt,natural,2
+lumen_2014:26,Lumen 2014,01000025,2014,Lumen,Region 2,0.000000,2,0.948140,public tap,47,51,0,1,0,cement,finished,2
+lumen_2014:27,Lumen 2014,01000026,2014,Lumen,Region 3,0.000000,3,0.507810,protected well,34,40,0,1,0,cement,finished,3
+lumen_2014:28,Lumen 2014,01000027,2014,Lumen,Region 4,0.250000,4,0.011590,"river, dam, lake, pond, stream, canal or irrigation channel",43,44,0,1,1,cement,finished,2
+lumen_2014:29,Lumen 2014,01000028,2014,Lumen,Region 1,1.000000,1,0.124590,protected well,29,70,0,1,0,cement,finished,2
+lumen_2014:30,Lumen 2014,01000029,2014,Lumen,Region 2,0.000000,2,1.140720,public tap,22,65,0,1,0,cement,finished,4
+lumen_2014:31,Lumen 2014,01000030,2014,Lumen,Region 3,0.000000,3,0.316510,public tap,22,52,1,1,0,cement,finished,2
+lumen_2014:32,Lumen 2014,01000031,2014,Lumen,Region 4,0.500000,4,-1.459970,protected well,25,48,0,0,0,dirt,natural,4
+lumen_2014:33,Lumen 2014,01000032,2014,Lumen,Region 1,0.000000,1,1.646960,protected well,15,24,0,1,0,cement,finished,2
+lumen_2014:34,Lumen 2014,01000033,2014,Lumen,Region 2,0.500000,2,-0.062720,public tap,27,38,1,1,0,cement,finished,3
+lumen_2014:35,Lumen 2014,01000034,2014,Lumen,Region 3,1.000000,3,-3.020920,"river, dam, lake, pond, stream, canal or irrigation channel",63,38,0,0,1,dirt,natural,1
+lumen_2014:36,Lumen 2014,01000035,2014,Lumen,Region 4,0.500000,4,0.899690,"river, dam, lake, pond, stream, canal or irrigation channel",25,43,0,1,1,cement,finished,2
+lumen_2014:37,Lumen 2014,01000036,2014,Lumen,Region 1,0.000000,1,1.197220,piped on premises,0,30,0,1,0,cement,finished,1
+lumen_2014:38,Lumen 2014,01000037,2014,Lumen,Region 2,0.000000,2,-0.282360,unprotected well,47,24,0,0,1,cement,finished,2
+lumen_2014:39,Lumen 2014,01000038,2014,Lumen,Region 3,0.666667,3,-0.388840,"river, dam, lake, pond, stream, canal or irrigation channel",28,40,0,0,1,dirt,finished,1
+lumen_2014:40,Lumen 2014,01000039,2014,Lumen,Region 4,0.500000,4,-1.330560,"river, dam, lake, pond, stream, canal or irrigation channel",19,45,1,0,1,dirt,natural,1
+lumen_2014:41,Lumen 2014,01000040,2014,Lumen,Region 1,0.000000,1,0.153690,public tap,24,30,0,1,0,cement,finished,2
+lumen_2014:42,Lumen 2014,01000041,2014,Lumen,Region 2,0.500000,2,-0.896390,piped on premises,,25,0,0,0,dirt,natural,3
+lumen_2014:43,Lumen 2014,01000042,2014,Lumen,Region 3,0.333333,3,-1.189400,public tap,18,79,0,0,0,dirt,natural,4
+lumen_2014:44,Lumen 2014,01000043,2014,Lumen,Region 4,0.000000,4,0.428980,piped on premises,0,42,0,1,0,cement,finished,3
+lumen_2014:45,Lumen 2014,01000044,2014,Lumen,Region 1,0.000000,1,-0.097370,piped on premises,0,69,0,1,0,cement,finished,2
+lumen_2014:46,Lumen 2014,01000045,2014,Lumen,Region 2,0.000000,2,-0.315840,public tap,29,47,0,0,0,dirt,finished,2
+lumen_2014:47,Lumen 2014,01000046,2014,Lumen,Region 3,0.666667,3,-0.869910,piped on premises,0,33,1,0,0,dirt,natural,2
+lumen_2014:48,Lumen 2014,01000047,2014,Lumen,Region 4,0.000000,4,0.706030,piped on premises,0,56,0,1,0,cement,finished,0
+lumen_2014:49,Lumen 2014,01000048,2014,Lumen,Region 1,0.000000,1,0.394960,public tap,49,20,0,1,0,cement,finished,2
+lumen_2014:50,Lumen 2014,01000049,2014,Lumen,Region 2,0.500000,2,0.022380,protected well,47,57,0,1,0,cement,finished,4
+lumen_2014:51,Lumen 2014,01000050,2014,Lumen,Region 3,0.333333,3,0.086310,protected well,24,48,0,1,0,cement,finished,2
+lumen_2014:52,Lumen 2014,01000051,2014,Lumen,Region 4,0.500000,4,-0.807540,"river, dam, lake, pond, stream, canal or irrigation channel",37,50,0,0,1,dirt,natural,3
+lumen_2014:53,Lumen 2014,01000052,2014,Lumen,Region 1,0.000000,1,-0.741210,public tap,43,65,0,0,0,dirt,natural,1
+lumen_2014:54,Lumen 2014,01000053,2014,Lumen,Region 2,0.000000,2,0.549510,public tap,38,56,0,1,0,cement,finished,2
+lumen_2014:55,Lumen 2014,01000054,2014,Lumen,Region 3,0.666667,3,-0.686140,protected well,37,58,0,0,0,dirt,natural,2
+lumen_2014:56,Lumen 2014,01000055,2014,Lumen,Region 4,0.500000,4,1.101450,unprotected well,39,46,0,1,1,cement,finished,3
+lumen_2014:57,Lumen 2014,01000056,2014,Lumen,Region 1,0.000000,1,-0.087940,protected well,39,52,0,1,0,cement,finished,2
+lumen_2014:58,Lumen 2014,01000057,2014,Lumen,Region 2,1.000000,2,-1.126790,protected well,17,29,0,0,0,dirt,natural,1
+lumen_2014:59,Lumen 2014,01000058,2014,Lumen,Region 3,0.666667,3,-1.199380,public tap,46,29,0,0,0,dirt,natural,1
+lumen_2014:60,Lumen 2014,01000059,2014,Lumen,Region 4,0.250000,4,0.553460,public tap,32,34,0,1,0,cement,finished,4
+lumen_2014:61,Lumen 2014,01000060,2014,Lumen,Region 1,1.000000,1,-1.623120,public tap,18,59,1,0,0,dirt,natural,2
+lumen_2014:62,Lumen 2014,01000061,2014,Lumen,Region 2,0.500000,2,-0.404450,protected well,16,40,0,0,0,dirt,finished,3
+lumen_2014:63,Lumen 2014,01000062,2014,Lumen,Region 3,1.000000,3,-0.240370,"river, dam, lake, pond, stream, canal or irrigation channel",29,44,0,1,1,cement,finished,2
+lumen_2014:64,Lumen 2014,01000063,2014,Lumen,Region 4,0.000000,4,1.765140,public tap,33,30,0,1,0,cement,finished,2
+lumen_2014:65,Lumen 2014,01000064,2014,Lumen,Region 1,0.000000,1,-0.879340,public tap,37,69,1,0,0,dirt,natural,2
+lumen_2014:66,Lumen 2014,01000065,2014,Lumen,Region 2,0.500000,2,-0.204970,unprotected well,28,26,0,0,1,cement,finished,0
+lumen_2014:67,Lumen 2014,01000066,2014,Lumen,Region 3,0.666667,3,-0.504260,"river, dam, lake, pond, stream, canal or irrigation channel",44,25,1,1,1,dirt,natural,2
+lumen_2014:68,Lumen 2014,01000067,2014,Lumen,Region 4,0.750000,4,-1.496020,public tap,,34,0,0,0,dirt,natural,1
+lumen_2014:69,Lumen 2014,01000068,2014,Lumen,Region 1,1.000000,1,-1.976490,unprotected well,50,61,0,0,1,dirt,natural,1
+lumen_2014:70,Lumen 2014,01000069,2014,Lumen,Region 2,0.500000,2,-1.151380,"river, dam, lake, pond, stream, canal or irrigation channel",55,49,1,0,1,dirt,natural,2
+lumen_2014:71,Lumen 2014,01000070,2014,Lumen,Region 3,0.000000,3,1.142050,protected well,28,67,0,1,0,cement,finished,2
+lumen_2014:72,Lumen 2014,01000071,2014,Lumen,Region 4,0.500000,4,-0.792210,protected well,55,49,0,0,0,dirt,natural,1
+lumen_2014:73,Lumen 2014,01000072,2014,Lumen,Region 1,1.000000,1,-0.198210,unprotected well,25,39,0,1,1,cement,finished,2
+lumen_2014:74,Lumen 2014,01000073,2014,Lumen,Region 2,1.000000,2,-1.178480,public tap,23,20,1,0,0,dirt,natural,3
+lumen_2014:75,Lumen 2014,01000074,2014,Lumen,Region 3,0.000000,3,-0.556440,unprotected well,47,39,0,0,1,dirt,natural,3
+lumen_2014:76,Lumen 2014,01000075,2014,Lumen,Region 4,0.500000,4,0.105440,unprotected well,23,56,1,0,1,cement,finished,3
+lumen_2014:77,Lumen 2014,01000076,2014,Lumen,Region 1,0.000000,1,0.555240,piped on premises,0,55,1,1,0,cement,finished,3
+lumen_2014:78,Lumen 2014,01000077,2014,Lumen,Region 2,0.500000,2,-1.088420,protected well,7,42,0,0,0,dirt,natural,4
+lumen_2014:79,Lumen 2014,01000078,2014,Lumen,Region 3,0.000000,3,0.928050,public tap,37,47,0,1,0,cement,finished,2
+lumen_2014:80,Lumen 2014,01000079,2014,Lumen,Region 4,0.500000,4,-1.163310,protected well,49,55,0,0,0,dirt,natural,2
+lumen_2014:81,Lumen 2014,01000080,2014,Lumen,Region 1,1.000000,1,0.717500,piped on premises,0,24,0,1,0,cement,finished,2
+lumen_2014:82,Lumen 2014,01000081,2014,Lumen,Region 2,0.000000,2,0.748190,protected well,33,53,0,1,0,cement,finished,2
+lumen_2014:83,Lumen 2014,01000082,2014,Lumen,Region 3,1.000000,3,-0.054130,public tap,,35,0,0,0,cement,finished,3
+lumen_2014:84,Lumen 2014,01000083,2014,Lumen,Region 4,0.000000,4,0.817280,public tap,1,55,0,1,0,cement,finished,1
+lumen_2014:85,Lumen 2014,01000084,2014,Lumen,Region 1,0.000000,1,-1.618330,unprotected well,25,43,0,0,1,dirt,natural,2
+lumen_2014:86,Lumen 2014,01000085,2014,Lumen,Region 2,0.000000,2,-0.630720,public tap,51,38,0,0,0,dirt,natural,3
+lumen_2014:87,Lumen 2014,01000086,2014,Lumen,Region 3,0.333333,3,0.034010,"river, dam, lake, pond, stream, canal or irrigation channel",32,47,1,1,1,cement,finished,3
+lumen_2014:88,Lumen 2014,01000087,2014,Lumen,Region 4,0.750000,4,-2.377330,protected well,32,66,0,0,0,dirt,natural,2
+lumen_2014:89,Lumen 2014,01000088,2014,Lumen,Region 1,1.000000,1,0.760260,protected well,16,68,0,1,0,cement,finished,1
+lumen_2014:90,Lumen 2014,01000089,2014,Lumen,Region 2,0.000000,2,0.138330,public tap,34,,1,1,0,cement,finished,0
+lumen_2014:91,Lumen 2014,01000090,2014,Lumen,Region 3,0.333333,3,-0.702190,"river, dam, lake, pond, stream, canal or irrigation channel",25,45,0,0,1,dirt,natural,3
+lumen_2014:92,Lumen 2014,01000091,2014,Lumen,Region 4,0.000000,4,1.941930,public tap,26,50,0,1,0,cement,finished,4
+lumen_2014:93,Lumen 2014,01000092,2014,Lumen,Region 1,1.000000,1,-1.273340,unprotected well,53,64,1,0,1,dirt,natural,3
+lumen_2014:94,Lumen 2014,01000093,2014,Lumen,Region 2,0.500000,2,0.630640,"river, dam, lake, pond, stream, canal or irrigation channel",23,35,0,1,1,cement,finished,2
+lumen_2014:95,Lumen 2014,01000094,2014,Lumen,Region 3,0.000000,3,0.291010,piped on premises,0,28,0,1,0,cement,finished,3
+lumen_2014:96,Lumen 2014,01000095,2014,Lumen,Region 4,0.500000,4,-1.360980,"river, dam, lake, pond, stream, canal or irrigation channel",41,25,0,0,1,dirt,natural,2
+lumen_2014:97,Lumen 2014,01000096,2014,Lumen,Region 1,1.000000,1,0.682120,piped on premises,0,27,0,1,0,cement,finished,3
+lumen_2014:98,Lumen 2014,01000097,2014,Lumen,Region 2,0.500000,2,0.232630,unprotected well,23,48,0,1,1,cement,finished,2
+lumen_2014:99,Lumen 2014,01000098,2014,Lumen,Region 3,0.333333,3,-1.080360,public tap,25,79,0,0,0,dirt,natural,2
+lumen_2014:100,Lumen 2014,01000099,2014,Lumen,Region 4,0.250000,4,-0.916600,"river, dam, lake, pond, stream, canal or irrigation channel",39,56,0,0,1,dirt,natural,2
+lumen_2014:101,Lumen 2014,01000100,2014,Lumen,Region 1,0.000000,1,0.536570,piped on premises,0,56,0,1,0,cement,finished,3
+lumen_2014:102,Lumen 2014,01000101,2014,Lumen,Region 2,0.000000,2,-0.697170,protected well,19,49,0,0,0,dirt,natural,1
+lumen_2014:103,Lumen 2014,01000102,2014,Lumen,Region 3,0.333333,3,-0.270680,unprotected well,39,49,0,1,1,cement,finished,0
+lumen_2014:104,Lumen 2014,01000103,2014,Lumen,Region 4,0.250000,4,0.653840,piped on premises,0,73,0,0,0,cement,finished,3
+lumen_2014:105,Lumen 2014,01000104,2014,Lumen,Region 1,0.000000,1,0.383390,piped on premises,0,53,0,1,0,cement,finished,2
+lumen_2014:106,Lumen 2014,01000105,2014,Lumen,Region 2,1.000000,2,0.001450,piped on premises,0,60,0,0,0,cement,finished,3
+lumen_2014:107,Lumen 2014,01000106,2014,Lumen,Region 3,0.666667,3,-1.953060,"river, dam, lake, pond, stream, canal or irrigation channel",36,55,0,0,1,dirt,natural,3
+lumen_2014:108,Lumen 2014,01000107,2014,Lumen,Region 4,1.000000,4,-0.006060,"river, dam, lake, pond, stream, canal or irrigation channel",35,66,0,1,1,cement,finished,1
+lumen_2014:109,Lumen 2014,01000108,2014,Lumen,Region 1,1.000000,1,-0.626360,"river, dam, lake, pond, stream, canal or irrigation channel",27,62,0,0,1,dirt,natural,0
+lumen_2014:110,Lumen 2014,01000109,2014,Lumen,Region 2,0.500000,2,-0.615680,"river, dam, lake, pond, stream, canal or irrigation channel",15,45,0,0,1,dirt,natural,2
+lumen_2014:111,Lumen 2014,01000110,2014,Lumen,Region 3,0.333333,3,-1.429220,"river, dam, lake, pond, stream, canal or irrigation channel",34,50,0,0,1,dirt,natural,1
+lumen_2014:112,Lumen 2014,01000111,2014,Lumen,Region 4,0.000000,4,-0.220280,protected well,20,48,0,0,0,cement,finished,2
+lumen_2014:113,Lumen 2014,01000112,2014,Lumen,Region 1,0.000000,1,0.791340,protected well,31,57,0,1,0,cement,finished,3
+lumen_2014:114,Lumen 2014,01000113,2014,Lumen,Region 2,0.000000,2,-1.298760,"river, dam, lake, pond, stream, canal or irrigation channel",25,42,0,0,1,dirt,natural,3
+lumen_2014:115,Lumen 2014,01000114,2014,Lumen,Region 3,0.666667,3,-0.545680,"river, dam, lake, pond, stream, canal or irrigation channel",40,43,0,1,1,dirt,natural,4
+lumen_2014:116,Lumen 2014,01000115,2014,Lumen,Region 4,0.500000,4,-0.865290,piped on premises,0,68,0,0,0,dirt,natural,1
+lumen_2014:117,Lumen 2014,01000116,2014,Lumen,Region 1,1.000000,1,-1.791020,protected well,21,59,0,0,0,dirt,natural,1
+lumen_2014:118,Lumen 2014,01000117,2014,Lumen,Region 2,0.000000,2,-0.314850,unprotected well,51,32,0,0,1,dirt,finished,2
+lumen_2014:119,Lumen 2014,01000118,2014,Lumen,Region 3,0.333333,3,-0.289450,"river, dam, lake, pond, stream, canal or irrigation channel",39,78,0,0,1,cement,finished,2
+lumen_2014:120,Lumen 2014,01000119,2014,Lumen,Region 4,0.500000,4,-1.385560,protected well,9,44,0,0,0,dirt,natural,3
+lumen_2014:121,Lumen 2014,01000120,2014,Lumen,Region 1,0.000000,1,0.507000,piped on premises,0,37,0,0,0,cement,finished,3
+lumen_2014:122,Lumen 2014,01000121,2014,Lumen,Region 2,0.500000,2,0.099870,protected well,18,55,0,0,0,cement,finished,2
+lumen_2014:123,Lumen 2014,01000122,2014,Lumen,Region 3,0.333333,3,-1.801860,protected well,47,52,0,0,0,dirt,natural,4
+lumen_2014:124,Lumen 2014,01000123,2014,Lumen,Region 4,0.750000,4,-0.893500,protected well,,52,0,0,0,dirt,natural,3
+lumen_2014:125,Lumen 2014,01000124,2014,Lumen,Region 1,1.000000,1,-0.130120,piped on premises,0,52,0,1,0,cement,finished,3
+lumen_2014:126,Lumen 2014,01000125,2014,Lumen,Region 2,0.500000,2,-0.250560,public tap,30,74,0,0,0,cement,finished,2
+lumen_2014:127,Lumen 2014,01000126,2014,Lumen,Region 3,0.000000,3,-0.361100,protected well,4,64,0,0,0,dirt,finished,3
+lumen_2014:128,Lumen 2014,01000127,2014,Lumen,Region 4,0.250000,4,0.513310,"river, dam, lake, pond, stream, canal or irrigation channel",18,53,0,1,1,cement,finished,3
+lumen_2014:129,Lumen 2014,01000128,2014,Lumen,Region 1,0.000000,1,0.416710,piped on premises,0,47,0,0,0,cement,finished,3
+lumen_2014:130,Lumen 2014,01000129,2014,Lumen,Region 2,0.000000,2,0.480420,protected well,23,28,0,1,0,cement,finished,2
+lumen_2014:131,Lumen 2014,01000130,2014,Lumen,Region 3,0.333333,3,0.197220,"river, dam, lake, pond, stream, canal or irrigation channel",29,59,0,1,1,cement,finished,1
+lumen_2014:132,Lumen 2014,01000131,2014,Lumen,Region 4,0.500000,4,-0.567950,public tap,29,,0,0,0,dirt,natural,2
+lumen_2014:133,Lumen 2014,01000132,2014,Lumen,Region 1,0.000000,1,0.041460,protected well,21,46,0,1,0,cement,finished,2
+lumen_2014:134,Lumen 2014,01000133,2014,Lumen,Region 2,0.500000,2,-1.438010,public tap,27,50,0,0,0,dirt,natural,1
+lumen_2014:135,Lumen 2014,01000134,2014,Lumen,Region 3,0.666667,3,-1.399770,public tap,,36,0,0,0,dirt,natural,2
+lumen_2014:136,Lumen 2014,01000135,2014,Lumen,Region 4,0.250000,4,-0.122800,piped on premises,0,40,0,0,0,cement,finished,1
+lumen_2014:137,Lumen 2014,01000136,2014,Lumen,Region 1,0.000000,1,-1.064400,protected well,44,37,0,0,0,dirt,natural,2
+lumen_2014:138,Lumen 2014,01000137,2014,Lumen,Region 2,0.000000,2,1.738910,public tap,12,59,0,1,0,cement,finished,3
+lumen_2014:139,Lumen 2014,01000138,2014,Lumen,Region 3,0.666667,3,-1.240040,protected well,60,40,1,0,0,dirt,natural,2
+lumen_2014:140,Lumen 2014,01000139,2014,Lumen,Region 4,0.500000,4,-2.008480,"river, dam, lake, pond, stream, canal or irrigation channel",31,60,0,0,1,dirt,natural,2
+lumen_2014:141,Lumen 2014,01000140,2014,Lumen,Region 1,0.000000,1,-0.941880,"river, dam, lake, pond, stream, canal or irrigation channel",44,31,0,0,1,dirt,natural,2
+lumen_2014:142,Lumen 2014,01000141,2014,Lumen,Region 2,0.000000,2,-1.449480,unprotected well,7,48,0,0,1,dirt,natural,3
+lumen_2014:143,Lumen 2014,01000142,2014,Lumen,Region 3,0.333333,3,0.302700,protected well,24,49,1,1,0,cement,finished,2
+lumen_2014:144,Lumen 2014,01000143,2014,Lumen,Region 4,0.750000,4,-0.799870,unprotected well,58,46,0,0,1,dirt,natural,2
+lumen_2014:145,Lumen 2014,01000144,2014,Lumen,Region 1,1.000000,1,-0.527070,public tap,12,34,0,0,0,dirt,natural,3
+lumen_2014:146,Lumen 2014,01000145,2014,Lumen,Region 2,0.000000,2,-0.019520,piped on premises,0,47,0,1,0,cement,finished,2
+lumen_2014:147,Lumen 2014,01000146,2014,Lumen,Region 3,0.000000,3,-0.203480,public tap,16,35,0,1,0,cement,finished,1
+lumen_2014:148,Lumen 2014,01000147,2014,Lumen,Region 4,0.250000,4,0.131930,protected well,17,48,0,0,0,cement,finished,4
+lumen_2014:149,Lumen 2014,01000148,2014,Lumen,Region 1,1.000000,1,-2.080050,"river, dam, lake, pond, stream, canal or irrigation channel",38,32,0,0,1,dirt,natural,2
+lumen_2014:150,Lumen 2014,01000149,2014,Lumen,Region 2,0.000000,2,0.594310,protected well,17,58,0,1,0,cement,finished,3
+lumen_2014:151,Lumen 2014,01000150,2014,Lumen,Region 3,0.666667,3,-0.662650,public tap,35,43,0,1,0,dirt,natural,2
+lumen_2014:152,Lumen 2014,01000151,2014,Lumen,Region 4,0.250000,4,-0.624960,"river, dam, lake, pond, stream, canal or irrigation channel",33,23,0,0,1,dirt,natural,2
+lumen_2014:153,Lumen 2014,01000152,2014,Lumen,Region 1,0.000000,1,-0.393260,protected well,46,40,0,1,0,dirt,finished,1
+lumen_2014:154,Lumen 2014,01000153,2014,Lumen,Region 2,0.000000,2,1.081710,unprotected well,25,36,0,1,1,cement,finished,3
+lumen_2014:155,Lumen 2014,01000154,2014,Lumen,Region 3,0.333333,3,-0.285830,unprotected well,50,38,0,0,1,cement,finished,5
+lumen_2014:156,Lumen 2014,01000155,2014,Lumen,Region 4,0.250000,4,-0.342520,protected well,43,54,0,0,0,dirt,finished,3
+lumen_2014:157,Lumen 2014,01000156,2014,Lumen,Region 1,0.000000,1,1.033870,piped on premises,0,49,0,1,0,cement,finished,1
+lumen_2014:158,Lumen 2014,01000157,2014,Lumen,Region 2,0.000000,2,-1.028350,"river, dam, lake, pond, stream, canal or irrigation channel",50,60,1,0,1,dirt,natural,
+lumen_2014:159,Lumen 2014,01000158,2014,Lumen,Region 3,0.000000,3,0.576650,protected well,31,27,0,1,0,cement,finished,3
+lumen_2014:160,Lumen 2014,01000159,2014,Lumen,Region 4,0.250000,4,1.053990,piped on premises,0,48,0,1,0,cement,finished,2
+lumen_2014:161,Lumen 2014,01000160,2014,Lumen,Region 1,1.000000,1,-1.964880,unprotected well,34,45,0,0,1,dirt,natural,2
+lumen_2014:162,Lumen 2014,01000161,2014,Lumen,Region 2,0.500000,2,-0.067090,unprotected well,31,64,0,0,1,cement,finished,0
+lumen_2014:163,Lumen 2014,01000162,2014,Lumen,Region 3,0.000000,3,0.677740,piped on premises,0,52,0,0,0,cement,finished,3
+lumen_2014:164,Lumen 2014,01000163,2014,Lumen,Region 4,0.000000,4,-0.662110,public tap,31,73,0,0,0,dirt,natural,2
+lumen_2014:165,Lumen 2014,01000164,2014,Lumen,Region 1,0.000000,1,-0.580890,"river, dam, lake, pond, stream, canal or irrigation channel",,35,0,0,1,dirt,natural,2
+lumen_2014:166,Lumen 2014,01000165,2014,Lumen,Region 2,0.000000,2,0.279050,public tap,40,52,0,1,0,cement,finished,2
+lumen_2014:167,Lumen 2014,01000166,2014,Lumen,Region 3,0.000000,3,0.926500,protected well,31,63,0,1,0,cement,finished,3
+lumen_2014:168,Lumen 2014,01000167,2014,Lumen,Region 4,0.500000,4,-1.190820,"river, dam, lake, pond, stream, canal or irrigation channel",37,46,1,0,1,dirt,natural,1
+lumen_2014:169,Lumen 2014,01000168,2014,Lumen,Region 1,0.000000,1,-0.295620,piped on premises,0,58,0,0,0,cement,finished,2
+lumen_2014:170,Lumen 2014,01000169,2014,Lumen,Region 2,0.500000,2,0.564930,piped on premises,0,65,0,1,0,cement,finished,1
+lumen_2014:171,Lumen 2014,01000170,2014,Lumen,Region 3,0.333333,3,0.523540,"river, dam, lake, pond, stream, canal or irrigation channel",21,49,1,0,1,cement,finished,3
+lumen_2014:172,Lumen 2014,01000171,2014,Lumen,Region 4,0.000000,4,1.681820,unprotected well,27,23,0,1,1,cement,finished,1
+lumen_2014:173,Lumen 2014,01000172,2014,Lumen,Region 1,1.000000,1,-0.034940,"river, dam, lake, pond, stream, canal or irrigation channel",19,46,0,1,1,cement,finished,0
+lumen_2014:174,Lumen 2014,01000173,2014,Lumen,Region 2,1.000000,2,-0.817480,public tap,37,30,0,0,0,dirt,natural,3
+lumen_2014:175,Lumen 2014,01000174,2014,Lumen,Region 3,0.333333,3,0.194240,unprotected well,36,30,0,1,1,cement,finished,2
+lumen_2014:176,Lumen 2014,01000175,2014,Lumen,Region 4,0.750000,4,-0.783800,public tap,29,81,0,0,0,dirt,natural,2
+lumen_2014:177,Lumen 2014,01000176,2014,Lumen,Region 1,1.000000,1,0.732470,public tap,28,56,0,1,0,cement,finished,3
+lumen_2014:178,Lumen 2014,01000177,2014,Lumen,Region 2,0.000000,2,2.140390,piped on premises,0,86,1,1,0,cement,finished,2
+lumen_2014:179,Lumen 2014,01000178,2014,Lumen,Region 3,0.333333,3,0.841040,unprotected well,41,,0,1,1,cement,finished,2
+lumen_2014:180,Lumen 2014,01000179,2014,Lumen,Region 4,0.250000,4,0.122240,protected well,22,51,0,0,0,cement,finished,2
+lumen_2014:181,Lumen 2014,01000180,2014,Lumen,Region 1,1.000000,1,-2.170870,"river, dam, lake, pond, stream, canal or irrigation channel",36,32,1,0,1,dirt,natural,2
+lumen_2014:182,Lumen 2014,01000181,2014,Lumen,Region 2,0.500000,2,-0.907390,"river, dam, lake, pond, stream, canal or irrigation channel",24,50,0,0,1,dirt,natural,2
+lumen_2014:183,Lumen 2014,01000182,2014,Lumen,Region 3,0.000000,3,-0.241740,unprotected well,33,60,1,0,1,cement,finished,2
+lumen_2014:184,Lumen 2014,01000183,2014,Lumen,Region 4,0.250000,4,0.440210,unprotected well,35,44,0,1,1,cement,finished,3
+lumen_2014:185,Lumen 2014,01000184,2014,Lumen,Region 1,1.000000,1,-0.919690,"river, dam, lake, pond, stream, canal or irrigation channel",36,27,0,0,1,dirt,natural,1
+lumen_2014:186,Lumen 2014,01000185,2014,Lumen,Region 2,0.500000,2,-1.046240,"river, dam, lake, pond, stream, canal or irrigation channel",41,42,0,0,1,dirt,natural,2
+lumen_2014:187,Lumen 2014,01000186,2014,Lumen,Region 3,0.333333,3,-1.687930,"river, dam, lake, pond, stream, canal or irrigation channel",23,44,0,0,1,dirt,natural,4
+lumen_2014:188,Lumen 2014,01000187,2014,Lumen,Region 4,1.000000,4,-2.098640,"river, dam, lake, pond, stream, canal or irrigation channel",36,58,1,0,1,dirt,natural,4
+lumen_2014:189,Lumen 2014,01000188,2014,Lumen,Region 1,1.000000,1,-0.100420,public tap,42,51,0,1,0,cement,finished,1
+lumen_2014:190,Lumen 2014,01000189,2014,Lumen,Region 2,0.000000,2,-0.541050,"river, dam, lake, pond, stream, canal or irrigation channel",41,26,0,0,1,dirt,natural,1
+lumen_2014:191,Lumen 2014,01000190,2014,Lumen,Region 3,1.000000,3,-0.248560,protected well,19,24,1,0,0,cement,finished,3
+lumen_2014:192,Lumen 2014,01000191,2014,Lumen,Region 4,0.250000,4,-0.106950,piped on premises,0,51,1,1,0,cement,finished,1
+lumen_2014:193,Lumen 2014,01000192,2014,Lumen,Region 1,0.000000,1,-0.369320,protected well,53,46,0,0,0,dirt,finished,2
+lumen_2014:194,Lumen 2014,01000193,2014,Lumen,Region 2,0.500000,2,-0.777270,piped on premises,0,73,0,0,0,dirt,natural,1
+lumen_2014:195,Lumen 2014,01000194,2014,Lumen,Region 3,0.333333,3,-0.022330,"river, dam, lake, pond, stream, canal or irrigation channel",40,44,0,1,1,cement,finished,4
+lumen_2014:196,Lumen 2014,01000195,2014,Lumen,Region 4,0.500000,4,-1.700760,"river, dam, lake, pond, stream, canal or irrigation channel",18,43,0,0,1,dirt,natural,2
+lumen_2014:197,Lumen 2014,01000196,2014,Lumen,Region 1,0.000000,1,-0.175050,unprotected well,32,30,0,0,1,cement,finished,2
+lumen_2014:198,Lumen 2014,01000197,2014,Lumen,Region 2,0.000000,2,-0.992080,"river, dam, lake, pond, stream, canal or irrigation channel",32,64,0,0,1,dirt,natural,2
+lumen_2014:199,Lumen 2014,01000198,2014,Lumen,Region 3,0.666667,3,0.204910,unprotected well,47,54,0,1,1,cement,finished,1
+lumen_2014:200,Lumen 2014,01000199,2014,Lumen,Region 4,0.500000,4,-0.958320,"river, dam, lake, pond, stream, canal or irrigation channel",27,56,0,0,1,dirt,natural,2
+lumen_2014:201,Lumen 2014,01000200,2014,Lumen,Region 1,1.000000,1,-0.885160,"river, dam, lake, pond, stream, canal or irrigation channel",23,62,0,0,1,dirt,natural,3
+lumen_2014:202,Lumen 2014,01000201,2014,Lumen,Region 2,0.000000,2,-0.670390,"river, dam, lake, pond, stream, canal or irrigation channel",,48,0,0,1,dirt,natural,1
+lumen_2014:203,Lumen 2014,01000202,2014,Lumen,Region 3,0.333333,3,0.041500,unprotected well,32,59,0,0,1,cement,finished,3
+lumen_2014:204,Lumen 2014,01000203,2014,Lumen,Region 4,0.500000,4,-0.027710,"river, dam, lake, pond, stream, canal or irrigation channel",14,39,0,1,1,cement,finished,2
+lumen_2014:205,Lumen 2014,01000204,2014,Lumen,Region 1,0.000000,1,0.274560,public tap,23,41,1,1,0,cement,finished,1
+lumen_2014:206,Lumen 2014,01000205,2014,Lumen,Region 2,0.500000,2,-0.734840,"river, dam, lake, pond, stream, canal or irrigation channel",,52,0,0,1,dirt,natural,2
+lumen_2014:207,Lumen 2014,01000206,2014,Lumen,Region 3,0.333333,3,0.485330,"river, dam, lake, pond, stream, canal or irrigation channel",13,60,0,1,1,cement,finished,2
+lumen_2014:208,Lumen 2014,01000207,2014,Lumen,Region 4,0.750000,4,-1.839140,public tap,21,25,0,0,0,dirt,natural,3
+lumen_2014:209,Lumen 2014,01000208,2014,Lumen,Region 1,1.000000,1,-1.091490,protected well,38,55,1,0,0,dirt,natural,2
+lumen_2014:210,Lumen 2014,01000209,2014,Lumen,Region 2,0.000000,2,0.280240,protected well,36,35,0,0,0,cement,finished,3
+lumen_2014:211,Lumen 2014,01000210,2014,Lumen,Region 3,0.000000,3,-0.177820,protected well,17,57,0,1,0,cement,finished,2
+lumen_2014:212,Lumen 2014,01000211,2014,Lumen,Region 4,0.500000,4,-0.532420,piped on premises,0,59,0,0,0,dirt,natural,3
+lumen_2014:213,Lumen 2014,01000212,2014,Lumen,Region 1,0.000000,1,-0.861330,public tap,46,59,1,0,0,dirt,natural,2
+lumen_2014:214,Lumen 2014,01000213,2014,Lumen,Region 2,0.000000,2,1.167270,protected well,11,55,0,1,0,cement,finished,1
+lumen_2014:215,Lumen 2014,01000214,2014,Lumen,Region 3,0.333333,3,-0.921750,public tap,53,23,0,0,0,dirt,natural,2
+lumen_2014:216,Lumen 2014,01000215,2014,Lumen,Region 4,1.000000,4,-1.611300,"river, dam, lake, pond, stream, canal or irrigation channel",43,41,0,0,1,dirt,natural,2
+lumen_2014:217,Lumen 2014,01000216,2014,Lumen,Region 1,1.000000,1,-3.049150,"river, dam, lake, pond, stream, canal or irrigation channel",60,63,0,0,1,dirt,natural,1
+lumen_2014:218,Lumen 2014,01000217,2014,Lumen,Region 2,0.000000,2,0.273100,protected well,17,33,0,0,0,cement,finished,2
+lumen_2014:219,Lumen 2014,01000218,2014,Lumen,Region 3,0.000000,3,0.593530,unprotected well,22,32,0,1,1,cement,finished,4
+lumen_2014:220,Lumen 2014,01000219,2014,Lumen,Region 4,0.000000,4,0.866120,unprotected well,27,18,0,1,1,cement,finished,3
+lumen_2014:221,Lumen 2014,01000220,2014,Lumen,Region 1,0.000000,1,-1.284150,protected well,29,37,1,0,0,dirt,natural,2
+lumen_2014:222,Lumen 2014,01000221,2014,Lumen,Region 2,0.500000,2,0.940250,unprotected well,45,40,0,1,1,cement,finished,4
+lumen_2014:223,Lumen 2014,01000222,2014,Lumen,Region 3,0.000000,3,1.160310,piped on premises,0,61,0,1,0,cement,finished,3
+lumen_2014:224,Lumen 2014,01000223,2014,Lumen,Region 4,0.250000,4,0.520940,protected well,7,56,0,1,0,cement,finished,1
+lumen_2014:225,Lumen 2014,01000224,2014,Lumen,Region 1,1.000000,1,0.510030,public tap,11,39,0,1,0,cement,finished,1
+lumen_2014:226,Lumen 2014,01000225,2014,Lumen,Region 2,0.500000,2,0.727030,piped on premises,0,46,0,1,0,cement,finished,1
+lumen_2014:227,Lumen 2014,01000226,2014,Lumen,Region 3,0.000000,3,-0.715220,public tap,52,62,0,0,0,dirt,natural,2
+lumen_2014:228,Lumen 2014,01000227,2014,Lumen,Region 4,0.750000,4,-1.752820,"river, dam, lake, pond, stream, canal or irrigation channel",55,59,0,0,1,dirt,natural,2
+lumen_2014:229,Lumen 2014,01000228,2014,Lumen,Region 1,1.000000,1,0.298030,unprotected well,21,62,1,0,1,cement,finished,3
+lumen_2014:230,Lumen 2014,01000229,2014,Lumen,Region 2,0.000000,2,0.762450,protected well,18,30,0,1,0,cement,finished,2
+lumen_2014:231,Lumen 2014,01000230,2014,Lumen,Region 3,0.000000,3,-0.392580,protected well,20,48,1,0,0,dirt,finished,2
+lumen_2014:232,Lumen 2014,01000231,2014,Lumen,Region 4,0.250000,4,-0.669420,protected well,18,18,0,0,0,dirt,natural,1
+lumen_2014:233,Lumen 2014,01000232,2014,Lumen,Region 1,0.000000,1,0.835490,unprotected well,24,58,1,1,1,cement,finished,2
+lumen_2014:234,Lumen 2014,01000233,2014,Lumen,Region 2,1.000000,2,-0.113270,"river, dam, lake, pond, stream, canal or irrigation channel",43,63,0,1,1,cement,finished,3
+lumen_2014:235,Lumen 2014,01000234,2014,Lumen,Region 3,0.333333,3,-0.364130,public tap,37,47,0,0,0,dirt,finished,3
+lumen_2014:236,Lumen 2014,01000235,2014,Lumen,Region 4,0.750000,4,-0.312670,unprotected well,47,30,0,1,1,dirt,finished,3
+lumen_2014:237,Lumen 2014,01000236,2014,Lumen,Region 1,1.000000,1,-1.215240,unprotected well,20,60,0,0,1,dirt,natural,2
+lumen_2014:238,Lumen 2014,01000237,2014,Lumen,Region 2,0.000000,2,0.454760,piped on premises,0,61,0,0,0,cement,finished,1
+lumen_2014:239,Lumen 2014,01000238,2014,Lumen,Region 3,0.666667,3,-0.570400,"river, dam, lake, pond, stream, canal or irrigation channel",58,42,0,0,1,dirt,natural,3
+lumen_2014:240,Lumen 2014,01000239,2014,Lumen,Region 4,0.250000,4,0.366860,piped on premises,0,72,0,1,0,cement,finished,2
+lumen_2014:241,Lumen 2014,01000240,2014,Lumen,Region 1,0.000000,1,0.648440,piped on premises,0,31,0,1,0,cement,finished,2
+lumen_2014:242,Lumen 2014,01000241,2014,Lumen,Region 2,0.500000,2,0.907810,unprotected well,30,28,1,1,1,cement,finished,2
+lumen_2014:243,Lumen 2014,01000242,2014,Lumen,Region 3,0.333333,3,-0.553880,protected well,37,51,1,0,0,dirt,natural,3
+lumen_2014:244,Lumen 2014,01000243,2014,Lumen,Region 4,0.000000,4,0.082130,"river, dam, lake, pond, stream, canal or irrigation channel",46,47,0,0,1,cement,finished,4
+lumen_2014:245,Lumen 2014,01000244,2014,Lumen,Region 1,1.000000,1,0.275430,protected well,32,44,0,1,0,cement,finished,1
+lumen_2014:246,Lumen 2014,01000245,2014,Lumen,Region 2,1.000000,2,-0.573030,piped on premises,0,38,0,0,0,dirt,natural,1
+lumen_2014:247,Lumen 2014,01000246,2014,Lumen,Region 3,0.333333,3,-1.184560,"river, dam, lake, pond, stream, canal or irrigation channel",,47,0,0,1,dirt,natural,3
+lumen_2014:248,Lumen 2014,01000247,2014,Lumen,Region 4,0.000000,4,1.256070,piped on premises,0,69,0,1,0,cement,finished,2
+lumen_2014:249,Lumen 2014,01000248,2014,Lumen,Region 1,0.000000,1,0.111240,unprotected well,15,52,0,0,1,cement,finished,4
+lumen_2014:250,Lumen 2014,01000249,2014,Lumen,Region 2,0.000000,2,-0.797970,unprotected well,4,46,0,0,1,dirt,natural,2
+lumen_2014:251,Lumen 2014,01000250,2014,Lumen,Region 3,0.000000,3,-0.234670,public tap,36,55,0,0,0,cement,finished,3
+lumen_2014:252,Lumen 2014,01000251,2014,Lumen,Region 4,0.000000,4,-0.013800,protected well,26,42,0,1,0,cement,finished,1
+lumen_2014:253,Lumen 2014,01000252,2014,Lumen,Region 1,0.000000,1,0.538130,piped on premises,0,28,0,1,0,cement,finished,3
+lumen_2014:254,Lumen 2014,01000253,2014,Lumen,Region 2,1.000000,2,-0.580660,public tap,29,57,1,0,0,dirt,natural,0
+lumen_2014:255,Lumen 2014,01000254,2014,Lumen,Region 3,0.000000,3,-2.153870,public tap,45,45,1,0,0,dirt,natural,2
+lumen_2014:256,Lumen 2014,01000255,2014,Lumen,Region 4,0.000000,4,0.379110,"river, dam, lake, pond, stream, canal or irrigation channel",26,38,0,1,1,cement,finished,1
+lumen_2014:257,Lumen 2014,01000256,2014,Lumen,Region 1,1.000000,1,-1.198270,public tap,33,51,0,0,0,dirt,natural,0
+lumen_2014:258,Lumen 2014,01000257,2014,Lumen,Region 2,0.000000,2,0.562250,protected well,18,42,0,0,0,cement,finished,2
+lumen_2014:259,Lumen 2014,01000258,2014,Lumen,Region 3,0.000000,3,-0.413550,"river, dam, lake, pond, stream, canal or irrigation channel",51,47,0,0,1,dirt,finished,2
+lumen_2014:260,Lumen 2014,01000259,2014,Lumen,Region 4,0.250000,4,0.575970,piped on premises,0,65,0,1,0,cement,finished,2
+lumen_2014:261,Lumen 2014,01000260,2014,Lumen,Region 1,0.000000,1,-0.317900,protected well,21,53,0,0,0,dirt,finished,3
+lumen_2014:262,Lumen 2014,01000261,2014,Lumen,Region 2,0.000000,2,0.229120,"river, dam, lake, pond, stream, canal or irrigation channel",29,40,0,1,1,cement,finished,0
+lumen_2014:263,Lumen 2014,01000262,2014,Lumen,Region 3,0.333333,3,-0.702590,protected well,48,,0,0,0,dirt,natural,3
+lumen_2014:264,Lumen 2014,01000263,2014,Lumen,Region 4,0.250000,4,-1.683970,"river, dam, lake, pond, stream, canal or irrigation channel",35,47,0,0,1,dirt,natural,1
+lumen_2014:265,Lumen 2014,01000264,2014,Lumen,Region 1,0.000000,1,1.519650,unprotected well,1,44,0,1,1,cement,finished,2
+lumen_2014:266,Lumen 2014,01000265,2014,Lumen,Region 2,0.500000,2,-0.407230,protected well,45,54,0,1,0,dirt,finished,2
+lumen_2014:267,Lumen 2014,01000266,2014,Lumen,Region 3,0.666667,3,-1.505190,"river, dam, lake, pond, stream, canal or irrigation channel",59,50,0,0,1,dirt,natural,3
+lumen_2014:268,Lumen 2014,01000267,2014,Lumen,Region 4,0.000000,4,-0.501650,protected well,24,,0,0,0,dirt,natural,1
+lumen_2014:269,Lumen 2014,01000268,2014,Lumen,Region 1,1.000000,1,0.214400,piped on premises,0,33,0,1,0,cement,finished,1
+lumen_2014:270,Lumen 2014,01000269,2014,Lumen,Region 2,0.500000,2,0.201340,protected well,64,35,1,1,0,cement,finished,3
+lumen_2014:271,Lumen 2014,01000270,2014,Lumen,Region 3,0.666667,3,0.146050,public tap,8,29,0,0,0,cement,finished,1
+lumen_2014:272,Lumen 2014,01000271,2014,Lumen,Region 4,0.500000,4,-1.553720,unprotected well,42,40,0,0,1,dirt,natural,1
+lumen_2014:273,Lumen 2014,01000272,2014,Lumen,Region 1,0.000000,1,-0.850450,"river, dam, lake, pond, stream, canal or irrigation channel",5,30,1,0,1,dirt,natural,0
+lumen_2014:274,Lumen 2014,01000273,2014,Lumen,Region 2,0.000000,2,1.355360,public tap,41,32,0,1,0,cement,finished,2
+lumen_2014:275,Lumen 2014,01000274,2014,Lumen,Region 3,0.666667,3,-1.461340,public tap,27,81,1,0,0,dirt,natural,2
+lumen_2014:276,Lumen 2014,01000275,2014,Lumen,Region 4,0.000000,4,-1.454900,public tap,31,32,1,0,0,dirt,natural,2
+lumen_2014:277,Lumen 2014,01000276,2014,Lumen,Region 1,0.000000,1,0.357150,protected well,10,45,0,1,0,cement,finished,2
+lumen_2014:278,Lumen 2014,01000277,2014,Lumen,Region 2,0.500000,2,-1.018930,"river, dam, lake, pond, stream, canal or irrigation channel",66,45,0,0,1,dirt,natural,2
+lumen_2014:279,Lumen 2014,01000278,2014,Lumen,Region 3,1.000000,3,-1.851150,"river, dam, lake, pond, stream, canal or irrigation channel",59,50,1,0,1,dirt,natural,2
+lumen_2014:280,Lumen 2014,01000279,2014,Lumen,Region 4,0.500000,4,-0.146550,protected well,34,53,1,1,0,cement,finished,3
+lumen_2014:281,Lumen 2014,01000280,2014,Lumen,Region 1,0.000000,1,0.493960,"river, dam, lake, pond, stream, canal or irrigation channel",16,61,1,1,1,cement,finished,3
+lumen_2014:282,Lumen 2014,01000281,2014,Lumen,Region 2,0.000000,2,-1.120340,"river, dam, lake, pond, stream, canal or irrigation channel",30,55,0,0,1,dirt,natural,3
+lumen_2014:283,Lumen 2014,01000282,2014,Lumen,Region 3,0.333333,3,-0.047370,"river, dam, lake, pond, stream, canal or irrigation channel",42,56,0,1,1,cement,finished,4
+lumen_2014:284,Lumen 2014,01000283,2014,Lumen,Region 4,0.750000,4,-0.507860,"river, dam, lake, pond, stream, canal or irrigation channel",51,44,1,0,1,dirt,natural,3
+lumen_2014:285,Lumen 2014,01000284,2014,Lumen,Region 1,0.000000,1,-0.538830,public tap,36,53,0,0,0,dirt,natural,2
+lumen_2014:286,Lumen 2014,01000285,2014,Lumen,Region 2,0.000000,2,-0.707140,protected well,50,34,0,0,0,dirt,natural,3
+lumen_2014:287,Lumen 2014,01000286,2014,Lumen,Region 3,0.000000,3,-0.226140,public tap,27,70,0,1,0,cement,finished,2
+lumen_2014:288,Lumen 2014,01000287,2014,Lumen,Region 4,0.750000,4,-1.476650,protected well,,21,0,0,0,dirt,natural,1
+lumen_2014:289,Lumen 2014,01000288,2014,Lumen,Region 1,0.000000,1,0.993850,protected well,29,51,1,1,0,cement,finished,2
+lumen_2014:290,Lumen 2014,01000289,2014,Lumen,Region 2,0.000000,2,-0.499800,"river, dam, lake, pond, stream, canal or irrigation channel",19,38,0,1,1,dirt,natural,1
+lumen_2014:291,Lumen 2014,01000290,2014,Lumen,Region 3,0.666667,3,-1.260350,public tap,35,39,0,0,0,dirt,natural,2
+lumen_2014:292,Lumen 2014,01000291,2014,Lumen,Region 4,0.000000,4,0.892580,piped on premises,0,60,0,0,0,cement,finished,3
+lumen_2014:293,Lumen 2014,01000292,2014,Lumen,Region 1,1.000000,1,-0.493660,protected well,69,51,0,0,0,dirt,natural,3
+lumen_2014:294,Lumen 2014,01000293,2014,Lumen,Region 2,0.500000,2,-1.316930,protected well,28,42,1,0,0,dirt,natural,3
+lumen_2014:295,Lumen 2014,01000294,2014,Lumen,Region 3,0.333333,3,0.114750,protected well,31,42,0,0,0,cement,finished,3
+lumen_2014:296,Lumen 2014,01000295,2014,Lumen,Region 4,0.250000,4,0.843940,public tap,25,63,0,1,0,cement,finished,3
+lumen_2014:297,Lumen 2014,01000296,2014,Lumen,Region 1,1.000000,1,0.238190,piped on premises,0,54,0,1,0,cement,finished,2
+lumen_2014:298,Lumen 2014,01000297,2014,Lumen,Region 2,0.000000,2,-0.619840,protected well,29,41,0,0,0,dirt,natural,3
+lumen_2014:299,Lumen 2014,01000298,2014,Lumen,Region 3,0.333333,3,-1.119020,"river, dam, lake, pond, stream, canal or irrigation channel",30,69,0,0,1,dirt,natural,3
+lumen_2014:300,Lumen 2014,01000299,2014,Lumen,Region 4,0.250000,4,-0.877720,protected well,44,78,0,0,0,dirt,natural,3
+lumen_2014:301,Lumen 2014,01000300,2014,Lumen,Region 1,1.000000,1,-1.814800,protected well,38,47,0,0,0,dirt,natural,3
+lumen_2014:302,Lumen 2014,01000301,2014,Lumen,Region 2,0.000000,2,-0.296120,"river, dam, lake, pond, stream, canal or irrigation channel",45,29,0,1,1,cement,finished,3
+lumen_2014:303,Lumen 2014,01000302,2014,Lumen,Region 3,0.666667,3,-0.805950,protected well,25,67,0,0,0,dirt,natural,3
+lumen_2014:304,Lumen 2014,01000303,2014,Lumen,Region 4,0.250000,4,-1.343130,public tap,37,59,0,0,0,dirt,natural,1
+lumen_2014:305,Lumen 2014,01000304,2014,Lumen,Region 1,1.000000,1,-0.983530,unprotected well,41,50,1,0,1,dirt,natural,3
+lumen_2014:306,Lumen 2014,01000305,2014,Lumen,Region 2,0.000000,2,1.308780,protected well,46,58,0,1,0,cement,finished,3
+lumen_2014:307,Lumen 2014,01000306,2014,Lumen,Region 3,0.333333,3,0.369530,protected well,9,43,0,1,0,cement,finished,5
+lumen_2014:308,Lumen 2014,01000307,2014,Lumen,Region 4,0.500000,4,-1.564210,protected well,45,37,0,0,0,dirt,natural,0
+lumen_2014:309,Lumen 2014,01000308,2014,Lumen,Region 1,0.000000,1,-0.013790,piped on premises,0,27,1,0,0,cement,finished,1
+lumen_2014:310,Lumen 2014,01000309,2014,Lumen,Region 2,0.000000,2,-0.968420,public tap,29,49,0,0,0,dirt,natural,0
+lumen_2014:311,Lumen 2014,01000310,2014,Lumen,Region 3,0.000000,3,-0.112030,"river, dam, lake, pond, stream, canal or irrigation channel",56,33,0,1,1,cement,finished,2
+lumen_2014:312,Lumen 2014,01000311,2014,Lumen,Region 4,0.250000,4,-1.332750,"river, dam, lake, pond, stream, canal or irrigation channel",38,22,0,0,1,dirt,natural,4
+lumen_2014:313,Lumen 2014,01000312,2014,Lumen,Region 1,0.000000,1,0.022680,protected well,38,44,0,1,0,cement,finished,2
+lumen_2014:314,Lumen 2014,01000313,2014,Lumen,Region 2,0.000000,2,-1.550480,protected well,36,43,0,0,0,dirt,natural,4
+lumen_2014:315,Lumen 2014,01000314,2014,Lumen,Region 3,0.333333,3,0.512810,unprotected well,25,46,1,1,1,cement,finished,
+lumen_2014:316,Lumen 2014,01000315,2014,Lumen,Region 4,0.500000,4,-0.115370,unprotected well,20,35,0,0,1,cement,finished,2
+lumen_2014:317,Lumen 2014,01000316,2014,Lumen,Region 1,0.000000,1,-0.390930,"river, dam, lake, pond, stream, canal or irrigation channel",38,43,0,0,1,dirt,finished,5
+lumen_2014:318,Lumen 2014,01000317,2014,Lumen,Region 2,0.500000,2,-0.194130,protected well,23,38,0,0,0,cement,finished,1
+lumen_2014:319,Lumen 2014,01000318,2014,Lumen,Region 3,0.000000,3,0.044420,piped on premises,0,58,0,1,0,cement,finished,3
+lumen_2014:320,Lumen 2014,01000319,2014,Lumen,Region 4,0.750000,4,-1.973730,protected well,46,66,0,0,0,dirt,natural,2
+noria_2015:321,Noria 2015,02000000,2015,Noria,Region 1,0.000000,1,-1.077570,protected well,,,0,0,0,dirt,natural,
+noria_2015:322,Noria 2015,02000001,2015,Noria,Region 2,0.500000,2,0.055960,unprotected well,23,29,0,0,1,cement,finished,2
+noria_2015:323,Noria 2015,02000002,2015,Noria,Region 3,0.333333,3,-0.985580,protected well,35,30,0,0,0,dirt,natural,2
+noria_2015:324,Noria 2015,02000003,2015,Noria,Region 4,0.000000,4,1.500300,public tap,25,18,1,1,0,cement,finished,3
+noria_2015:325,Noria 2015,02000004,2015,Noria,Region 1,0.000000,1,-1.212240,unprotected well,16,43,0,0,1,dirt,natural,3
+noria_2015:326,Noria 2015,02000005,2015,Noria,Region 2,1.000000,2,0.037490,public tap,14,62,0,0,0,cement,finished,2
+noria_2015:327,Noria 2015,02000006,2015,Noria,Region 3,0.666667,3,-0.097610,"river, dam, lake, pond, stream, canal or irrigation channel",36,53,1,1,1,cement,finished,4
+noria_2015:328,Noria 2015,02000007,2015,Noria,Region 4,0.750000,4,1.528660,piped on premises,0,67,0,1,0,cement,finished,4
+noria_2015:329,Noria 2015,02000008,2015,Noria,Region 1,0.000000,1,-0.899190,unprotected well,53,51,0,1,1,dirt,natural,3
+noria_2015:330,Noria 2015,02000009,2015,Noria,Region 2,0.500000,2,-0.206100,public tap,27,33,0,1,0,cement,finished,2
+noria_2015:331,Noria 2015,02000010,2015,Noria,Region 3,0.666667,3,-1.485240,"river, dam, lake, pond, stream, canal or irrigation channel",40,21,0,0,1,dirt,natural,4
+noria_2015:332,Noria 2015,02000011,2015,Noria,Region 4,0.500000,4,-1.782280,public tap,39,24,1,0,0,dirt,natural,2
+noria_2015:333,Noria 2015,02000012,2015,Noria,Region 1,1.000000,1,-1.181110,unprotected well,31,51,0,0,1,dirt,natural,2
+noria_2015:334,Noria 2015,02000013,2015,Noria,Region 2,0.500000,2,-0.828520,unprotected well,29,51,0,0,1,dirt,natural,1
+noria_2015:335,Noria 2015,02000014,2015,Noria,Region 3,0.666667,3,-0.776600,unprotected well,18,60,0,0,1,dirt,natural,3
+noria_2015:336,Noria 2015,02000015,2015,Noria,Region 4,0.500000,4,-0.601650,protected well,39,42,0,0,0,dirt,natural,2
+noria_2015:337,Noria 2015,02000016,2015,Noria,Region 1,1.000000,1,-1.017420,"river, dam, lake, pond, stream, canal or irrigation channel",25,43,0,0,1,dirt,natural,3
+noria_2015:338,Noria 2015,02000017,2015,Noria,Region 2,0.500000,2,0.526940,piped on premises,0,57,0,1,0,cement,finished,3
+noria_2015:339,Noria 2015,02000018,2015,Noria,Region 3,0.333333,3,-0.906460,protected well,10,71,0,0,0,dirt,natural,3
+noria_2015:340,Noria 2015,02000019,2015,Noria,Region 4,0.750000,4,-1.680360,protected well,49,48,0,0,0,dirt,natural,2
+noria_2015:341,Noria 2015,02000020,2015,Noria,Region 1,0.000000,1,0.460460,unprotected well,51,62,0,1,1,cement,finished,1
+noria_2015:342,Noria 2015,02000021,2015,Noria,Region 2,0.000000,2,0.366290,public tap,20,43,0,1,0,cement,finished,4
+noria_2015:343,Noria 2015,02000022,2015,Noria,Region 3,0.666667,3,1.151430,piped on premises,0,60,1,1,0,cement,finished,5
+noria_2015:344,Noria 2015,02000023,2015,Noria,Region 4,0.250000,4,-1.138430,unprotected well,43,56,1,0,1,dirt,natural,2
+noria_2015:345,Noria 2015,02000024,2015,Noria,Region 1,0.000000,1,-1.779560,"river, dam, lake, pond, stream, canal or irrigation channel",26,22,1,0,1,dirt,natural,2
+noria_2015:346,Noria 2015,02000025,2015,Noria,Region 2,0.000000,2,-1.333990,protected well,44,38,1,0,0,dirt,natural,3
+noria_2015:347,Noria 2015,02000026,2015,Noria,Region 3,0.333333,3,-1.799200,unprotected well,33,56,0,0,1,dirt,natural,0
+noria_2015:348,Noria 2015,02000027,2015,Noria,Region 4,0.250000,4,1.184780,public tap,43,20,0,1,0,cement,finished,1
+noria_2015:349,Noria 2015,02000028,2015,Noria,Region 1,0.000000,1,0.405820,protected well,26,61,0,1,0,cement,finished,2
+noria_2015:350,Noria 2015,02000029,2015,Noria,Region 2,0.000000,2,-0.933390,protected well,29,34,0,0,0,dirt,natural,2
+noria_2015:351,Noria 2015,02000030,2015,Noria,Region 3,0.000000,3,1.240400,public tap,32,56,0,1,0,cement,finished,2
+noria_2015:352,Noria 2015,02000031,2015,Noria,Region 4,0.500000,4,-1.101090,protected well,40,64,1,0,0,dirt,natural,4
+noria_2015:353,Noria 2015,02000032,2015,Noria,Region 1,0.000000,1,0.485020,piped on premises,0,34,1,1,0,cement,finished,3
+noria_2015:354,Noria 2015,02000033,2015,Noria,Region 2,0.000000,2,-0.674010,protected well,31,44,0,0,0,dirt,natural,1
+noria_2015:355,Noria 2015,02000034,2015,Noria,Region 3,0.000000,3,1.335590,piped on premises,0,22,0,1,0,cement,finished,3
+noria_2015:356,Noria 2015,02000035,2015,Noria,Region 4,0.750000,4,-1.886560,unprotected well,29,46,0,0,1,dirt,natural,2
+noria_2015:357,Noria 2015,02000036,2015,Noria,Region 1,1.000000,1,-0.681760,unprotected well,41,45,0,0,1,dirt,natural,3
+noria_2015:358,Noria 2015,02000037,2015,Noria,Region 2,1.000000,2,-0.323990,protected well,19,35,0,0,0,dirt,finished,2
+noria_2015:359,Noria 2015,02000038,2015,Noria,Region 3,0.333333,3,-0.877160,piped on premises,0,49,0,0,0,dirt,natural,3
+noria_2015:360,Noria 2015,02000039,2015,Noria,Region 4,0.000000,4,-0.732180,unprotected well,42,44,1,0,1,dirt,natural,4
+noria_2015:361,Noria 2015,02000040,2015,Noria,Region 1,1.000000,1,-0.803420,unprotected well,13,18,0,0,1,dirt,natural,3
+noria_2015:362,Noria 2015,02000041,2015,Noria,Region 2,1.000000,2,-1.402020,public tap,,45,0,0,0,dirt,natural,4
+noria_2015:363,Noria 2015,02000042,2015,Noria,Region 3,0.333333,3,-0.511820,protected well,40,51,0,1,0,dirt,natural,3
+noria_2015:364,Noria 2015,02000043,2015,Noria,Region 4,0.750000,4,-1.118410,protected well,27,53,1,0,0,dirt,natural,3
+noria_2015:365,Noria 2015,02000044,2015,Noria,Region 1,0.000000,1,-0.868660,protected well,45,37,0,0,0,dirt,natural,3
+noria_2015:366,Noria 2015,02000045,2015,Noria,Region 2,1.000000,2,0.193110,unprotected well,34,44,0,0,1,cement,finished,2
+noria_2015:367,Noria 2015,02000046,2015,Noria,Region 3,0.000000,3,0.337730,unprotected well,32,56,0,0,1,cement,finished,2
+noria_2015:368,Noria 2015,02000047,2015,Noria,Region 4,0.250000,4,0.416660,piped on premises,0,51,0,1,0,cement,finished,2
+noria_2015:369,Noria 2015,02000048,2015,Noria,Region 1,1.000000,1,0.436960,piped on premises,0,44,0,1,0,cement,finished,2
+noria_2015:370,Noria 2015,02000049,2015,Noria,Region 2,0.000000,2,1.680770,piped on premises,0,66,1,1,0,cement,finished,3
+noria_2015:371,Noria 2015,02000050,2015,Noria,Region 3,0.666667,3,-0.226360,protected well,40,50,0,0,0,cement,finished,2
+noria_2015:372,Noria 2015,02000051,2015,Noria,Region 4,0.750000,4,-0.828830,protected well,43,64,0,0,0,dirt,natural,3
+noria_2015:373,Noria 2015,02000052,2015,Noria,Region 1,1.000000,1,-0.868580,public tap,25,32,0,0,0,dirt,natural,2
+noria_2015:374,Noria 2015,02000053,2015,Noria,Region 2,0.500000,2,0.838750,unprotected well,26,51,0,1,1,cement,finished,3
+noria_2015:375,Noria 2015,02000054,2015,Noria,Region 3,0.666667,3,-0.877640,public tap,50,50,0,0,0,dirt,natural,3
+noria_2015:376,Noria 2015,02000055,2015,Noria,Region 4,0.250000,4,-0.375540,piped on premises,0,48,0,0,0,dirt,finished,1
+noria_2015:377,Noria 2015,02000056,2015,Noria,Region 1,1.000000,1,-0.611620,"river, dam, lake, pond, stream, canal or irrigation channel",51,51,0,0,1,dirt,natural,2
+noria_2015:378,Noria 2015,02000057,2015,Noria,Region 2,1.000000,2,-2.206450,public tap,42,35,1,0,0,dirt,natural,3
+noria_2015:379,Noria 2015,02000058,2015,Noria,Region 3,0.666667,3,-0.027990,public tap,16,39,1,1,0,cement,finished,2
+noria_2015:380,Noria 2015,02000059,2015,Noria,Region 4,0.000000,4,0.570240,piped on premises,0,62,0,0,0,cement,finished,1
+noria_2015:381,Noria 2015,02000060,2015,Noria,Region 1,0.000000,1,-0.098790,protected well,24,40,0,0,0,cement,finished,1
+noria_2015:382,Noria 2015,02000061,2015,Noria,Region 2,0.500000,2,-0.923270,"river, dam, lake, pond, stream, canal or irrigation channel",21,57,0,0,1,dirt,natural,3
+noria_2015:383,Noria 2015,02000062,2015,Noria,Region 3,0.666667,3,-0.131160,public tap,30,61,0,0,0,cement,finished,3
+noria_2015:384,Noria 2015,02000063,2015,Noria,Region 4,0.500000,4,-0.403390,"river, dam, lake, pond, stream, canal or irrigation channel",51,48,0,0,1,dirt,finished,3
+noria_2015:385,Noria 2015,02000064,2015,Noria,Region 1,0.000000,1,-1.266830,unprotected well,46,29,0,0,1,dirt,natural,3
+noria_2015:386,Noria 2015,02000065,2015,Noria,Region 2,0.000000,2,-0.066390,"river, dam, lake, pond, stream, canal or irrigation channel",56,63,0,1,1,cement,finished,1
+noria_2015:387,Noria 2015,02000066,2015,Noria,Region 3,0.333333,3,-0.639610,"river, dam, lake, pond, stream, canal or irrigation channel",17,50,0,0,1,dirt,natural,3
+noria_2015:388,Noria 2015,02000067,2015,Noria,Region 4,0.250000,4,-1.337880,"river, dam, lake, pond, stream, canal or irrigation channel",,48,0,0,1,dirt,natural,3
+noria_2015:389,Noria 2015,02000068,2015,Noria,Region 1,0.000000,1,-0.589130,public tap,54,43,0,1,0,dirt,natural,1
+noria_2015:390,Noria 2015,02000069,2015,Noria,Region 2,0.500000,2,-1.174460,protected well,25,52,0,0,0,dirt,natural,1
+noria_2015:391,Noria 2015,02000070,2015,Noria,Region 3,0.000000,3,-2.043660,protected well,29,43,1,0,0,dirt,natural,3
+noria_2015:392,Noria 2015,02000071,2015,Noria,Region 4,0.500000,4,0.880170,protected well,24,58,0,1,0,cement,finished,2
+noria_2015:393,Noria 2015,02000072,2015,Noria,Region 1,1.000000,1,-1.518760,protected well,34,57,1,0,0,dirt,natural,2
+noria_2015:394,Noria 2015,02000073,2015,Noria,Region 2,0.000000,2,-0.072130,"river, dam, lake, pond, stream, canal or irrigation channel",43,39,0,0,1,cement,finished,2
+noria_2015:395,Noria 2015,02000074,2015,Noria,Region 3,0.000000,3,-0.246890,protected well,7,55,1,1,0,cement,finished,2
+noria_2015:396,Noria 2015,02000075,2015,Noria,Region 4,0.500000,4,0.376730,unprotected well,23,64,0,1,1,cement,finished,1
+noria_2015:397,Noria 2015,02000076,2015,Noria,Region 1,1.000000,1,0.231270,unprotected well,32,39,0,1,1,cement,finished,2
+noria_2015:398,Noria 2015,02000077,2015,Noria,Region 2,1.000000,2,0.103710,piped on premises,0,70,0,0,0,cement,finished,2
+noria_2015:399,Noria 2015,02000078,2015,Noria,Region 3,1.000000,3,-0.921370,protected well,26,66,0,0,0,dirt,natural,0
+noria_2015:400,Noria 2015,02000079,2015,Noria,Region 4,0.750000,4,-0.867710,"river, dam, lake, pond, stream, canal or irrigation channel",49,46,0,0,1,dirt,natural,1
+noria_2015:401,Noria 2015,02000080,2015,Noria,Region 1,1.000000,1,-1.875540,"river, dam, lake, pond, stream, canal or irrigation channel",30,61,0,0,1,dirt,natural,2
+noria_2015:402,Noria 2015,02000081,2015,Noria,Region 2,0.000000,2,0.729100,piped on premises,0,65,0,1,0,cement,finished,2
+noria_2015:403,Noria 2015,02000082,2015,Noria,Region 3,0.666667,3,-0.390020,protected well,,35,0,0,0,dirt,finished,2
+noria_2015:404,Noria 2015,02000083,2015,Noria,Region 4,0.500000,4,0.103010,public tap,18,49,0,0,0,cement,finished,2
+noria_2015:405,Noria 2015,02000084,2015,Noria,Region 1,0.000000,1,-0.592990,"river, dam, lake, pond, stream, canal or irrigation channel",43,40,0,0,1,dirt,natural,3
+noria_2015:406,Noria 2015,02000085,2015,Noria,Region 2,0.500000,2,0.799780,unprotected well,17,61,0,1,1,cement,finished,3
+noria_2015:407,Noria 2015,02000086,2015,Noria,Region 3,0.666667,3,-1.174340,public tap,38,63,0,0,0,dirt,natural,2
+noria_2015:408,Noria 2015,02000087,2015,Noria,Region 4,0.750000,4,-1.500300,"river, dam, lake, pond, stream, canal or irrigation channel",43,41,0,0,1,dirt,natural,0
+noria_2015:409,Noria 2015,02000088,2015,Noria,Region 1,1.000000,1,0.168710,protected well,27,36,0,0,0,cement,finished,1
+noria_2015:410,Noria 2015,02000089,2015,Noria,Region 2,0.000000,2,-0.575240,protected well,49,,0,0,0,dirt,natural,2
+noria_2015:411,Noria 2015,02000090,2015,Noria,Region 3,0.666667,3,-2.024070,"river, dam, lake, pond, stream, canal or irrigation channel",40,60,0,0,1,dirt,natural,2
+noria_2015:412,Noria 2015,02000091,2015,Noria,Region 4,0.000000,4,0.073810,piped on premises,0,54,0,0,0,cement,finished,3
+noria_2015:413,Noria 2015,02000092,2015,Noria,Region 1,1.000000,1,0.613550,unprotected well,8,51,0,1,1,cement,finished,2
+noria_2015:414,Noria 2015,02000093,2015,Noria,Region 2,0.000000,2,-1.146600,"river, dam, lake, pond, stream, canal or irrigation channel",51,42,0,1,1,dirt,natural,2
+noria_2015:415,Noria 2015,02000094,2015,Noria,Region 3,0.666667,3,-1.116750,protected well,37,59,0,0,0,dirt,natural,3
+noria_2015:416,Noria 2015,02000095,2015,Noria,Region 4,0.500000,4,0.452210,piped on premises,0,37,1,0,0,cement,finished,3
+noria_2015:417,Noria 2015,02000096,2015,Noria,Region 1,0.000000,1,-0.444590,unprotected well,8,64,0,1,1,dirt,finished,2
+noria_2015:418,Noria 2015,02000097,2015,Noria,Region 2,0.000000,2,0.401790,piped on premises,0,25,1,1,0,cement,finished,1
+noria_2015:419,Noria 2015,02000098,2015,Noria,Region 3,0.000000,3,0.370520,piped on premises,0,40,0,1,0,cement,finished,2
+noria_2015:420,Noria 2015,02000099,2015,Noria,Region 4,0.750000,4,-0.386820,unprotected well,44,63,0,0,1,dirt,finished,3
+noria_2015:421,Noria 2015,02000100,2015,Noria,Region 1,1.000000,1,-0.668710,protected well,25,43,0,0,0,dirt,natural,2
+noria_2015:422,Noria 2015,02000101,2015,Noria,Region 2,1.000000,2,-0.653260,public tap,43,37,0,0,0,dirt,natural,3
+noria_2015:423,Noria 2015,02000102,2015,Noria,Region 3,0.333333,3,-0.086100,protected well,37,40,0,0,0,cement,finished,3
+noria_2015:424,Noria 2015,02000103,2015,Noria,Region 4,0.500000,4,-0.307980,unprotected well,31,63,0,0,1,dirt,finished,2
+noria_2015:425,Noria 2015,02000104,2015,Noria,Region 1,1.000000,1,-0.280190,piped on premises,0,35,0,0,0,cement,finished,3
+noria_2015:426,Noria 2015,02000105,2015,Noria,Region 2,0.500000,2,-0.060050,"river, dam, lake, pond, stream, canal or irrigation channel",16,45,0,1,1,cement,finished,5
+noria_2015:427,Noria 2015,02000106,2015,Noria,Region 3,0.666667,3,0.178620,unprotected well,44,24,0,0,1,cement,finished,2
+noria_2015:428,Noria 2015,02000107,2015,Noria,Region 4,0.500000,4,-0.404260,"river, dam, lake, pond, stream, canal or irrigation channel",31,66,0,0,1,dirt,finished,4
+noria_2015:429,Noria 2015,02000108,2015,Noria,Region 1,1.000000,1,-1.124820,"river, dam, lake, pond, stream, canal or irrigation channel",44,34,0,0,1,dirt,natural,2
+noria_2015:430,Noria 2015,02000109,2015,Noria,Region 2,0.500000,2,-1.877620,protected well,43,47,0,0,0,dirt,natural,2
+noria_2015:431,Noria 2015,02000110,2015,Noria,Region 3,0.000000,3,1.270130,piped on premises,0,53,0,1,0,cement,finished,2
+noria_2015:432,Noria 2015,02000111,2015,Noria,Region 4,0.250000,4,0.208790,public tap,40,64,0,1,0,cement,finished,0
+noria_2015:433,Noria 2015,02000112,2015,Noria,Region 1,0.000000,1,-0.783670,piped on premises,0,41,0,0,0,dirt,natural,1
+noria_2015:434,Noria 2015,02000113,2015,Noria,Region 2,0.500000,2,-1.628500,protected well,11,35,0,0,0,dirt,natural,3
+noria_2015:435,Noria 2015,02000114,2015,Noria,Region 3,0.000000,3,-0.047690,protected well,36,70,1,0,0,cement,finished,2
+noria_2015:436,Noria 2015,02000115,2015,Noria,Region 4,0.750000,4,-1.228050,"river, dam, lake, pond, stream, canal or irrigation channel",30,39,0,0,1,dirt,natural,0
+noria_2015:437,Noria 2015,02000116,2015,Noria,Region 1,0.000000,1,1.250420,protected well,3,68,0,1,0,cement,finished,3
+noria_2015:438,Noria 2015,02000117,2015,Noria,Region 2,0.000000,2,0.514980,protected well,24,35,0,1,0,cement,finished,2
+noria_2015:439,Noria 2015,02000118,2015,Noria,Region 3,0.000000,3,0.197430,public tap,37,19,0,1,0,cement,finished,2
+noria_2015:440,Noria 2015,02000119,2015,Noria,Region 4,0.250000,4,-0.147420,protected well,6,50,0,0,0,cement,finished,3
+noria_2015:441,Noria 2015,02000120,2015,Noria,Region 1,1.000000,1,-0.824400,public tap,65,54,0,0,0,dirt,natural,3
+noria_2015:442,Noria 2015,02000121,2015,Noria,Region 2,0.500000,2,-1.453720,unprotected well,22,39,0,0,1,dirt,natural,2
+noria_2015:443,Noria 2015,02000122,2015,Noria,Region 3,0.333333,3,-0.123960,protected well,19,75,0,0,0,cement,finished,3
+noria_2015:444,Noria 2015,02000123,2015,Noria,Region 4,0.250000,4,0.762620,piped on premises,,41,0,1,0,cement,finished,2
+noria_2015:445,Noria 2015,02000124,2015,Noria,Region 1,1.000000,1,-0.872110,public tap,52,42,0,0,0,dirt,natural,3
+noria_2015:446,Noria 2015,02000125,2015,Noria,Region 2,0.000000,2,0.985610,piped on premises,0,54,0,1,0,cement,finished,1
+noria_2015:447,Noria 2015,02000126,2015,Noria,Region 3,0.000000,3,1.050940,piped on premises,0,53,0,1,0,cement,finished,2
+noria_2015:448,Noria 2015,02000127,2015,Noria,Region 4,0.750000,4,-1.206150,protected well,47,54,0,0,0,dirt,natural,3
+noria_2015:449,Noria 2015,02000128,2015,Noria,Region 1,0.000000,1,1.681280,piped on premises,0,58,0,1,0,cement,finished,1
+noria_2015:450,Noria 2015,02000129,2015,Noria,Region 2,0.500000,2,0.676840,public tap,26,58,1,1,0,cement,finished,3
+noria_2015:451,Noria 2015,02000130,2015,Noria,Region 3,0.333333,3,-0.303000,protected well,43,43,1,0,0,dirt,finished,2
+noria_2015:452,Noria 2015,02000131,2015,Noria,Region 4,0.750000,4,-1.111600,"river, dam, lake, pond, stream, canal or irrigation channel",40,,0,0,1,dirt,natural,1
+noria_2015:453,Noria 2015,02000132,2015,Noria,Region 1,1.000000,1,-0.196920,public tap,41,44,0,0,0,cement,finished,4
+noria_2015:454,Noria 2015,02000133,2015,Noria,Region 2,1.000000,2,-0.881740,"river, dam, lake, pond, stream, canal or irrigation channel",59,58,0,0,1,dirt,natural,2
+noria_2015:455,Noria 2015,02000134,2015,Noria,Region 3,0.333333,3,-0.368970,"river, dam, lake, pond, stream, canal or irrigation channel",,46,0,0,1,dirt,finished,4
+noria_2015:456,Noria 2015,02000135,2015,Noria,Region 4,0.000000,4,0.925060,public tap,56,48,1,0,0,cement,finished,1
+noria_2015:457,Noria 2015,02000136,2015,Noria,Region 1,0.000000,1,-1.352560,public tap,50,35,0,0,0,dirt,natural,1
+noria_2015:458,Noria 2015,02000137,2015,Noria,Region 2,0.500000,2,0.958120,piped on premises,0,35,0,1,0,cement,finished,4
+noria_2015:459,Noria 2015,02000138,2015,Noria,Region 3,0.666667,3,-0.403400,piped on premises,0,49,0,0,0,dirt,finished,3
+noria_2015:460,Noria 2015,02000139,2015,Noria,Region 4,0.500000,4,2.060460,piped on premises,0,53,0,1,0,cement,finished,3
+noria_2015:461,Noria 2015,02000140,2015,Noria,Region 1,0.000000,1,-0.204020,protected well,36,57,0,0,0,cement,finished,1
+noria_2015:462,Noria 2015,02000141,2015,Noria,Region 2,0.000000,2,-0.140000,public tap,30,55,1,0,0,cement,finished,1
+noria_2015:463,Noria 2015,02000142,2015,Noria,Region 3,0.666667,3,-1.422410,unprotected well,34,59,0,0,1,dirt,natural,2
+noria_2015:464,Noria 2015,02000143,2015,Noria,Region 4,0.250000,4,0.068260,protected well,34,42,0,1,0,cement,finished,2
+noria_2015:465,Noria 2015,02000144,2015,Noria,Region 1,1.000000,1,-0.531480,piped on premises,0,44,0,0,0,dirt,natural,2
+noria_2015:466,Noria 2015,02000145,2015,Noria,Region 2,0.000000,2,0.046390,protected well,43,45,1,0,0,cement,finished,3
+noria_2015:467,Noria 2015,02000146,2015,Noria,Region 3,0.333333,3,0.919180,protected well,25,55,0,1,0,cement,finished,1
+noria_2015:468,Noria 2015,02000147,2015,Noria,Region 4,0.000000,4,-0.091520,protected well,43,61,0,0,0,cement,finished,1
+noria_2015:469,Noria 2015,02000148,2015,Noria,Region 1,1.000000,1,-0.722870,"river, dam, lake, pond, stream, canal or irrigation channel",26,38,0,0,1,dirt,natural,2
+noria_2015:470,Noria 2015,02000149,2015,Noria,Region 2,0.500000,2,-0.850670,public tap,29,40,0,0,0,dirt,natural,4
+noria_2015:471,Noria 2015,02000150,2015,Noria,Region 3,0.666667,3,0.434340,piped on premises,0,41,0,1,0,cement,finished,3
+noria_2015:472,Noria 2015,02000151,2015,Noria,Region 4,0.250000,4,-0.553560,"river, dam, lake, pond, stream, canal or irrigation channel",5,53,0,0,1,dirt,natural,0
+noria_2015:473,Noria 2015,02000152,2015,Noria,Region 1,1.000000,1,0.555460,public tap,35,38,0,1,0,cement,finished,2
+noria_2015:474,Noria 2015,02000153,2015,Noria,Region 2,0.500000,2,-0.675470,unprotected well,38,38,0,1,1,dirt,natural,1
+noria_2015:475,Noria 2015,02000154,2015,Noria,Region 3,0.666667,3,0.661120,piped on premises,0,37,0,0,0,cement,finished,1
+noria_2015:476,Noria 2015,02000155,2015,Noria,Region 4,0.000000,4,0.208220,piped on premises,0,49,0,1,0,cement,finished,1
+noria_2015:477,Noria 2015,02000156,2015,Noria,Region 1,0.000000,1,0.527390,piped on premises,0,42,0,1,0,cement,finished,2
+noria_2015:478,Noria 2015,02000157,2015,Noria,Region 2,0.500000,2,-1.226160,"river, dam, lake, pond, stream, canal or irrigation channel",47,39,0,0,1,dirt,natural,
+noria_2015:479,Noria 2015,02000158,2015,Noria,Region 3,0.666667,3,-1.427040,"river, dam, lake, pond, stream, canal or irrigation channel",39,48,0,0,1,dirt,natural,3
+noria_2015:480,Noria 2015,02000159,2015,Noria,Region 4,0.750000,4,-0.805550,unprotected well,16,42,0,0,1,dirt,natural,3
+noria_2015:481,Noria 2015,02000160,2015,Noria,Region 1,1.000000,1,-2.091200,"river, dam, lake, pond, stream, canal or irrigation channel",64,81,1,0,1,dirt,natural,3
+noria_2015:482,Noria 2015,02000161,2015,Noria,Region 2,0.000000,2,-0.600290,unprotected well,32,86,0,0,1,dirt,natural,3
+noria_2015:483,Noria 2015,02000162,2015,Noria,Region 3,0.000000,3,1.005230,unprotected well,29,50,0,1,1,cement,finished,3
+noria_2015:484,Noria 2015,02000163,2015,Noria,Region 4,0.750000,4,0.134880,protected well,26,20,1,1,0,cement,finished,1
+noria_2015:485,Noria 2015,02000164,2015,Noria,Region 1,0.000000,1,-0.497550,protected well,,49,0,0,0,dirt,natural,3
+noria_2015:486,Noria 2015,02000165,2015,Noria,Region 2,0.500000,2,-0.690750,protected well,24,63,0,0,0,dirt,natural,1
+noria_2015:487,Noria 2015,02000166,2015,Noria,Region 3,0.333333,3,-0.401380,public tap,36,47,0,0,0,dirt,finished,3
+noria_2015:488,Noria 2015,02000167,2015,Noria,Region 4,0.750000,4,-1.655010,public tap,30,54,0,0,0,dirt,natural,3
+noria_2015:489,Noria 2015,02000168,2015,Noria,Region 1,0.000000,1,0.643210,public tap,27,40,0,1,0,cement,finished,2
+noria_2015:490,Noria 2015,02000169,2015,Noria,Region 2,1.000000,2,-1.745200,"river, dam, lake, pond, stream, canal or irrigation channel",48,42,0,0,1,dirt,natural,3
+noria_2015:491,Noria 2015,02000170,2015,Noria,Region 3,0.666667,3,-0.896570,protected well,40,41,0,0,0,dirt,natural,3
+noria_2015:492,Noria 2015,02000171,2015,Noria,Region 4,0.000000,4,0.172950,"river, dam, lake, pond, stream, canal or irrigation channel",26,57,0,1,1,cement,finished,1
+noria_2015:493,Noria 2015,02000172,2015,Noria,Region 1,0.000000,1,0.279330,public tap,19,27,0,0,0,cement,finished,3
+noria_2015:494,Noria 2015,02000173,2015,Noria,Region 2,0.500000,2,0.008040,unprotected well,51,50,0,0,1,cement,finished,3
+noria_2015:495,Noria 2015,02000174,2015,Noria,Region 3,0.333333,3,-0.455790,"river, dam, lake, pond, stream, canal or irrigation channel",49,48,0,1,1,dirt,natural,2
+noria_2015:496,Noria 2015,02000175,2015,Noria,Region 4,0.000000,4,1.239250,protected well,21,45,0,1,0,cement,finished,2
+noria_2015:497,Noria 2015,02000176,2015,Noria,Region 1,1.000000,1,0.609570,piped on premises,0,53,0,1,0,cement,finished,2
+noria_2015:498,Noria 2015,02000177,2015,Noria,Region 2,0.500000,2,-1.203870,public tap,41,56,0,0,0,dirt,natural,1
+noria_2015:499,Noria 2015,02000178,2015,Noria,Region 3,0.333333,3,-0.532860,public tap,24,,0,0,0,dirt,natural,3
+noria_2015:500,Noria 2015,02000179,2015,Noria,Region 4,0.250000,4,1.729360,protected well,28,43,0,1,0,cement,finished,1
+noria_2015:501,Noria 2015,02000180,2015,Noria,Region 1,0.000000,1,-0.332660,public tap,34,62,0,0,0,dirt,finished,4
+noria_2015:502,Noria 2015,02000181,2015,Noria,Region 2,0.500000,2,-0.641290,public tap,17,54,0,0,0,dirt,natural,1
+noria_2015:503,Noria 2015,02000182,2015,Noria,Region 3,0.333333,3,-0.367240,protected well,23,64,0,1,0,dirt,finished,4
+noria_2015:504,Noria 2015,02000183,2015,Noria,Region 4,1.000000,4,-0.851020,"river, dam, lake, pond, stream, canal or irrigation channel",35,39,0,0,1,dirt,natural,2
+noria_2015:505,Noria 2015,02000184,2015,Noria,Region 1,0.000000,1,0.004640,unprotected well,51,64,0,1,1,cement,finished,2
+noria_2015:506,Noria 2015,02000185,2015,Noria,Region 2,0.000000,2,0.418700,protected well,20,63,0,1,0,cement,finished,1
+noria_2015:507,Noria 2015,02000186,2015,Noria,Region 3,0.333333,3,0.084290,unprotected well,32,50,0,1,1,cement,finished,3
+noria_2015:508,Noria 2015,02000187,2015,Noria,Region 4,0.750000,4,-0.839600,public tap,23,53,0,0,0,dirt,natural,2
+noria_2015:509,Noria 2015,02000188,2015,Noria,Region 1,0.000000,1,-0.974450,"river, dam, lake, pond, stream, canal or irrigation channel",40,55,0,0,1,dirt,natural,3
+noria_2015:510,Noria 2015,02000189,2015,Noria,Region 2,0.000000,2,2.745310,protected well,1,46,0,1,0,cement,finished,2
+noria_2015:511,Noria 2015,02000190,2015,Noria,Region 3,0.000000,3,-0.253910,piped on premises,0,77,0,1,0,cement,finished,3
+noria_2015:512,Noria 2015,02000191,2015,Noria,Region 4,0.000000,4,0.879870,piped on premises,0,39,0,1,0,cement,finished,3
+noria_2015:513,Noria 2015,02000192,2015,Noria,Region 1,1.000000,1,-0.385140,protected well,47,52,0,0,0,dirt,finished,1
+noria_2015:514,Noria 2015,02000193,2015,Noria,Region 2,0.500000,2,0.268420,piped on premises,0,51,0,0,0,cement,finished,3
+noria_2015:515,Noria 2015,02000194,2015,Noria,Region 3,0.333333,3,-0.912260,unprotected well,29,35,0,0,1,dirt,natural,3
+noria_2015:516,Noria 2015,02000195,2015,Noria,Region 4,0.000000,4,0.869610,piped on premises,0,55,0,1,0,cement,finished,1
+noria_2015:517,Noria 2015,02000196,2015,Noria,Region 1,0.000000,1,0.384890,protected well,38,59,0,1,0,cement,finished,2
+noria_2015:518,Noria 2015,02000197,2015,Noria,Region 2,0.500000,2,-0.578740,"river, dam, lake, pond, stream, canal or irrigation channel",33,56,0,0,1,dirt,natural,4
+noria_2015:519,Noria 2015,02000198,2015,Noria,Region 3,0.000000,3,1.330000,piped on premises,0,33,0,1,0,cement,finished,4
+noria_2015:520,Noria 2015,02000199,2015,Noria,Region 4,0.500000,4,-1.131050,public tap,70,21,0,0,0,dirt,natural,2
+noria_2015:521,Noria 2015,02000200,2015,Noria,Region 1,1.000000,1,-0.845360,"river, dam, lake, pond, stream, canal or irrigation channel",49,57,0,0,1,dirt,natural,2
+noria_2015:522,Noria 2015,02000201,2015,Noria,Region 2,1.000000,2,-0.225600,"river, dam, lake, pond, stream, canal or irrigation channel",,39,0,0,1,cement,finished,4
+noria_2015:523,Noria 2015,02000202,2015,Noria,Region 3,0.666667,3,-0.928560,unprotected well,42,63,0,0,1,dirt,natural,3
+noria_2015:524,Noria 2015,02000203,2015,Noria,Region 4,0.250000,4,-0.389920,piped on premises,0,47,0,0,0,dirt,finished,2
+noria_2015:525,Noria 2015,02000204,2015,Noria,Region 1,0.000000,1,0.351210,"river, dam, lake, pond, stream, canal or irrigation channel",58,56,0,1,1,cement,finished,1
+noria_2015:526,Noria 2015,02000205,2015,Noria,Region 2,0.500000,2,0.890590,piped on premises,,70,0,0,0,cement,finished,1
+noria_2015:527,Noria 2015,02000206,2015,Noria,Region 3,0.333333,3,-1.040220,"river, dam, lake, pond, stream, canal or irrigation channel",26,39,0,0,1,dirt,natural,4
+noria_2015:528,Noria 2015,02000207,2015,Noria,Region 4,0.250000,4,-0.205800,piped on premises,0,36,0,1,0,cement,finished,2
+noria_2015:529,Noria 2015,02000208,2015,Noria,Region 1,0.000000,1,-0.495670,piped on premises,0,53,0,0,0,dirt,natural,2
+noria_2015:530,Noria 2015,02000209,2015,Noria,Region 2,0.000000,2,1.101220,piped on premises,0,55,0,1,0,cement,finished,2
+noria_2015:531,Noria 2015,02000210,2015,Noria,Region 3,0.000000,3,1.371780,protected well,26,26,0,1,0,cement,finished,2
+noria_2015:532,Noria 2015,02000211,2015,Noria,Region 4,0.000000,4,-0.165110,protected well,37,48,0,1,0,cement,finished,3
+noria_2015:533,Noria 2015,02000212,2015,Noria,Region 1,0.000000,1,-0.323230,unprotected well,17,63,0,1,1,dirt,finished,3
+noria_2015:534,Noria 2015,02000213,2015,Noria,Region 2,0.500000,2,-2.000790,"river, dam, lake, pond, stream, canal or irrigation channel",20,66,0,0,1,dirt,natural,2
+noria_2015:535,Noria 2015,02000214,2015,Noria,Region 3,0.333333,3,0.344080,piped on premises,0,29,0,0,0,cement,finished,1
+noria_2015:536,Noria 2015,02000215,2015,Noria,Region 4,0.500000,4,-0.592960,unprotected well,4,44,0,0,1,dirt,natural,3
+noria_2015:537,Noria 2015,02000216,2015,Noria,Region 1,1.000000,1,0.158390,piped on premises,0,59,0,0,0,cement,finished,2
+noria_2015:538,Noria 2015,02000217,2015,Noria,Region 2,0.500000,2,-0.936150,public tap,31,67,0,0,0,dirt,natural,5
+noria_2015:539,Noria 2015,02000218,2015,Noria,Region 3,0.000000,3,0.640380,public tap,51,43,0,1,0,cement,finished,3
+noria_2015:540,Noria 2015,02000219,2015,Noria,Region 4,0.500000,4,-0.687180,unprotected well,32,59,0,0,1,dirt,natural,2
+noria_2015:541,Noria 2015,02000220,2015,Noria,Region 1,0.000000,1,-0.784150,piped on premises,0,42,0,0,0,dirt,natural,3
+noria_2015:542,Noria 2015,02000221,2015,Noria,Region 2,1.000000,2,-0.948290,unprotected well,20,32,0,0,1,dirt,natural,2
+noria_2015:543,Noria 2015,02000222,2015,Noria,Region 3,1.000000,3,-1.571620,unprotected well,32,46,0,0,1,dirt,natural,2
+noria_2015:544,Noria 2015,02000223,2015,Noria,Region 4,0.000000,4,0.787930,unprotected well,31,61,0,1,1,cement,finished,2
+noria_2015:545,Noria 2015,02000224,2015,Noria,Region 1,1.000000,1,-0.190050,public tap,38,27,0,0,0,cement,finished,4
+noria_2015:546,Noria 2015,02000225,2015,Noria,Region 2,0.500000,2,-0.628570,"river, dam, lake, pond, stream, canal or irrigation channel",40,29,0,0,1,dirt,natural,2
+noria_2015:547,Noria 2015,02000226,2015,Noria,Region 3,0.666667,3,-1.213860,public tap,13,26,0,0,0,dirt,natural,3
+noria_2015:548,Noria 2015,02000227,2015,Noria,Region 4,0.250000,4,0.121400,public tap,43,37,0,1,0,cement,finished,1
+noria_2015:549,Noria 2015,02000228,2015,Noria,Region 1,0.000000,1,-0.168330,public tap,22,37,0,0,0,cement,finished,0
+noria_2015:550,Noria 2015,02000229,2015,Noria,Region 2,1.000000,2,-0.639200,protected well,25,43,0,0,0,dirt,natural,2
+noria_2015:551,Noria 2015,02000230,2015,Noria,Region 3,0.333333,3,-1.087690,unprotected well,35,36,0,0,1,dirt,natural,2
+noria_2015:552,Noria 2015,02000231,2015,Noria,Region 4,0.750000,4,-1.011690,unprotected well,17,59,0,0,1,dirt,natural,2
+noria_2015:553,Noria 2015,02000232,2015,Noria,Region 1,1.000000,1,-1.671360,"river, dam, lake, pond, stream, canal or irrigation channel",34,33,0,0,1,dirt,natural,2
+noria_2015:554,Noria 2015,02000233,2015,Noria,Region 2,0.500000,2,-1.529750,unprotected well,30,20,0,0,1,dirt,natural,3
+noria_2015:555,Noria 2015,02000234,2015,Noria,Region 3,0.666667,3,-1.541370,protected well,43,39,0,0,0,dirt,natural,1
+noria_2015:556,Noria 2015,02000235,2015,Noria,Region 4,0.000000,4,0.565290,unprotected well,33,52,0,0,1,cement,finished,2
+noria_2015:557,Noria 2015,02000236,2015,Noria,Region 1,0.000000,1,0.148030,unprotected well,19,56,0,0,1,cement,finished,2
+noria_2015:558,Noria 2015,02000237,2015,Noria,Region 2,0.000000,2,0.351260,public tap,37,42,0,1,0,cement,finished,3
+noria_2015:559,Noria 2015,02000238,2015,Noria,Region 3,0.000000,3,0.579690,public tap,30,34,0,1,0,cement,finished,3
+noria_2015:560,Noria 2015,02000239,2015,Noria,Region 4,0.500000,4,-1.127120,unprotected well,58,55,0,0,1,dirt,natural,3
+noria_2015:561,Noria 2015,02000240,2015,Noria,Region 1,0.000000,1,-1.004610,public tap,31,45,0,1,0,dirt,natural,2
+noria_2015:562,Noria 2015,02000241,2015,Noria,Region 2,1.000000,2,-0.723060,protected well,39,39,0,0,0,dirt,natural,3
+noria_2015:563,Noria 2015,02000242,2015,Noria,Region 3,0.000000,3,1.464700,protected well,31,41,0,1,0,cement,finished,2
+noria_2015:564,Noria 2015,02000243,2015,Noria,Region 4,0.250000,4,-0.565990,protected well,39,47,0,0,0,dirt,natural,2
+noria_2015:565,Noria 2015,02000244,2015,Noria,Region 1,1.000000,1,-1.329600,protected well,23,53,1,0,0,dirt,natural,3
+noria_2015:566,Noria 2015,02000245,2015,Noria,Region 2,0.500000,2,-0.358080,"river, dam, lake, pond, stream, canal or irrigation channel",46,46,0,0,1,dirt,finished,3
+noria_2015:567,Noria 2015,02000246,2015,Noria,Region 3,0.333333,3,-1.535460,protected well,,26,0,0,0,dirt,natural,1
+noria_2015:568,Noria 2015,02000247,2015,Noria,Region 4,0.250000,4,0.491800,piped on premises,0,40,0,1,0,cement,finished,1
+noria_2015:569,Noria 2015,02000248,2015,Noria,Region 1,0.000000,1,0.764100,protected well,33,52,0,1,0,cement,finished,2
+noria_2015:570,Noria 2015,02000249,2015,Noria,Region 2,0.000000,2,-0.471630,protected well,15,43,0,0,0,dirt,natural,3
+noria_2015:571,Noria 2015,02000250,2015,Noria,Region 3,0.333333,3,2.117250,public tap,21,23,0,1,0,cement,finished,3
+noria_2015:572,Noria 2015,02000251,2015,Noria,Region 4,0.750000,4,-2.152130,"river, dam, lake, pond, stream, canal or irrigation channel",43,51,1,0,1,dirt,natural,2
+noria_2015:573,Noria 2015,02000252,2015,Noria,Region 1,0.000000,1,0.871490,public tap,13,47,0,1,0,cement,finished,2
+noria_2015:574,Noria 2015,02000253,2015,Noria,Region 2,0.000000,2,0.561920,protected well,27,37,0,0,0,cement,finished,3
+noria_2015:575,Noria 2015,02000254,2015,Noria,Region 3,0.666667,3,0.333300,unprotected well,35,45,0,1,1,cement,finished,2
+noria_2015:576,Noria 2015,02000255,2015,Noria,Region 4,0.750000,4,0.058820,"river, dam, lake, pond, stream, canal or irrigation channel",13,50,0,1,1,cement,finished,2
+noria_2015:577,Noria 2015,02000256,2015,Noria,Region 1,0.000000,1,0.298960,piped on premises,0,70,0,1,0,cement,finished,0
+noria_2015:578,Noria 2015,02000257,2015,Noria,Region 2,0.000000,2,1.055350,piped on premises,0,44,0,0,0,cement,finished,2
+noria_2015:579,Noria 2015,02000258,2015,Noria,Region 3,0.333333,3,-0.742770,protected well,45,24,0,0,0,dirt,natural,3
+noria_2015:580,Noria 2015,02000259,2015,Noria,Region 4,0.500000,4,0.365450,protected well,14,64,0,1,0,cement,finished,3
+noria_2015:581,Noria 2015,02000260,2015,Noria,Region 1,1.000000,1,-0.197760,unprotected well,18,44,0,1,1,cement,finished,2
+noria_2015:582,Noria 2015,02000261,2015,Noria,Region 2,0.000000,2,0.392120,piped on premises,0,28,0,1,0,cement,finished,2
+noria_2015:583,Noria 2015,02000262,2015,Noria,Region 3,0.333333,3,0.352570,public tap,30,,0,1,0,cement,finished,2
+noria_2015:584,Noria 2015,02000263,2015,Noria,Region 4,0.250000,4,0.109740,unprotected well,12,73,0,0,1,cement,finished,2
+noria_2015:585,Noria 2015,02000264,2015,Noria,Region 1,1.000000,1,-0.881380,protected well,28,37,1,0,0,dirt,natural,3
+noria_2015:586,Noria 2015,02000265,2015,Noria,Region 2,0.000000,2,-0.045290,"river, dam, lake, pond, stream, canal or irrigation channel",11,61,0,0,1,cement,finished,1
+noria_2015:587,Noria 2015,02000266,2015,Noria,Region 3,0.000000,3,0.220520,protected well,38,19,0,0,0,cement,finished,3
+noria_2015:588,Noria 2015,02000267,2015,Noria,Region 4,0.250000,4,0.021240,protected well,48,,0,1,0,cement,finished,2
+noria_2015:589,Noria 2015,02000268,2015,Noria,Region 1,1.000000,1,0.707980,unprotected well,,31,0,1,1,cement,finished,4
+noria_2015:590,Noria 2015,02000269,2015,Noria,Region 2,1.000000,2,-1.878210,protected well,53,56,0,0,0,dirt,natural,1
+noria_2015:591,Noria 2015,02000270,2015,Noria,Region 3,0.000000,3,-0.026130,public tap,11,32,0,1,0,cement,finished,2
+noria_2015:592,Noria 2015,02000271,2015,Noria,Region 4,0.250000,4,0.066770,"river, dam, lake, pond, stream, canal or irrigation channel",1,34,0,1,1,cement,finished,4
+noria_2015:593,Noria 2015,02000272,2015,Noria,Region 1,0.000000,1,0.552100,protected well,36,32,0,1,0,cement,finished,2
+noria_2015:594,Noria 2015,02000273,2015,Noria,Region 2,0.500000,2,-0.196190,piped on premises,0,46,0,1,0,cement,finished,1
+noria_2015:595,Noria 2015,02000274,2015,Noria,Region 3,0.333333,3,-1.264210,"river, dam, lake, pond, stream, canal or irrigation channel",32,41,0,0,1,dirt,natural,2
+noria_2015:596,Noria 2015,02000275,2015,Noria,Region 4,0.250000,4,-0.344600,public tap,17,55,0,0,0,dirt,finished,2
+noria_2015:597,Noria 2015,02000276,2015,Noria,Region 1,0.000000,1,1.188710,protected well,9,55,0,1,0,cement,finished,2
+noria_2015:598,Noria 2015,02000277,2015,Noria,Region 2,0.500000,2,-0.374380,public tap,21,40,0,0,0,dirt,finished,1
+noria_2015:599,Noria 2015,02000278,2015,Noria,Region 3,0.333333,3,-1.515100,"river, dam, lake, pond, stream, canal or irrigation channel",53,49,0,0,1,dirt,natural,2
+noria_2015:600,Noria 2015,02000279,2015,Noria,Region 4,0.500000,4,0.470290,unprotected well,47,32,0,1,1,cement,finished,1
+noria_2015:601,Noria 2015,02000280,2015,Noria,Region 1,0.000000,1,0.294710,public tap,34,67,0,1,0,cement,finished,2
+noria_2015:602,Noria 2015,02000281,2015,Noria,Region 2,0.500000,2,-0.640110,protected well,41,22,0,0,0,dirt,natural,2
+noria_2015:603,Noria 2015,02000282,2015,Noria,Region 3,0.333333,3,-1.536780,"river, dam, lake, pond, stream, canal or irrigation channel",19,65,0,0,1,dirt,natural,3
+noria_2015:604,Noria 2015,02000283,2015,Noria,Region 4,0.000000,4,-0.647640,protected well,28,46,0,0,0,dirt,natural,1
+noria_2015:605,Noria 2015,02000284,2015,Noria,Region 1,0.000000,1,0.844900,public tap,47,54,0,1,0,cement,finished,2
+noria_2015:606,Noria 2015,02000285,2015,Noria,Region 2,1.000000,2,1.317130,piped on premises,0,42,0,1,0,cement,finished,1
+noria_2015:607,Noria 2015,02000286,2015,Noria,Region 3,1.000000,3,-1.658600,"river, dam, lake, pond, stream, canal or irrigation channel",28,48,0,0,1,dirt,natural,2
+noria_2015:608,Noria 2015,02000287,2015,Noria,Region 4,0.500000,4,1.462990,piped on premises,,72,0,1,0,cement,finished,1
+noria_2015:609,Noria 2015,02000288,2015,Noria,Region 1,0.000000,1,0.221030,piped on premises,0,60,1,1,0,cement,finished,4
+noria_2015:610,Noria 2015,02000289,2015,Noria,Region 2,1.000000,2,0.574770,piped on premises,0,62,1,1,0,cement,finished,2
+noria_2015:611,Noria 2015,02000290,2015,Noria,Region 3,0.000000,3,0.916480,piped on premises,0,32,0,1,0,cement,finished,3
+noria_2015:612,Noria 2015,02000291,2015,Noria,Region 4,0.000000,4,0.173910,piped on premises,0,51,0,1,0,cement,finished,1
+noria_2015:613,Noria 2015,02000292,2015,Noria,Region 1,0.000000,1,-0.438660,"river, dam, lake, pond, stream, canal or irrigation channel",33,45,0,0,1,dirt,finished,4
+noria_2015:614,Noria 2015,02000293,2015,Noria,Region 2,0.500000,2,-0.377270,public tap,30,28,0,1,0,dirt,finished,3
+noria_2015:615,Noria 2015,02000294,2015,Noria,Region 3,0.333333,3,0.561690,piped on premises,0,32,0,1,0,cement,finished,1
+noria_2015:616,Noria 2015,02000295,2015,Noria,Region 4,0.250000,4,2.228280,piped on premises,0,36,0,1,0,cement,finished,2
+noria_2015:617,Noria 2015,02000296,2015,Noria,Region 1,1.000000,1,0.003470,unprotected well,32,34,0,0,1,cement,finished,2
+noria_2015:618,Noria 2015,02000297,2015,Noria,Region 2,0.500000,2,-0.016790,piped on premises,0,28,0,1,0,cement,finished,2
+noria_2015:619,Noria 2015,02000298,2015,Noria,Region 3,1.000000,3,-0.680550,piped on premises,0,58,0,0,0,dirt,natural,4
+noria_2015:620,Noria 2015,02000299,2015,Noria,Region 4,0.500000,4,-0.364020,"river, dam, lake, pond, stream, canal or irrigation channel",26,48,1,0,1,dirt,finished,4
+noria_2021:621,Noria 2021,03000000,2021,Noria,Region 1,0.000000,1,0.802000,public tap,,,0,1,0,dirt,finished,
+noria_2021:622,Noria 2021,03000001,2021,Noria,Region 2,0.000000,2,2.287290,public tap,15,58,0,1,0,cement,finished,3
+noria_2021:623,Noria 2021,03000002,2021,Noria,Region 3,0.333333,3,0.598920,piped on premises,0,66,0,1,0,cement,finished,2
+noria_2021:624,Noria 2021,03000003,2021,Noria,Region 4,0.000000,4,1.623760,protected well,33,20,0,1,0,cement,finished,3
+noria_2021:625,Noria 2021,03000004,2021,Noria,Region 1,0.000000,1,-0.220870,protected well,27,38,0,1,0,cement,finished,2
+noria_2021:626,Noria 2021,03000005,2021,Noria,Region 2,0.500000,2,-0.825230,protected well,32,34,0,0,0,dirt,natural,1
+noria_2021:627,Noria 2021,03000006,2021,Noria,Region 3,0.666667,3,-0.561970,protected well,18,29,0,0,0,dirt,natural,1
+noria_2021:628,Noria 2021,03000007,2021,Noria,Region 4,0.750000,4,1.853220,public tap,35,43,0,1,0,cement,finished,3
+noria_2021:629,Noria 2021,03000008,2021,Noria,Region 1,0.000000,1,1.412000,public tap,19,53,0,1,0,cement,finished,5
+noria_2021:630,Noria 2021,03000009,2021,Noria,Region 2,0.000000,2,1.053020,unprotected well,32,29,1,1,1,cement,finished,3
+noria_2021:631,Noria 2021,03000010,2021,Noria,Region 3,0.333333,3,0.703100,piped on premises,0,31,0,1,0,cement,finished,2
+noria_2021:632,Noria 2021,03000011,2021,Noria,Region 4,1.000000,4,0.746690,protected well,36,39,0,1,0,cement,finished,2
+noria_2021:633,Noria 2021,03000012,2021,Noria,Region 1,0.000000,1,0.320040,unprotected well,38,39,0,1,1,cement,finished,4
+noria_2021:634,Noria 2021,03000013,2021,Noria,Region 2,0.000000,2,1.653960,piped on premises,0,38,0,1,0,cement,finished,3
+noria_2021:635,Noria 2021,03000014,2021,Noria,Region 3,0.333333,3,1.039980,piped on premises,0,36,1,1,0,cement,finished,2
+noria_2021:636,Noria 2021,03000015,2021,Noria,Region 4,0.500000,4,-1.063170,protected well,29,63,0,0,0,dirt,natural,2
+noria_2021:637,Noria 2021,03000016,2021,Noria,Region 1,0.000000,1,0.397320,protected well,21,40,0,0,0,cement,finished,3
+noria_2021:638,Noria 2021,03000017,2021,Noria,Region 2,1.000000,2,-1.563920,protected well,32,86,0,0,0,dirt,natural,1
+noria_2021:639,Noria 2021,03000018,2021,Noria,Region 3,0.666667,3,0.315530,piped on premises,0,37,0,1,0,cement,finished,1
+noria_2021:640,Noria 2021,03000019,2021,Noria,Region 4,0.000000,4,0.524900,unprotected well,34,62,0,0,1,cement,finished,2
+noria_2021:641,Noria 2021,03000020,2021,Noria,Region 1,0.000000,1,0.117180,unprotected well,21,61,1,0,1,cement,finished,1
+noria_2021:642,Noria 2021,03000021,2021,Noria,Region 2,1.000000,2,-1.048170,public tap,36,52,0,0,0,dirt,natural,2
+noria_2021:643,Noria 2021,03000022,2021,Noria,Region 3,1.000000,3,0.528040,protected well,22,53,1,1,0,cement,finished,2
+noria_2021:644,Noria 2021,03000023,2021,Noria,Region 4,0.500000,4,-0.127780,unprotected well,53,33,0,0,1,cement,finished,4
+noria_2021:645,Noria 2021,03000024,2021,Noria,Region 1,1.000000,1,-0.445700,unprotected well,25,28,0,0,1,dirt,finished,2
+noria_2021:646,Noria 2021,03000025,2021,Noria,Region 2,0.000000,2,1.285500,public tap,48,52,1,1,0,cement,finished,3
+noria_2021:647,Noria 2021,03000026,2021,Noria,Region 3,0.000000,3,1.236970,public tap,14,32,0,1,0,cement,finished,2
+noria_2021:648,Noria 2021,03000027,2021,Noria,Region 4,0.500000,4,-0.034020,unprotected well,26,60,0,1,1,cement,finished,1
+noria_2021:649,Noria 2021,03000028,2021,Noria,Region 1,1.000000,1,0.717000,public tap,30,54,0,0,0,cement,finished,3
+noria_2021:650,Noria 2021,03000029,2021,Noria,Region 2,0.000000,2,0.607130,public tap,7,75,1,0,0,cement,finished,5
+noria_2021:651,Noria 2021,03000030,2021,Noria,Region 3,0.333333,3,-0.165750,piped on premises,0,41,1,0,0,cement,finished,1
+noria_2021:652,Noria 2021,03000031,2021,Noria,Region 4,0.500000,4,0.162120,piped on premises,0,50,0,0,0,cement,finished,3
+noria_2021:653,Noria 2021,03000032,2021,Noria,Region 1,0.000000,1,1.072810,protected well,42,40,0,1,0,cement,finished,2
+noria_2021:654,Noria 2021,03000033,2021,Noria,Region 2,0.000000,2,-0.595340,piped on premises,0,54,0,0,0,dirt,natural,0
+noria_2021:655,Noria 2021,03000034,2021,Noria,Region 3,0.333333,3,-0.692800,piped on premises,0,36,0,0,0,dirt,natural,3
+noria_2021:656,Noria 2021,03000035,2021,Noria,Region 4,0.000000,4,1.665870,piped on premises,0,71,0,1,0,cement,finished,1
+noria_2021:657,Noria 2021,03000036,2021,Noria,Region 1,0.000000,1,-0.554220,piped on premises,0,52,0,0,0,dirt,natural,3
+noria_2021:658,Noria 2021,03000037,2021,Noria,Region 2,0.000000,2,1.106490,protected well,20,26,0,1,0,cement,finished,3
+noria_2021:659,Noria 2021,03000038,2021,Noria,Region 3,0.666667,3,-0.583520,public tap,22,20,0,0,0,dirt,natural,3
+noria_2021:660,Noria 2021,03000039,2021,Noria,Region 4,0.500000,4,0.855890,unprotected well,33,40,0,1,1,cement,finished,1
+noria_2021:661,Noria 2021,03000040,2021,Noria,Region 1,1.000000,1,0.207090,piped on premises,0,43,0,1,0,cement,finished,2
+noria_2021:662,Noria 2021,03000041,2021,Noria,Region 2,0.000000,2,0.183580,piped on premises,,78,0,0,0,cement,finished,1
+noria_2021:663,Noria 2021,03000042,2021,Noria,Region 3,0.000000,3,0.925730,piped on premises,0,42,0,0,0,cement,finished,3
+noria_2021:664,Noria 2021,03000043,2021,Noria,Region 4,0.500000,4,1.094470,protected well,19,45,0,1,0,cement,finished,0
+noria_2021:665,Noria 2021,03000044,2021,Noria,Region 1,1.000000,1,-0.079190,public tap,25,49,0,1,0,cement,finished,2
+noria_2021:666,Noria 2021,03000045,2021,Noria,Region 2,0.500000,2,0.858210,piped on premises,0,22,0,1,0,cement,finished,4
+noria_2021:667,Noria 2021,03000046,2021,Noria,Region 3,0.000000,3,1.056480,piped on premises,0,34,0,1,0,cement,finished,3
+noria_2021:668,Noria 2021,03000047,2021,Noria,Region 4,0.250000,4,0.480950,public tap,18,64,1,1,0,cement,finished,3
+noria_2021:669,Noria 2021,03000048,2021,Noria,Region 1,0.000000,1,1.331920,piped on premises,0,29,0,1,0,cement,finished,2
+noria_2021:670,Noria 2021,03000049,2021,Noria,Region 2,0.000000,2,0.515790,unprotected well,47,60,0,1,1,cement,finished,2
+noria_2021:671,Noria 2021,03000050,2021,Noria,Region 3,0.333333,3,1.083750,public tap,14,30,0,1,0,cement,finished,2
+noria_2021:672,Noria 2021,03000051,2021,Noria,Region 4,0.500000,4,-0.705040,protected well,30,52,0,1,0,dirt,natural,3
+noria_2021:673,Noria 2021,03000052,2021,Noria,Region 1,1.000000,1,-0.644490,protected well,22,52,0,0,0,dirt,natural,3
+noria_2021:674,Noria 2021,03000053,2021,Noria,Region 2,0.500000,2,-0.344450,public tap,23,30,0,0,0,dirt,finished,2
+noria_2021:675,Noria 2021,03000054,2021,Noria,Region 3,0.333333,3,0.848830,piped on premises,0,24,0,1,0,cement,finished,4
+noria_2021:676,Noria 2021,03000055,2021,Noria,Region 4,0.250000,4,0.146360,protected well,9,59,0,0,0,cement,finished,4
+noria_2021:677,Noria 2021,03000056,2021,Noria,Region 1,0.000000,1,1.161120,protected well,50,33,0,1,0,cement,finished,1
+noria_2021:678,Noria 2021,03000057,2021,Noria,Region 2,0.000000,2,0.838340,public tap,24,23,0,1,0,cement,finished,3
+noria_2021:679,Noria 2021,03000058,2021,Noria,Region 3,1.000000,3,-0.382830,protected well,32,52,0,0,0,dirt,finished,2
+noria_2021:680,Noria 2021,03000059,2021,Noria,Region 4,0.000000,4,1.835180,public tap,43,42,0,1,0,cement,finished,2
+noria_2021:681,Noria 2021,03000060,2021,Noria,Region 1,1.000000,1,-0.587630,protected well,15,48,0,0,0,dirt,natural,1
+noria_2021:682,Noria 2021,03000061,2021,Noria,Region 2,1.000000,2,-0.458580,protected well,38,65,0,0,0,dirt,natural,2
+noria_2021:683,Noria 2021,03000062,2021,Noria,Region 3,0.000000,3,-1.273710,"river, dam, lake, pond, stream, canal or irrigation channel",39,48,0,1,1,dirt,natural,2
+noria_2021:684,Noria 2021,03000063,2021,Noria,Region 4,0.750000,4,-0.459250,"river, dam, lake, pond, stream, canal or irrigation channel",50,37,0,0,1,dirt,natural,1
+noria_2021:685,Noria 2021,03000064,2021,Noria,Region 1,0.000000,1,1.861780,piped on premises,0,37,1,1,0,cement,finished,2
+noria_2021:686,Noria 2021,03000065,2021,Noria,Region 2,0.000000,2,-0.399330,public tap,21,31,1,0,0,dirt,finished,2
+noria_2021:687,Noria 2021,03000066,2021,Noria,Region 3,0.000000,3,1.563080,piped on premises,0,39,0,1,0,cement,finished,2
+noria_2021:688,Noria 2021,03000067,2021,Noria,Region 4,0.250000,4,2.502090,piped on premises,0,43,0,1,0,cement,finished,1
+noria_2021:689,Noria 2021,03000068,2021,Noria,Region 1,1.000000,1,-0.995330,"river, dam, lake, pond, stream, canal or irrigation channel",48,29,0,0,1,dirt,natural,3
+noria_2021:690,Noria 2021,03000069,2021,Noria,Region 2,0.000000,2,0.026460,"river, dam, lake, pond, stream, canal or irrigation channel",37,53,1,0,1,cement,finished,3
+noria_2021:691,Noria 2021,03000070,2021,Noria,Region 3,0.000000,3,0.801230,unprotected well,53,47,0,1,1,cement,finished,2
+noria_2021:692,Noria 2021,03000071,2021,Noria,Region 4,0.500000,4,0.671170,unprotected well,13,35,0,1,1,cement,finished,4
+noria_2021:693,Noria 2021,03000072,2021,Noria,Region 1,0.000000,1,0.644860,protected well,26,41,1,1,0,cement,finished,3
+noria_2021:694,Noria 2021,03000073,2021,Noria,Region 2,0.000000,2,-0.082800,piped on premises,0,46,0,0,0,cement,finished,4
+noria_2021:695,Noria 2021,03000074,2021,Noria,Region 3,1.000000,3,0.078960,piped on premises,0,32,0,0,0,cement,finished,2
+noria_2021:696,Noria 2021,03000075,2021,Noria,Region 4,0.500000,4,-0.533980,piped on premises,0,37,0,0,0,dirt,natural,4
+noria_2021:697,Noria 2021,03000076,2021,Noria,Region 1,0.000000,1,0.612650,piped on premises,0,74,0,1,0,cement,finished,2
+noria_2021:698,Noria 2021,03000077,2021,Noria,Region 2,1.000000,2,-0.798480,protected well,45,59,0,0,0,dirt,natural,2
+noria_2021:699,Noria 2021,03000078,2021,Noria,Region 3,0.000000,3,1.015140,public tap,33,34,0,1,0,cement,finished,2
+noria_2021:700,Noria 2021,03000079,2021,Noria,Region 4,0.000000,4,-0.078740,piped on premises,0,39,0,0,0,cement,finished,3
+noria_2021:701,Noria 2021,03000080,2021,Noria,Region 1,0.000000,1,0.011920,protected well,32,29,0,1,0,cement,finished,2
+noria_2021:702,Noria 2021,03000081,2021,Noria,Region 2,0.500000,2,-0.274470,public tap,50,28,0,0,0,cement,finished,3
+noria_2021:703,Noria 2021,03000082,2021,Noria,Region 3,0.666667,3,-0.476680,piped on premises,,33,0,1,0,dirt,natural,3
+noria_2021:704,Noria 2021,03000083,2021,Noria,Region 4,0.500000,4,0.986890,piped on premises,0,42,1,1,0,cement,finished,1
+noria_2021:705,Noria 2021,03000084,2021,Noria,Region 1,0.000000,1,0.857050,unprotected well,31,44,1,1,1,cement,finished,4
+noria_2021:706,Noria 2021,03000085,2021,Noria,Region 2,0.500000,2,0.620460,protected well,37,78,0,1,0,cement,finished,3
+noria_2021:707,Noria 2021,03000086,2021,Noria,Region 3,1.000000,3,-1.430030,protected well,39,49,0,0,0,dirt,natural,2
+noria_2021:708,Noria 2021,03000087,2021,Noria,Region 4,0.250000,4,-0.251050,protected well,39,31,1,0,0,cement,finished,2
+noria_2021:709,Noria 2021,03000088,2021,Noria,Region 1,1.000000,1,-1.166370,"river, dam, lake, pond, stream, canal or irrigation channel",31,55,0,0,1,dirt,natural,2
+noria_2021:710,Noria 2021,03000089,2021,Noria,Region 2,0.500000,2,0.824040,piped on premises,0,,0,1,0,cement,finished,2
+noria_2021:711,Noria 2021,03000090,2021,Noria,Region 3,0.000000,3,0.643340,public tap,19,41,0,1,0,cement,finished,4
+noria_2021:712,Noria 2021,03000091,2021,Noria,Region 4,0.250000,4,-0.148830,piped on premises,0,56,1,0,0,cement,finished,5
+noria_2021:713,Noria 2021,03000092,2021,Noria,Region 1,1.000000,1,-0.380600,protected well,47,34,0,0,0,dirt,finished,2
+noria_2021:714,Noria 2021,03000093,2021,Noria,Region 2,0.000000,2,0.436130,public tap,36,44,0,1,0,cement,finished,3
+noria_2021:715,Noria 2021,03000094,2021,Noria,Region 3,0.666667,3,-3.030630,"river, dam, lake, pond, stream, canal or irrigation channel",74,52,0,0,1,dirt,natural,2
+noria_2021:716,Noria 2021,03000095,2021,Noria,Region 4,0.750000,4,-0.578130,"river, dam, lake, pond, stream, canal or irrigation channel",9,53,0,1,1,dirt,natural,1
+noria_2021:717,Noria 2021,03000096,2021,Noria,Region 1,0.000000,1,0.479510,piped on premises,0,53,0,1,0,cement,finished,2
+noria_2021:718,Noria 2021,03000097,2021,Noria,Region 2,0.500000,2,1.159590,piped on premises,0,25,0,1,0,cement,finished,2
+noria_2021:719,Noria 2021,03000098,2021,Noria,Region 3,0.333333,3,0.072260,"river, dam, lake, pond, stream, canal or irrigation channel",7,70,0,1,1,cement,finished,1
+noria_2021:720,Noria 2021,03000099,2021,Noria,Region 4,1.000000,4,-0.540080,unprotected well,28,44,0,0,1,dirt,natural,2
+noria_2021:721,Noria 2021,03000100,2021,Noria,Region 1,0.000000,1,2.175720,piped on premises,0,84,0,1,0,cement,finished,3
+noria_2021:722,Noria 2021,03000101,2021,Noria,Region 2,0.000000,2,0.011730,piped on premises,0,44,0,0,0,cement,finished,1
+noria_2021:723,Noria 2021,03000102,2021,Noria,Region 3,0.666667,3,0.691640,public tap,58,21,1,1,0,cement,finished,1
+noria_2021:724,Noria 2021,03000103,2021,Noria,Region 4,0.250000,4,0.744400,piped on premises,0,54,1,1,0,cement,finished,2
+noria_2021:725,Noria 2021,03000104,2021,Noria,Region 1,0.000000,1,-0.908250,protected well,53,62,0,0,0,dirt,natural,5
+noria_2021:726,Noria 2021,03000105,2021,Noria,Region 2,0.000000,2,0.497390,piped on premises,0,54,0,1,0,cement,finished,3
+noria_2021:727,Noria 2021,03000106,2021,Noria,Region 3,0.666667,3,-1.291280,"river, dam, lake, pond, stream, canal or irrigation channel",28,33,1,0,1,dirt,natural,3
+noria_2021:728,Noria 2021,03000107,2021,Noria,Region 4,0.750000,4,0.505160,piped on premises,0,26,0,1,0,cement,finished,1
+noria_2021:729,Noria 2021,03000108,2021,Noria,Region 1,1.000000,1,0.217360,public tap,45,43,0,0,0,cement,finished,3
+noria_2021:730,Noria 2021,03000109,2021,Noria,Region 2,0.500000,2,1.205580,public tap,6,53,0,1,0,cement,finished,2
+noria_2021:731,Noria 2021,03000110,2021,Noria,Region 3,0.333333,3,0.503190,public tap,49,40,0,1,0,cement,finished,2
+noria_2021:732,Noria 2021,03000111,2021,Noria,Region 4,0.250000,4,0.396970,piped on premises,0,41,0,1,0,cement,finished,0
+noria_2021:733,Noria 2021,03000112,2021,Noria,Region 1,0.000000,1,-0.408970,protected well,23,36,0,0,0,dirt,finished,2
+noria_2021:734,Noria 2021,03000113,2021,Noria,Region 2,0.000000,2,0.420460,protected well,51,34,0,1,0,dirt,finished,3
+noria_2021:735,Noria 2021,03000114,2021,Noria,Region 3,0.666667,3,0.455080,"river, dam, lake, pond, stream, canal or irrigation channel",11,55,0,0,1,cement,finished,3
+noria_2021:736,Noria 2021,03000115,2021,Noria,Region 4,0.000000,4,0.897890,unprotected well,41,28,0,1,1,cement,finished,4
+noria_2021:737,Noria 2021,03000116,2021,Noria,Region 1,0.000000,1,-1.043520,public tap,59,41,0,0,0,dirt,natural,1
+noria_2021:738,Noria 2021,03000117,2021,Noria,Region 2,1.000000,2,-1.142140,"river, dam, lake, pond, stream, canal or irrigation channel",35,60,0,0,1,dirt,natural,3
+noria_2021:739,Noria 2021,03000118,2021,Noria,Region 3,0.333333,3,-0.464340,public tap,36,55,0,0,0,dirt,natural,0
+noria_2021:740,Noria 2021,03000119,2021,Noria,Region 4,0.250000,4,-0.182490,"river, dam, lake, pond, stream, canal or irrigation channel",18,47,0,0,1,cement,finished,3
+noria_2021:741,Noria 2021,03000120,2021,Noria,Region 1,1.000000,1,0.429340,public tap,26,18,0,1,0,cement,finished,2
+noria_2021:742,Noria 2021,03000121,2021,Noria,Region 2,1.000000,2,-0.265490,protected well,35,70,1,1,0,cement,finished,0
+noria_2021:743,Noria 2021,03000122,2021,Noria,Region 3,0.333333,3,0.003080,piped on premises,0,64,0,1,0,cement,finished,3
+noria_2021:744,Noria 2021,03000123,2021,Noria,Region 4,0.250000,4,0.415930,protected well,,44,0,1,0,cement,finished,2
+noria_2021:745,Noria 2021,03000124,2021,Noria,Region 1,0.000000,1,1.374960,public tap,26,54,0,1,0,cement,finished,2
+noria_2021:746,Noria 2021,03000125,2021,Noria,Region 2,1.000000,2,-0.701220,public tap,44,54,0,0,0,dirt,natural,1
+noria_2021:747,Noria 2021,03000126,2021,Noria,Region 3,0.333333,3,-0.088890,public tap,24,52,0,1,0,cement,finished,2
+noria_2021:748,Noria 2021,03000127,2021,Noria,Region 4,0.000000,4,1.801740,unprotected well,4,25,0,1,1,cement,finished,5
+noria_2021:749,Noria 2021,03000128,2021,Noria,Region 1,0.000000,1,1.055510,unprotected well,47,46,0,1,1,cement,finished,4
+noria_2021:750,Noria 2021,03000129,2021,Noria,Region 2,0.500000,2,-0.290190,piped on premises,0,68,0,1,0,cement,finished,3
+noria_2021:751,Noria 2021,03000130,2021,Noria,Region 3,0.000000,3,1.051040,protected well,11,56,1,1,0,cement,finished,2
+noria_2021:752,Noria 2021,03000131,2021,Noria,Region 4,0.250000,4,0.026110,unprotected well,52,,0,1,1,cement,finished,1
+noria_2021:753,Noria 2021,03000132,2021,Noria,Region 1,0.000000,1,1.247980,piped on premises,0,53,0,1,0,cement,finished,3
+noria_2021:754,Noria 2021,03000133,2021,Noria,Region 2,0.000000,2,0.566430,protected well,50,45,1,1,0,cement,finished,3
+noria_2021:755,Noria 2021,03000134,2021,Noria,Region 3,1.000000,3,-0.279440,unprotected well,,45,0,0,1,cement,finished,1
+noria_2021:756,Noria 2021,03000135,2021,Noria,Region 4,0.000000,4,1.181710,piped on premises,0,71,0,1,0,cement,finished,4
+noria_2021:757,Noria 2021,03000136,2021,Noria,Region 1,1.000000,1,-0.213390,protected well,63,47,0,0,0,cement,finished,3
+noria_2021:758,Noria 2021,03000137,2021,Noria,Region 2,0.500000,2,-0.716710,public tap,42,65,0,0,0,dirt,natural,3
+noria_2021:759,Noria 2021,03000138,2021,Noria,Region 3,0.666667,3,0.042820,unprotected well,31,26,0,0,1,cement,finished,3
+noria_2021:760,Noria 2021,03000139,2021,Noria,Region 4,0.750000,4,0.616400,public tap,28,55,0,1,0,cement,finished,2
+noria_2021:761,Noria 2021,03000140,2021,Noria,Region 1,0.000000,1,0.960460,piped on premises,0,33,0,1,0,cement,finished,2
+noria_2021:762,Noria 2021,03000141,2021,Noria,Region 2,0.500000,2,-0.099790,public tap,41,52,0,0,0,cement,finished,2
+noria_2021:763,Noria 2021,03000142,2021,Noria,Region 3,0.333333,3,0.604670,public tap,33,43,0,1,0,cement,finished,1
+noria_2021:764,Noria 2021,03000143,2021,Noria,Region 4,0.000000,4,-0.848470,"river, dam, lake, pond, stream, canal or irrigation channel",38,32,0,0,1,dirt,natural,2
+noria_2021:765,Noria 2021,03000144,2021,Noria,Region 1,0.000000,1,0.404580,protected well,25,43,0,1,0,cement,finished,4
+noria_2021:766,Noria 2021,03000145,2021,Noria,Region 2,0.000000,2,0.600380,protected well,22,54,0,1,0,cement,finished,3
+noria_2021:767,Noria 2021,03000146,2021,Noria,Region 3,0.000000,3,-0.011840,"river, dam, lake, pond, stream, canal or irrigation channel",17,40,0,0,1,cement,finished,2
+noria_2021:768,Noria 2021,03000147,2021,Noria,Region 4,0.750000,4,-0.246650,public tap,1,68,1,0,0,cement,finished,1
+noria_2021:769,Noria 2021,03000148,2021,Noria,Region 1,1.000000,1,-1.834550,"river, dam, lake, pond, stream, canal or irrigation channel",51,64,1,0,1,dirt,natural,2
+noria_2021:770,Noria 2021,03000149,2021,Noria,Region 2,0.500000,2,0.407450,protected well,44,44,0,1,0,cement,finished,2
+noria_2021:771,Noria 2021,03000150,2021,Noria,Region 3,0.000000,3,-1.253180,"river, dam, lake, pond, stream, canal or irrigation channel",43,53,0,0,1,dirt,natural,1
+noria_2021:772,Noria 2021,03000151,2021,Noria,Region 4,0.250000,4,1.335470,public tap,29,24,0,1,0,cement,finished,0
+noria_2021:773,Noria 2021,03000152,2021,Noria,Region 1,1.000000,1,-0.395700,protected well,45,48,0,1,0,dirt,finished,2
+noria_2021:774,Noria 2021,03000153,2021,Noria,Region 2,0.000000,2,-0.214790,protected well,27,46,0,0,0,cement,finished,5
+noria_2021:775,Noria 2021,03000154,2021,Noria,Region 3,0.333333,3,0.669560,protected well,25,30,0,1,0,cement,finished,2
+noria_2021:776,Noria 2021,03000155,2021,Noria,Region 4,0.250000,4,0.268160,protected well,32,39,0,1,0,cement,finished,2
+noria_2021:777,Noria 2021,03000156,2021,Noria,Region 1,1.000000,1,-0.156470,public tap,23,45,0,0,0,cement,finished,2
+noria_2021:778,Noria 2021,03000157,2021,Noria,Region 2,0.000000,2,0.583650,piped on premises,0,67,0,1,0,cement,finished,
+noria_2021:779,Noria 2021,03000158,2021,Noria,Region 3,0.333333,3,0.452460,piped on premises,0,29,0,0,0,cement,finished,1
+noria_2021:780,Noria 2021,03000159,2021,Noria,Region 4,0.250000,4,1.818180,public tap,18,42,1,1,0,cement,finished,1
+noria_2021:781,Noria 2021,03000160,2021,Noria,Region 1,0.000000,1,-1.004390,protected well,25,31,0,0,0,dirt,natural,2
+noria_2021:782,Noria 2021,03000161,2021,Noria,Region 2,0.000000,2,1.605010,protected well,19,29,0,1,0,cement,finished,1
+noria_2021:783,Noria 2021,03000162,2021,Noria,Region 3,0.333333,3,0.504880,public tap,26,40,1,1,0,cement,finished,3
+noria_2021:784,Noria 2021,03000163,2021,Noria,Region 4,0.250000,4,0.502660,piped on premises,0,21,0,1,0,cement,finished,4
+noria_2021:785,Noria 2021,03000164,2021,Noria,Region 1,0.000000,1,1.594540,public tap,,46,0,1,0,cement,finished,4
+noria_2021:786,Noria 2021,03000165,2021,Noria,Region 2,0.500000,2,1.324270,public tap,20,19,0,1,0,cement,finished,2
+noria_2021:787,Noria 2021,03000166,2021,Noria,Region 3,0.333333,3,1.194520,protected well,37,50,0,1,0,cement,finished,2
+noria_2021:788,Noria 2021,03000167,2021,Noria,Region 4,0.500000,4,-0.480320,"river, dam, lake, pond, stream, canal or irrigation channel",33,43,0,0,1,dirt,natural,3
+noria_2021:789,Noria 2021,03000168,2021,Noria,Region 1,0.000000,1,1.022900,unprotected well,29,35,1,0,1,cement,finished,3
+noria_2021:790,Noria 2021,03000169,2021,Noria,Region 2,0.000000,2,-0.507890,public tap,62,50,0,0,0,dirt,natural,3
+noria_2021:791,Noria 2021,03000170,2021,Noria,Region 3,0.666667,3,-0.475640,"river, dam, lake, pond, stream, canal or irrigation channel",35,40,1,0,1,dirt,natural,2
+noria_2021:792,Noria 2021,03000171,2021,Noria,Region 4,0.500000,4,-0.664900,protected well,49,56,0,0,0,dirt,natural,2
+noria_2021:793,Noria 2021,03000172,2021,Noria,Region 1,1.000000,1,0.144230,"river, dam, lake, pond, stream, canal or irrigation channel",25,62,0,1,1,cement,finished,3
+noria_2021:794,Noria 2021,03000173,2021,Noria,Region 2,0.000000,2,0.826460,piped on premises,0,60,0,1,0,cement,finished,2
+noria_2021:795,Noria 2021,03000174,2021,Noria,Region 3,0.333333,3,-1.026670,"river, dam, lake, pond, stream, canal or irrigation channel",21,49,0,0,1,dirt,natural,2
+noria_2021:796,Noria 2021,03000175,2021,Noria,Region 4,0.250000,4,1.348730,piped on premises,0,57,0,1,0,cement,finished,3
+noria_2021:797,Noria 2021,03000176,2021,Noria,Region 1,0.000000,1,0.007910,piped on premises,0,75,0,0,0,cement,finished,4
+noria_2021:798,Noria 2021,03000177,2021,Noria,Region 2,0.500000,2,0.476130,"river, dam, lake, pond, stream, canal or irrigation channel",42,42,0,1,1,cement,finished,2
+noria_2021:799,Noria 2021,03000178,2021,Noria,Region 3,0.333333,3,1.645510,public tap,26,,1,1,0,cement,finished,3
+noria_2021:800,Noria 2021,03000179,2021,Noria,Region 4,0.250000,4,0.305530,piped on premises,0,48,0,1,0,cement,finished,3
+noria_2021:801,Noria 2021,03000180,2021,Noria,Region 1,0.000000,1,-1.128990,"river, dam, lake, pond, stream, canal or irrigation channel",46,22,0,0,1,dirt,natural,3
+noria_2021:802,Noria 2021,03000181,2021,Noria,Region 2,1.000000,2,-0.373860,protected well,39,30,0,0,0,dirt,finished,3
+noria_2021:803,Noria 2021,03000182,2021,Noria,Region 3,0.666667,3,-1.021290,"river, dam, lake, pond, stream, canal or irrigation channel",53,30,0,0,1,dirt,natural,2
+noria_2021:804,Noria 2021,03000183,2021,Noria,Region 4,0.750000,4,-0.097280,public tap,28,59,0,0,0,cement,finished,2
+noria_2021:805,Noria 2021,03000184,2021,Noria,Region 1,0.000000,1,-1.719890,unprotected well,36,34,1,0,1,dirt,natural,3
+noria_2021:806,Noria 2021,03000185,2021,Noria,Region 2,0.500000,2,-0.362060,"river, dam, lake, pond, stream, canal or irrigation channel",29,37,0,0,1,dirt,finished,2
+noria_2021:807,Noria 2021,03000186,2021,Noria,Region 3,0.666667,3,-1.018680,public tap,44,37,0,0,0,dirt,natural,2
+noria_2021:808,Noria 2021,03000187,2021,Noria,Region 4,0.250000,4,1.311830,piped on premises,0,40,1,1,0,cement,finished,2
+noria_2021:809,Noria 2021,03000188,2021,Noria,Region 1,1.000000,1,-1.862490,protected well,58,70,0,0,0,dirt,natural,2
+noria_2021:810,Noria 2021,03000189,2021,Noria,Region 2,0.500000,2,-0.104840,piped on premises,0,59,0,0,0,cement,finished,1
+noria_2021:811,Noria 2021,03000190,2021,Noria,Region 3,0.666667,3,0.782850,unprotected well,35,49,0,1,1,cement,finished,1
+noria_2021:812,Noria 2021,03000191,2021,Noria,Region 4,0.500000,4,0.874730,piped on premises,0,33,0,1,0,cement,finished,2
+noria_2021:813,Noria 2021,03000192,2021,Noria,Region 1,1.000000,1,-0.050760,protected well,19,47,0,0,0,cement,finished,2
+noria_2021:814,Noria 2021,03000193,2021,Noria,Region 2,0.500000,2,0.670230,piped on premises,0,54,0,1,0,cement,finished,2
+noria_2021:815,Noria 2021,03000194,2021,Noria,Region 3,0.666667,3,-0.610320,protected well,34,53,0,0,0,dirt,natural,1
+noria_2021:816,Noria 2021,03000195,2021,Noria,Region 4,0.000000,4,0.733230,unprotected well,24,39,0,1,1,cement,finished,4
+noria_2021:817,Noria 2021,03000196,2021,Noria,Region 1,0.000000,1,1.233130,unprotected well,34,29,0,1,1,cement,finished,2
+noria_2021:818,Noria 2021,03000197,2021,Noria,Region 2,0.500000,2,1.519190,public tap,1,32,0,1,0,cement,finished,2
+noria_2021:819,Noria 2021,03000198,2021,Noria,Region 3,0.333333,3,0.502070,piped on premises,0,34,0,1,0,cement,finished,2
+noria_2021:820,Noria 2021,03000199,2021,Noria,Region 4,0.000000,4,0.228600,public tap,40,69,0,1,0,cement,finished,3
+noria_2021:821,Noria 2021,03000200,2021,Noria,Region 1,1.000000,1,1.466810,piped on premises,0,45,0,1,0,cement,finished,2
+noria_2021:822,Noria 2021,03000201,2021,Noria,Region 2,0.500000,2,-0.229760,protected well,,48,0,0,0,cement,finished,2
+noria_2021:823,Noria 2021,03000202,2021,Noria,Region 3,0.333333,3,-0.124070,public tap,16,31,0,0,0,cement,finished,2
+noria_2021:824,Noria 2021,03000203,2021,Noria,Region 4,0.500000,4,0.090210,unprotected well,30,52,0,0,1,cement,finished,2
+noria_2021:825,Noria 2021,03000204,2021,Noria,Region 1,1.000000,1,0.660570,piped on premises,0,64,0,1,0,cement,finished,1
+noria_2021:826,Noria 2021,03000205,2021,Noria,Region 2,0.000000,2,1.912650,piped on premises,,52,0,1,0,cement,finished,2
+noria_2021:827,Noria 2021,03000206,2021,Noria,Region 3,0.000000,3,-0.122700,"river, dam, lake, pond, stream, canal or irrigation channel",12,47,0,0,1,cement,finished,1
+noria_2021:828,Noria 2021,03000207,2021,Noria,Region 4,0.500000,4,0.330930,unprotected well,29,40,0,1,1,cement,finished,3
+noria_2021:829,Noria 2021,03000208,2021,Noria,Region 1,0.000000,1,2.016490,protected well,17,30,0,1,0,cement,finished,4
+noria_2021:830,Noria 2021,03000209,2021,Noria,Region 2,0.000000,2,-0.578250,public tap,37,31,0,0,0,dirt,natural,2
+noria_2021:831,Noria 2021,03000210,2021,Noria,Region 3,0.333333,3,-0.149610,"river, dam, lake, pond, stream, canal or irrigation channel",59,35,0,0,1,cement,finished,0
+noria_2021:832,Noria 2021,03000211,2021,Noria,Region 4,0.250000,4,-1.229590,public tap,60,52,0,0,0,dirt,natural,2
+noria_2021:833,Noria 2021,03000212,2021,Noria,Region 1,1.000000,1,-0.136490,public tap,40,18,0,0,0,cement,finished,3
+noria_2021:834,Noria 2021,03000213,2021,Noria,Region 2,0.500000,2,0.052650,piped on premises,0,18,0,1,0,cement,finished,3
+noria_2021:835,Noria 2021,03000214,2021,Noria,Region 3,0.000000,3,-0.546690,protected well,36,73,0,0,0,dirt,natural,4
+noria_2021:836,Noria 2021,03000215,2021,Noria,Region 4,0.000000,4,0.162310,protected well,2,23,0,1,0,cement,finished,2
+noria_2021:837,Noria 2021,03000216,2021,Noria,Region 1,1.000000,1,-0.036210,"river, dam, lake, pond, stream, canal or irrigation channel",21,36,0,0,1,cement,finished,2
+noria_2021:838,Noria 2021,03000217,2021,Noria,Region 2,0.000000,2,-0.116330,public tap,43,72,0,1,0,cement,finished,0
+noria_2021:839,Noria 2021,03000218,2021,Noria,Region 3,0.666667,3,0.455800,unprotected well,27,35,0,0,1,cement,finished,2
+noria_2021:840,Noria 2021,03000219,2021,Noria,Region 4,0.000000,4,2.382440,piped on premises,0,36,1,1,0,cement,finished,3
+noria_2021:841,Noria 2021,03000220,2021,Noria,Region 1,0.000000,1,1.557000,piped on premises,0,67,0,1,0,cement,finished,2
+noria_2021:842,Noria 2021,03000221,2021,Noria,Region 2,0.500000,2,-1.577580,"river, dam, lake, pond, stream, canal or irrigation channel",45,55,0,0,1,dirt,natural,4
+noria_2021:843,Noria 2021,03000222,2021,Noria,Region 3,0.333333,3,-0.144660,piped on premises,0,21,0,1,0,cement,finished,2
+noria_2021:844,Noria 2021,03000223,2021,Noria,Region 4,0.500000,4,-1.165970,"river, dam, lake, pond, stream, canal or irrigation channel",23,47,0,0,1,dirt,natural,1
+noria_2021:845,Noria 2021,03000224,2021,Noria,Region 1,0.000000,1,0.597050,protected well,25,36,0,1,0,cement,finished,3
+noria_2021:846,Noria 2021,03000225,2021,Noria,Region 2,0.500000,2,0.079060,protected well,44,56,0,1,0,cement,finished,0
+noria_2021:847,Noria 2021,03000226,2021,Noria,Region 3,0.000000,3,2.209790,piped on premises,0,56,0,1,0,dirt,finished,2
+noria_2021:848,Noria 2021,03000227,2021,Noria,Region 4,0.000000,4,1.002550,public tap,29,18,0,1,0,cement,finished,3
+noria_2021:849,Noria 2021,03000228,2021,Noria,Region 1,0.000000,1,0.823030,unprotected well,19,49,0,1,1,cement,finished,3
+noria_2021:850,Noria 2021,03000229,2021,Noria,Region 2,0.000000,2,-1.072570,protected well,39,69,0,0,0,dirt,natural,1
+noria_2021:851,Noria 2021,03000230,2021,Noria,Region 3,0.666667,3,0.182590,"river, dam, lake, pond, stream, canal or irrigation channel",30,45,0,1,1,cement,finished,2
+noria_2021:852,Noria 2021,03000231,2021,Noria,Region 4,0.500000,4,0.064090,unprotected well,35,39,0,1,1,cement,finished,2
+noria_2021:853,Noria 2021,03000232,2021,Noria,Region 1,0.000000,1,1.096230,piped on premises,0,86,0,1,0,cement,finished,1
+noria_2021:854,Noria 2021,03000233,2021,Noria,Region 2,0.000000,2,0.689960,piped on premises,0,30,0,1,0,cement,finished,3
+noria_2021:855,Noria 2021,03000234,2021,Noria,Region 3,0.666667,3,-0.233520,piped on premises,0,43,0,0,0,cement,finished,2
+noria_2021:856,Noria 2021,03000235,2021,Noria,Region 4,0.750000,4,-1.545020,public tap,19,62,0,0,0,dirt,natural,4
+noria_2021:857,Noria 2021,03000236,2021,Noria,Region 1,0.000000,1,0.666110,piped on premises,0,30,0,1,0,cement,finished,1
+noria_2021:858,Noria 2021,03000237,2021,Noria,Region 2,1.000000,2,0.236010,protected well,33,71,0,0,0,cement,finished,3
+noria_2021:859,Noria 2021,03000238,2021,Noria,Region 3,0.666667,3,-0.558680,public tap,39,49,0,0,0,dirt,natural,1
+noria_2021:860,Noria 2021,03000239,2021,Noria,Region 4,0.000000,4,0.199850,"river, dam, lake, pond, stream, canal or irrigation channel",48,36,1,0,1,cement,finished,3
+noria_2021:861,Noria 2021,03000240,2021,Noria,Region 1,0.000000,1,1.278470,public tap,23,46,0,1,0,cement,finished,2
+noria_2021:862,Noria 2021,03000241,2021,Noria,Region 2,0.000000,2,0.684430,unprotected well,52,55,1,1,1,cement,finished,3
+noria_2021:863,Noria 2021,03000242,2021,Noria,Region 3,1.000000,3,-1.145240,"river, dam, lake, pond, stream, canal or irrigation channel",30,62,1,0,1,dirt,natural,2
+noria_2021:864,Noria 2021,03000243,2021,Noria,Region 4,0.500000,4,-0.578710,"river, dam, lake, pond, stream, canal or irrigation channel",61,21,0,1,1,dirt,natural,1
+noria_2021:865,Noria 2021,03000244,2021,Noria,Region 1,0.000000,1,1.160090,public tap,26,32,0,1,0,cement,finished,3
+noria_2021:866,Noria 2021,03000245,2021,Noria,Region 2,0.000000,2,-0.198030,piped on premises,0,37,0,1,0,cement,finished,1
+noria_2021:867,Noria 2021,03000246,2021,Noria,Region 3,0.333333,3,0.150960,"river, dam, lake, pond, stream, canal or irrigation channel",,44,1,1,1,cement,finished,2
+noria_2021:868,Noria 2021,03000247,2021,Noria,Region 4,0.250000,4,1.182820,public tap,12,64,0,1,0,cement,finished,2
+noria_2021:869,Noria 2021,03000248,2021,Noria,Region 1,0.000000,1,0.856230,piped on premises,0,57,0,1,0,cement,finished,3
+noria_2021:870,Noria 2021,03000249,2021,Noria,Region 2,0.500000,2,0.366420,public tap,43,47,0,1,0,cement,finished,2
+noria_2021:871,Noria 2021,03000250,2021,Noria,Region 3,0.666667,3,0.692820,protected well,21,25,0,1,0,cement,finished,1
+noria_2021:872,Noria 2021,03000251,2021,Noria,Region 4,0.500000,4,-1.456630,"river, dam, lake, pond, stream, canal or irrigation channel",23,71,0,0,1,dirt,natural,2
+noria_2021:873,Noria 2021,03000252,2021,Noria,Region 1,0.000000,1,0.138580,piped on premises,0,37,0,0,0,cement,finished,3
+noria_2021:874,Noria 2021,03000253,2021,Noria,Region 2,1.000000,2,-0.408610,"river, dam, lake, pond, stream, canal or irrigation channel",25,52,1,1,1,dirt,finished,2
+noria_2021:875,Noria 2021,03000254,2021,Noria,Region 3,0.000000,3,0.251620,protected well,34,32,1,1,0,cement,finished,3
+noria_2021:876,Noria 2021,03000255,2021,Noria,Region 4,0.750000,4,-1.193990,protected well,45,56,0,0,0,dirt,natural,3
+noria_2021:877,Noria 2021,03000256,2021,Noria,Region 1,0.000000,1,-1.913640,"river, dam, lake, pond, stream, canal or irrigation channel",26,42,0,0,1,dirt,natural,2
+noria_2021:878,Noria 2021,03000257,2021,Noria,Region 2,0.500000,2,-0.194660,"river, dam, lake, pond, stream, canal or irrigation channel",18,48,0,0,1,cement,finished,2
+noria_2021:879,Noria 2021,03000258,2021,Noria,Region 3,0.333333,3,0.539000,piped on premises,0,58,0,1,0,cement,finished,2
+noria_2021:880,Noria 2021,03000259,2021,Noria,Region 4,0.000000,4,1.847840,piped on premises,0,66,0,1,0,cement,finished,3
+noria_2021:881,Noria 2021,03000260,2021,Noria,Region 1,1.000000,1,1.004020,unprotected well,33,50,0,1,1,cement,finished,1
+noria_2021:882,Noria 2021,03000261,2021,Noria,Region 2,0.000000,2,0.945200,protected well,28,23,1,1,0,cement,finished,4
+noria_2021:883,Noria 2021,03000262,2021,Noria,Region 3,0.666667,3,0.296830,protected well,25,,0,1,0,cement,finished,3
+noria_2021:884,Noria 2021,03000263,2021,Noria,Region 4,0.500000,4,0.806980,piped on premises,0,48,0,0,0,cement,finished,3
+noria_2021:885,Noria 2021,03000264,2021,Noria,Region 1,1.000000,1,-0.643960,piped on premises,0,64,0,0,0,dirt,natural,3
+noria_2021:886,Noria 2021,03000265,2021,Noria,Region 2,0.500000,2,0.093270,public tap,26,29,0,1,0,cement,finished,1
+noria_2021:887,Noria 2021,03000266,2021,Noria,Region 3,0.333333,3,0.005890,piped on premises,0,28,0,0,0,cement,finished,2
+noria_2021:888,Noria 2021,03000267,2021,Noria,Region 4,0.000000,4,1.475090,piped on premises,0,,0,1,0,cement,finished,5
+noria_2021:889,Noria 2021,03000268,2021,Noria,Region 1,0.000000,1,0.352550,unprotected well,,71,0,1,1,cement,finished,3
+noria_2021:890,Noria 2021,03000269,2021,Noria,Region 2,0.500000,2,-0.912830,protected well,21,26,0,0,0,dirt,natural,2
+noria_2021:891,Noria 2021,03000270,2021,Noria,Region 3,0.000000,3,1.552770,public tap,1,39,0,1,0,cement,finished,0
+noria_2021:892,Noria 2021,03000271,2021,Noria,Region 4,0.500000,4,0.476220,unprotected well,34,21,0,1,1,cement,finished,1
+noria_2021:893,Noria 2021,03000272,2021,Noria,Region 1,0.000000,1,1.576120,piped on premises,0,36,0,1,0,cement,finished,2
+noria_2021:894,Noria 2021,03000273,2021,Noria,Region 2,0.500000,2,-0.465350,unprotected well,33,69,0,0,1,dirt,natural,2
+noria_2021:895,Noria 2021,03000274,2021,Noria,Region 3,0.666667,3,0.189190,unprotected well,39,19,0,1,1,cement,finished,1
+noria_2021:896,Noria 2021,03000275,2021,Noria,Region 4,0.250000,4,0.518130,"river, dam, lake, pond, stream, canal or irrigation channel",14,56,0,1,1,cement,finished,3
+noria_2021:897,Noria 2021,03000276,2021,Noria,Region 1,1.000000,1,-0.382980,unprotected well,34,29,0,1,1,dirt,finished,4
+noria_2021:898,Noria 2021,03000277,2021,Noria,Region 2,0.500000,2,0.553770,"river, dam, lake, pond, stream, canal or irrigation channel",17,68,0,1,1,cement,finished,3
+noria_2021:899,Noria 2021,03000278,2021,Noria,Region 3,0.333333,3,-0.033580,public tap,1,39,0,1,0,cement,finished,1
+noria_2021:900,Noria 2021,03000279,2021,Noria,Region 4,0.000000,4,0.802850,public tap,36,24,0,1,0,cement,finished,1
+noria_2021:901,Noria 2021,03000280,2021,Noria,Region 1,0.000000,1,1.741740,piped on premises,0,35,0,1,0,cement,finished,2
+noria_2021:902,Noria 2021,03000281,2021,Noria,Region 2,1.000000,2,0.962690,protected well,15,37,0,1,0,cement,finished,2
+noria_2021:903,Noria 2021,03000282,2021,Noria,Region 3,0.666667,3,0.248760,protected well,25,38,0,0,0,cement,finished,2
+noria_2021:904,Noria 2021,03000283,2021,Noria,Region 4,0.750000,4,-0.354180,public tap,30,57,1,1,0,dirt,finished,4
+noria_2021:905,Noria 2021,03000284,2021,Noria,Region 1,0.000000,1,1.853150,piped on premises,0,27,0,1,0,cement,finished,1
+noria_2021:906,Noria 2021,03000285,2021,Noria,Region 2,0.000000,2,0.401290,"river, dam, lake, pond, stream, canal or irrigation channel",29,57,0,1,1,cement,finished,1
+noria_2021:907,Noria 2021,03000286,2021,Noria,Region 3,0.000000,3,1.308840,piped on premises,0,32,0,1,0,cement,finished,1
+noria_2021:908,Noria 2021,03000287,2021,Noria,Region 4,0.250000,4,0.440010,public tap,,38,0,1,0,cement,finished,4
+noria_2021:909,Noria 2021,03000288,2021,Noria,Region 1,0.000000,1,-0.471940,protected well,24,45,0,0,0,dirt,natural,3
+noria_2021:910,Noria 2021,03000289,2021,Noria,Region 2,0.500000,2,-0.611640,protected well,56,49,0,0,0,dirt,natural,0
+noria_2021:911,Noria 2021,03000290,2021,Noria,Region 3,0.000000,3,0.870470,protected well,28,57,0,1,0,cement,finished,3
+noria_2021:912,Noria 2021,03000291,2021,Noria,Region 4,0.250000,4,0.608460,"river, dam, lake, pond, stream, canal or irrigation channel",59,34,0,1,1,cement,finished,3
+noria_2021:913,Noria 2021,03000292,2021,Noria,Region 1,1.000000,1,0.816240,unprotected well,16,49,1,1,1,cement,finished,2
+noria_2021:914,Noria 2021,03000293,2021,Noria,Region 2,0.500000,2,-0.404560,piped on premises,0,41,1,0,0,dirt,finished,1
+noria_2021:915,Noria 2021,03000294,2021,Noria,Region 3,0.333333,3,-0.596110,protected well,22,55,0,0,0,dirt,natural,2
+noria_2021:916,Noria 2021,03000295,2021,Noria,Region 4,0.000000,4,0.874370,piped on premises,0,36,0,1,0,cement,finished,3
+noria_2021:917,Noria 2021,03000296,2021,Noria,Region 1,0.000000,1,0.377900,piped on premises,0,51,1,1,0,cement,finished,2
+noria_2021:918,Noria 2021,03000297,2021,Noria,Region 2,0.000000,2,0.854010,piped on premises,0,56,0,1,0,cement,finished,3
+noria_2021:919,Noria 2021,03000298,2021,Noria,Region 3,0.333333,3,0.326910,"river, dam, lake, pond, stream, canal or irrigation channel",11,49,0,1,1,cement,finished,3
+noria_2021:920,Noria 2021,03000299,2021,Noria,Region 4,0.250000,4,0.048940,piped on premises,0,50,0,0,0,cement,finished,4
+noria_2021:921,Noria 2021,03000300,2021,Noria,Region 1,1.000000,1,-1.350440,public tap,52,34,0,0,0,dirt,natural,2
+noria_2021:922,Noria 2021,03000301,2021,Noria,Region 2,0.500000,2,0.178920,public tap,22,36,0,0,0,cement,finished,2
+noria_2021:923,Noria 2021,03000302,2021,Noria,Region 3,0.333333,3,-0.166240,"river, dam, lake, pond, stream, canal or irrigation channel",30,61,0,1,1,cement,finished,3
+noria_2021:924,Noria 2021,03000303,2021,Noria,Region 4,0.500000,4,-0.779780,"river, dam, lake, pond, stream, canal or irrigation channel",47,67,0,0,1,dirt,natural,4
+noria_2021:925,Noria 2021,03000304,2021,Noria,Region 1,0.000000,1,0.900640,protected well,27,45,0,1,0,cement,finished,0
+noria_2021:926,Noria 2021,03000305,2021,Noria,Region 2,0.500000,2,-1.377300,unprotected well,46,49,0,0,1,dirt,natural,2
+noria_2021:927,Noria 2021,03000306,2021,Noria,Region 3,0.000000,3,1.481440,protected well,22,48,0,1,0,cement,finished,2
+noria_2021:928,Noria 2021,03000307,2021,Noria,Region 4,0.250000,4,-0.150720,unprotected well,32,54,0,0,1,cement,finished,3
+noria_2021:929,Noria 2021,03000308,2021,Noria,Region 1,0.000000,1,0.399050,piped on premises,0,56,0,1,0,cement,finished,1
+noria_2021:930,Noria 2021,03000309,2021,Noria,Region 2,0.000000,2,1.307580,unprotected well,21,71,0,1,1,cement,finished,2
+noria_2021:931,Noria 2021,03000310,2021,Noria,Region 3,0.000000,3,0.367200,protected well,41,18,1,1,0,cement,finished,1
+noria_2021:932,Noria 2021,03000311,2021,Noria,Region 4,0.250000,4,-0.831200,protected well,31,86,0,0,0,dirt,natural,4
+noria_2021:933,Noria 2021,03000312,2021,Noria,Region 1,1.000000,1,0.959710,piped on premises,0,33,1,1,0,cement,finished,0
+noria_2021:934,Noria 2021,03000313,2021,Noria,Region 2,0.500000,2,-0.200530,public tap,34,53,0,0,0,cement,finished,3
+noria_2021:935,Noria 2021,03000314,2021,Noria,Region 3,0.666667,3,-0.171550,"river, dam, lake, pond, stream, canal or irrigation channel",27,70,0,1,1,cement,finished,
+noria_2021:936,Noria 2021,03000315,2021,Noria,Region 4,0.250000,4,-0.161040,public tap,14,56,0,0,0,cement,finished,3
+noria_2021:937,Noria 2021,03000316,2021,Noria,Region 1,0.000000,1,0.840150,public tap,32,61,0,0,0,cement,finished,3
+noria_2021:938,Noria 2021,03000317,2021,Noria,Region 2,0.000000,2,0.274820,unprotected well,31,37,0,1,1,cement,finished,2
+noria_2021:939,Noria 2021,03000318,2021,Noria,Region 3,0.666667,3,-0.057140,public tap,26,62,0,0,0,cement,finished,2
+noria_2021:940,Noria 2021,03000319,2021,Noria,Region 4,0.750000,4,-1.113480,unprotected well,45,53,0,0,1,dirt,natural,3
+noria_2021:941,Noria 2021,03000320,2021,Noria,Region 1,0.000000,1,1.556170,piped on premises,0,28,0,1,0,cement,finished,2
+noria_2021:942,Noria 2021,03000321,2021,Noria,Region 2,0.500000,2,-0.787390,unprotected well,39,44,1,0,1,dirt,natural,1
+noria_2021:943,Noria 2021,03000322,2021,Noria,Region 3,0.333333,3,-0.710370,"river, dam, lake, pond, stream, canal or irrigation channel",43,53,0,0,1,dirt,natural,3
+noria_2021:944,Noria 2021,03000323,2021,Noria,Region 4,0.250000,4,1.398570,protected well,23,50,0,1,0,cement,finished,1
+noria_2021:945,Noria 2021,03000324,2021,Noria,Region 1,0.000000,1,1.204600,protected well,8,21,0,1,0,cement,finished,1
+noria_2021:946,Noria 2021,03000325,2021,Noria,Region 2,0.500000,2,-0.657000,protected well,42,57,0,0,0,dirt,natural,2
+noria_2021:947,Noria 2021,03000326,2021,Noria,Region 3,0.000000,3,0.076490,protected well,29,40,0,0,0,cement,finished,2
+noria_2021:948,Noria 2021,03000327,2021,Noria,Region 4,0.750000,4,-0.500070,protected well,25,34,0,1,0,dirt,natural,2
+noria_2021:949,Noria 2021,03000328,2021,Noria,Region 1,0.000000,1,0.018590,public tap,,48,0,0,0,cement,finished,3
+noria_2021:950,Noria 2021,03000329,2021,Noria,Region 2,0.000000,2,-0.088010,public tap,14,56,0,0,0,cement,finished,3
+noria_2021:951,Noria 2021,03000330,2021,Noria,Region 3,0.666667,3,-1.229160,public tap,44,49,0,0,0,dirt,natural,1
+noria_2021:952,Noria 2021,03000331,2021,Noria,Region 4,0.250000,4,0.471000,unprotected well,12,25,1,1,1,cement,finished,1
+noria_2021:953,Noria 2021,03000332,2021,Noria,Region 1,0.000000,1,0.946440,public tap,6,35,1,1,0,cement,finished,2
+noria_2021:954,Noria 2021,03000333,2021,Noria,Region 2,0.500000,2,2.007340,protected well,19,55,0,1,0,cement,finished,1
+noria_2021:955,Noria 2021,03000334,2021,Noria,Region 3,0.333333,3,0.548950,public tap,54,40,0,1,0,cement,finished,1
+noria_2021:956,Noria 2021,03000335,2021,Noria,Region 4,0.500000,4,-0.783310,protected well,,56,0,0,0,dirt,natural,3
+noria_2021:957,Noria 2021,03000336,2021,Noria,Region 1,0.000000,1,0.489570,unprotected well,35,57,0,0,1,cement,finished,3
+noria_2021:958,Noria 2021,03000337,2021,Noria,Region 2,0.000000,2,3.377620,piped on premises,0,29,0,1,0,cement,finished,1
+noria_2021:959,Noria 2021,03000338,2021,Noria,Region 3,0.666667,3,1.613980,piped on premises,0,39,0,1,0,cement,finished,1
+noria_2021:960,Noria 2021,03000339,2021,Noria,Region 4,0.250000,4,2.090430,piped on premises,0,54,0,1,0,dirt,finished,2
+lumen_2018:961,Lumen 2018,04000001,2018,Lumen,Region 2,0.500000,2,0.031110,public tap,13,31,0,1,0,cement,finished,2
+lumen_2018:962,Lumen 2018,04000002,2018,Lumen,Region 3,0.000000,3,0.870750,piped on premises,0,32,0,1,0,cement,finished,3
+lumen_2018:963,Lumen 2018,04000003,2018,Lumen,Region 4,0.250000,4,-0.302680,protected well,39,58,0,0,0,dirt,finished,2
+lumen_2018:964,Lumen 2018,04000004,2018,Lumen,Region 1,1.000000,1,0.856640,public tap,50,21,0,1,0,cement,finished,4
+lumen_2018:965,Lumen 2018,04000005,2018,Lumen,Region 2,0.000000,2,-1.325360,"river, dam, lake, pond, stream, canal or irrigation channel",43,29,0,0,1,dirt,natural,2
+lumen_2018:966,Lumen 2018,04000006,2018,Lumen,Region 3,0.000000,3,-0.386490,"river, dam, lake, pond, stream, canal or irrigation channel",25,48,1,0,1,dirt,finished,2
+lumen_2018:967,Lumen 2018,04000008,2018,Lumen,Region 1,0.000000,1,-1.019690,"river, dam, lake, pond, stream, canal or irrigation channel",32,38,0,0,1,dirt,natural,2
+lumen_2018:968,Lumen 2018,04000009,2018,Lumen,Region 2,0.000000,2,1.449940,piped on premises,0,38,0,1,0,cement,finished,2
+lumen_2018:969,Lumen 2018,04000010,2018,Lumen,Region 3,0.000000,3,0.004770,"river, dam, lake, pond, stream, canal or irrigation channel",28,65,0,0,1,cement,finished,2
+lumen_2018:970,Lumen 2018,04000011,2018,Lumen,Region 4,0.750000,4,0.086830,piped on premises,0,29,0,1,0,cement,finished,1
+lumen_2018:971,Lumen 2018,04000012,2018,Lumen,Region 1,0.000000,1,0.191280,unprotected well,28,53,1,0,1,cement,finished,2
+lumen_2018:972,Lumen 2018,04000013,2018,Lumen,Region 2,0.000000,2,0.632310,piped on premises,0,77,0,1,0,cement,finished,2
+lumen_2018:973,Lumen 2018,04000015,2018,Lumen,Region 4,0.500000,4,-0.051940,"river, dam, lake, pond, stream, canal or irrigation channel",29,40,0,0,1,cement,finished,2
+lumen_2018:974,Lumen 2018,04000016,2018,Lumen,Region 1,0.000000,1,0.378300,"river, dam, lake, pond, stream, canal or irrigation channel",37,41,0,1,1,cement,finished,2
+lumen_2018:975,Lumen 2018,04000017,2018,Lumen,Region 2,0.500000,2,-0.219290,unprotected well,42,53,0,0,1,cement,finished,2
+lumen_2018:976,Lumen 2018,04000018,2018,Lumen,Region 3,0.333333,3,0.391860,protected well,30,29,0,0,0,cement,finished,2
+lumen_2018:977,Lumen 2018,04000019,2018,Lumen,Region 4,0.000000,4,-0.126610,"river, dam, lake, pond, stream, canal or irrigation channel",41,30,0,1,1,cement,finished,2
+lumen_2018:978,Lumen 2018,04000020,2018,Lumen,Region 1,0.000000,1,-1.220200,"river, dam, lake, pond, stream, canal or irrigation channel",23,37,0,0,1,dirt,natural,3
+lumen_2018:979,Lumen 2018,04000022,2018,Lumen,Region 3,0.000000,3,0.744130,public tap,26,68,0,1,0,cement,finished,1
+lumen_2018:980,Lumen 2018,04000023,2018,Lumen,Region 4,0.750000,4,-0.850340,"river, dam, lake, pond, stream, canal or irrigation channel",43,57,0,0,1,dirt,natural,2
+lumen_2018:981,Lumen 2018,04000024,2018,Lumen,Region 1,0.000000,1,-0.024020,"river, dam, lake, pond, stream, canal or irrigation channel",18,56,0,0,1,cement,finished,1
+lumen_2018:982,Lumen 2018,04000025,2018,Lumen,Region 2,0.500000,2,-0.445260,"river, dam, lake, pond, stream, canal or irrigation channel",28,43,0,0,1,dirt,finished,2
+lumen_2018:983,Lumen 2018,04000026,2018,Lumen,Region 3,0.333333,3,-0.486820,unprotected well,40,51,0,0,1,dirt,natural,1
+lumen_2018:984,Lumen 2018,04000027,2018,Lumen,Region 4,0.000000,4,1.822930,piped on premises,0,58,0,1,0,cement,finished,2
+lumen_2018:985,Lumen 2018,04000029,2018,Lumen,Region 2,0.000000,2,0.969740,protected well,45,59,0,1,0,cement,finished,2
+lumen_2018:986,Lumen 2018,04000030,2018,Lumen,Region 3,0.000000,3,0.089720,"river, dam, lake, pond, stream, canal or irrigation channel",17,61,0,1,1,cement,finished,1
+lumen_2018:987,Lumen 2018,04000031,2018,Lumen,Region 4,0.750000,4,-0.818430,"river, dam, lake, pond, stream, canal or irrigation channel",42,48,1,0,1,dirt,natural,3
+lumen_2018:988,Lumen 2018,04000032,2018,Lumen,Region 1,0.000000,1,0.622040,public tap,31,40,0,1,0,cement,finished,3
+lumen_2018:989,Lumen 2018,04000033,2018,Lumen,Region 2,0.000000,2,0.090230,piped on premises,0,69,0,1,0,cement,finished,2
+lumen_2018:990,Lumen 2018,04000034,2018,Lumen,Region 3,0.000000,3,-0.144700,piped on premises,0,49,0,0,0,cement,finished,4
+lumen_2018:991,Lumen 2018,04000036,2018,Lumen,Region 1,1.000000,1,-0.934200,protected well,34,31,0,0,0,dirt,natural,2
+lumen_2018:992,Lumen 2018,04000037,2018,Lumen,Region 2,0.000000,2,-0.673910,"river, dam, lake, pond, stream, canal or irrigation channel",17,52,0,0,1,dirt,natural,0
+lumen_2018:993,Lumen 2018,04000038,2018,Lumen,Region 3,0.000000,3,0.646010,piped on premises,0,33,0,1,0,cement,finished,3
+lumen_2018:994,Lumen 2018,04000039,2018,Lumen,Region 4,0.250000,4,-0.137830,piped on premises,0,38,0,0,0,cement,finished,2
+lumen_2018:995,Lumen 2018,04000040,2018,Lumen,Region 1,0.000000,1,0.362370,piped on premises,0,52,0,1,0,cement,finished,1
+lumen_2018:996,Lumen 2018,04000041,2018,Lumen,Region 2,0.500000,2,-0.754730,unprotected well,,73,1,0,1,dirt,natural,3
+lumen_2018:997,Lumen 2018,04000043,2018,Lumen,Region 4,0.000000,4,0.965960,unprotected well,25,51,0,1,1,cement,finished,2
+lumen_2018:998,Lumen 2018,04000044,2018,Lumen,Region 1,0.000000,1,-1.588030,"river, dam, lake, pond, stream, canal or irrigation channel",62,34,0,0,1,dirt,natural,2
+lumen_2018:999,Lumen 2018,04000045,2018,Lumen,Region 2,0.000000,2,0.338940,public tap,15,51,0,0,0,cement,finished,3
+lumen_2018:1000,Lumen 2018,04000046,2018,Lumen,Region 3,0.333333,3,-1.325760,unprotected well,56,31,0,0,1,dirt,natural,3
+lumen_2018:1001,Lumen 2018,04000047,2018,Lumen,Region 4,0.250000,4,-0.455610,protected well,29,41,0,0,0,dirt,natural,2
+lumen_2018:1002,Lumen 2018,04000048,2018,Lumen,Region 1,0.000000,1,0.569460,piped on premises,0,45,0,1,0,cement,finished,3
+lumen_2018:1003,Lumen 2018,04000050,2018,Lumen,Region 3,0.333333,3,1.034860,piped on premises,0,41,0,1,0,cement,finished,4
+lumen_2018:1004,Lumen 2018,04000051,2018,Lumen,Region 4,0.250000,4,0.400000,protected well,33,31,0,1,0,cement,finished,3
+lumen_2018:1005,Lumen 2018,04000052,2018,Lumen,Region 1,0.000000,1,0.042930,public tap,21,35,0,1,0,cement,finished,1
+lumen_2018:1006,Lumen 2018,04000053,2018,Lumen,Region 2,0.500000,2,0.368630,piped on premises,0,48,0,1,0,cement,finished,2
+lumen_2018:1007,Lumen 2018,04000054,2018,Lumen,Region 3,0.666667,3,0.250820,"river, dam, lake, pond, stream, canal or irrigation channel",40,29,0,0,1,cement,finished,3
+lumen_2018:1008,Lumen 2018,04000055,2018,Lumen,Region 4,0.500000,4,-0.129870,protected well,29,51,0,0,0,cement,finished,2
+lumen_2018:1009,Lumen 2018,04000057,2018,Lumen,Region 2,0.000000,2,-0.243640,piped on premises,0,60,0,0,0,cement,finished,2
+lumen_2018:1010,Lumen 2018,04000058,2018,Lumen,Region 3,0.666667,3,-0.332270,public tap,37,62,0,1,0,dirt,finished,3
+lumen_2018:1011,Lumen 2018,04000059,2018,Lumen,Region 4,0.000000,4,1.662130,piped on premises,0,58,0,1,0,cement,finished,2
+lumen_2018:1012,Lumen 2018,04000060,2018,Lumen,Region 1,0.000000,1,0.004480,piped on premises,0,43,0,0,0,cement,finished,2
+lumen_2018:1013,Lumen 2018,04000061,2018,Lumen,Region 2,0.000000,2,0.664640,protected well,24,22,0,1,0,cement,finished,1
+lumen_2018:1014,Lumen 2018,04000062,2018,Lumen,Region 3,0.333333,3,0.085890,protected well,19,53,0,0,0,cement,finished,1
+lumen_2018:1015,Lumen 2018,04000064,2018,Lumen,Region 1,0.000000,1,-0.654050,"river, dam, lake, pond, stream, canal or irrigation channel",47,34,0,0,1,dirt,natural,0
+lumen_2018:1016,Lumen 2018,04000065,2018,Lumen,Region 2,0.000000,2,-0.391210,piped on premises,0,38,1,0,0,dirt,finished,4
+lumen_2018:1017,Lumen 2018,04000066,2018,Lumen,Region 3,0.333333,3,0.316120,piped on premises,0,55,0,1,0,cement,finished,2
+lumen_2018:1018,Lumen 2018,04000067,2018,Lumen,Region 4,0.250000,4,0.164300,"river, dam, lake, pond, stream, canal or irrigation channel",,72,0,1,1,cement,finished,3
+lumen_2018:1019,Lumen 2018,04000068,2018,Lumen,Region 1,1.000000,1,-1.046650,public tap,26,33,0,0,0,dirt,natural,2
+lumen_2018:1020,Lumen 2018,04000069,2018,Lumen,Region 2,0.000000,2,0.728590,public tap,31,35,0,1,0,cement,finished,1
+lumen_2018:1021,Lumen 2018,04000071,2018,Lumen,Region 4,0.500000,4,-0.598650,"river, dam, lake, pond, stream, canal or irrigation channel",29,52,0,0,1,dirt,natural,2
+lumen_2018:1022,Lumen 2018,04000072,2018,Lumen,Region 1,0.000000,1,-0.574040,protected well,31,44,0,0,0,dirt,natural,3
+lumen_2018:1023,Lumen 2018,04000073,2018,Lumen,Region 2,0.000000,2,-0.308150,public tap,43,47,0,0,0,dirt,finished,3
+lumen_2018:1024,Lumen 2018,04000074,2018,Lumen,Region 3,0.333333,3,1.312620,piped on premises,0,46,1,1,0,cement,finished,3
+lumen_2018:1025,Lumen 2018,04000075,2018,Lumen,Region 4,0.750000,4,0.333880,public tap,31,35,1,1,0,cement,finished,1
+lumen_2018:1026,Lumen 2018,04000076,2018,Lumen,Region 1,0.000000,1,0.542090,public tap,27,47,0,1,0,cement,finished,4
+lumen_2018:1027,Lumen 2018,04000078,2018,Lumen,Region 3,0.333333,3,-0.158870,piped on premises,0,52,0,0,0,cement,finished,2
+lumen_2018:1028,Lumen 2018,04000079,2018,Lumen,Region 4,0.250000,4,0.516480,protected well,30,45,0,1,0,cement,finished,2
+lumen_2018:1029,Lumen 2018,04000080,2018,Lumen,Region 1,0.000000,1,0.263390,protected well,27,55,0,1,0,cement,finished,2
+lumen_2018:1030,Lumen 2018,04000081,2018,Lumen,Region 2,0.500000,2,-1.056390,public tap,45,78,0,0,0,dirt,natural,3
+lumen_2018:1031,Lumen 2018,04000082,2018,Lumen,Region 3,0.000000,3,0.582130,public tap,,18,0,0,0,cement,finished,1
+lumen_2018:1032,Lumen 2018,04000083,2018,Lumen,Region 4,0.500000,4,-0.623730,public tap,29,32,0,0,0,dirt,natural,3
+lumen_2018:1033,Lumen 2018,04000085,2018,Lumen,Region 2,0.000000,2,0.111380,"river, dam, lake, pond, stream, canal or irrigation channel",16,44,0,0,1,cement,finished,1
+lumen_2018:1034,Lumen 2018,04000086,2018,Lumen,Region 3,0.333333,3,-0.268530,protected well,27,45,0,0,0,cement,finished,1
+lumen_2018:1035,Lumen 2018,04000087,2018,Lumen,Region 4,0.500000,4,-1.621850,"river, dam, lake, pond, stream, canal or irrigation channel",56,29,0,0,1,dirt,natural,2
+lumen_2018:1036,Lumen 2018,04000088,2018,Lumen,Region 1,0.000000,1,1.238960,unprotected well,45,62,0,1,1,cement,finished,2
+lumen_2018:1037,Lumen 2018,04000089,2018,Lumen,Region 2,0.000000,2,-0.309960,protected well,11,,1,0,0,dirt,finished,1
+lumen_2018:1038,Lumen 2018,04000090,2018,Lumen,Region 3,1.000000,3,-1.324540,protected well,24,40,0,0,0,dirt,natural,3
+lumen_2018:1039,Lumen 2018,04000092,2018,Lumen,Region 1,0.000000,1,-1.060680,"river, dam, lake, pond, stream, canal or irrigation channel",11,31,0,0,1,dirt,natural,1
+lumen_2018:1040,Lumen 2018,04000093,2018,Lumen,Region 2,0.000000,2,0.763170,piped on premises,0,24,1,1,0,cement,finished,2
+lumen_2018:1041,Lumen 2018,04000094,2018,Lumen,Region 3,0.666667,3,0.432060,public tap,22,18,0,1,0,cement,finished,3
+lumen_2018:1042,Lumen 2018,04000095,2018,Lumen,Region 4,0.500000,4,0.427520,public tap,28,31,0,1,0,cement,finished,1
+lumen_2018:1043,Lumen 2018,04000096,2018,Lumen,Region 1,0.000000,1,0.752180,piped on premises,0,40,0,1,0,cement,finished,1
+lumen_2018:1044,Lumen 2018,04000097,2018,Lumen,Region 2,1.000000,2,-1.475450,public tap,35,68,0,0,0,dirt,natural,0
+lumen_2018:1045,Lumen 2018,04000099,2018,Lumen,Region 4,0.000000,4,1.157020,piped on premises,0,54,0,1,0,cement,finished,1
+lumen_2018:1046,Lumen 2018,04000100,2018,Lumen,Region 1,1.000000,1,-0.297550,piped on premises,0,45,0,1,0,cement,finished,1
+lumen_2018:1047,Lumen 2018,04000101,2018,Lumen,Region 2,0.500000,2,-0.522770,public tap,22,21,0,0,0,dirt,natural,3
+lumen_2018:1048,Lumen 2018,04000102,2018,Lumen,Region 3,1.000000,3,-1.107240,public tap,39,27,0,0,0,dirt,natural,2
+lumen_2018:1049,Lumen 2018,04000103,2018,Lumen,Region 4,0.250000,4,-0.400000,public tap,33,28,0,0,0,dirt,finished,3
+lumen_2018:1050,Lumen 2018,04000104,2018,Lumen,Region 1,0.000000,1,-0.279810,unprotected well,46,61,0,1,1,cement,finished,2
+lumen_2018:1051,Lumen 2018,04000106,2018,Lumen,Region 3,0.000000,3,1.031900,piped on premises,0,58,0,1,0,cement,finished,3
+lumen_2018:1052,Lumen 2018,04000107,2018,Lumen,Region 4,0.000000,4,0.364810,piped on premises,0,60,0,1,0,cement,finished,2
+lumen_2018:1053,Lumen 2018,04000108,2018,Lumen,Region 1,0.000000,1,1.375300,piped on premises,0,46,0,1,0,cement,finished,3
+lumen_2018:1054,Lumen 2018,04000109,2018,Lumen,Region 2,0.000000,2,0.267680,"river, dam, lake, pond, stream, canal or irrigation channel",40,46,0,1,1,cement,finished,4
+lumen_2018:1055,Lumen 2018,04000110,2018,Lumen,Region 3,0.666667,3,-1.328160,"river, dam, lake, pond, stream, canal or irrigation channel",38,43,0,0,1,dirt,natural,3
+lumen_2018:1056,Lumen 2018,04000111,2018,Lumen,Region 4,0.750000,4,0.069980,protected well,22,42,0,1,0,cement,finished,3
+lumen_2018:1057,Lumen 2018,04000113,2018,Lumen,Region 2,0.000000,2,-0.390670,"river, dam, lake, pond, stream, canal or irrigation channel",24,28,0,0,1,dirt,finished,1
+lumen_2018:1058,Lumen 2018,04000114,2018,Lumen,Region 3,0.666667,3,0.639450,protected well,20,58,0,1,0,cement,finished,4
+lumen_2018:1059,Lumen 2018,04000115,2018,Lumen,Region 4,0.500000,4,-0.776470,public tap,51,37,0,1,0,dirt,natural,2
+lumen_2018:1060,Lumen 2018,04000116,2018,Lumen,Region 1,0.000000,1,1.175020,piped on premises,0,32,0,1,0,cement,finished,3
+lumen_2018:1061,Lumen 2018,04000117,2018,Lumen,Region 2,0.000000,2,-1.435310,unprotected well,31,71,0,0,1,dirt,natural,3
+lumen_2018:1062,Lumen 2018,04000118,2018,Lumen,Region 3,0.000000,3,-0.088230,piped on premises,0,40,0,0,0,cement,finished,2
+lumen_2018:1063,Lumen 2018,04000120,2018,Lumen,Region 1,1.000000,1,0.334890,protected well,40,60,1,1,0,cement,finished,2
+lumen_2018:1064,Lumen 2018,04000121,2018,Lumen,Region 2,0.500000,2,0.935790,protected well,32,47,0,1,0,cement,finished,2
+lumen_2018:1065,Lumen 2018,04000122,2018,Lumen,Region 3,0.666667,3,-0.150500,protected well,18,37,0,1,0,cement,finished,4
+lumen_2018:1066,Lumen 2018,04000123,2018,Lumen,Region 4,0.500000,4,0.221050,piped on premises,,50,0,1,0,cement,finished,1
+lumen_2018:1067,Lumen 2018,04000124,2018,Lumen,Region 1,1.000000,1,-1.893090,protected well,38,78,0,0,0,dirt,natural,3
+lumen_2018:1068,Lumen 2018,04000125,2018,Lumen,Region 2,0.000000,2,1.070700,protected well,16,33,0,1,0,cement,finished,3
+lumen_2018:1069,Lumen 2018,04000127,2018,Lumen,Region 4,0.000000,4,1.212690,public tap,36,45,0,1,0,cement,finished,4
+lumen_2018:1070,Lumen 2018,04000128,2018,Lumen,Region 1,1.000000,1,-0.168090,unprotected well,30,54,0,0,1,cement,finished,1
+lumen_2018:1071,Lumen 2018,04000129,2018,Lumen,Region 2,0.000000,2,-0.187920,protected well,45,24,0,0,0,cement,finished,3
+lumen_2018:1072,Lumen 2018,04000130,2018,Lumen,Region 3,0.333333,3,0.531740,unprotected well,1,50,0,1,1,cement,finished,3
+lumen_2018:1073,Lumen 2018,04000131,2018,Lumen,Region 4,0.500000,4,0.529210,piped on premises,0,,0,1,0,cement,finished,2
+lumen_2018:1074,Lumen 2018,04000132,2018,Lumen,Region 1,0.000000,1,0.401410,public tap,23,50,1,1,0,cement,finished,5
+lumen_2018:1075,Lumen 2018,04000134,2018,Lumen,Region 3,0.333333,3,-2.335130,unprotected well,,31,1,0,1,dirt,natural,3
+lumen_2018:1076,Lumen 2018,04000135,2018,Lumen,Region 4,0.000000,4,0.994950,piped on premises,0,34,0,1,0,cement,finished,1
+lumen_2018:1077,Lumen 2018,04000136,2018,Lumen,Region 1,1.000000,1,0.541250,"river, dam, lake, pond, stream, canal or irrigation channel",13,53,0,1,1,cement,finished,1
+lumen_2018:1078,Lumen 2018,04000137,2018,Lumen,Region 2,0.000000,2,1.424930,piped on premises,0,45,0,1,0,cement,finished,1
+lumen_2018:1079,Lumen 2018,04000138,2018,Lumen,Region 3,0.666667,3,-0.165100,unprotected well,22,39,0,1,1,cement,finished,1
+lumen_2018:1080,Lumen 2018,04000139,2018,Lumen,Region 4,0.000000,4,-0.491150,public tap,22,49,0,0,0,dirt,natural,0
+lumen_2018:1081,Lumen 2018,04000141,2018,Lumen,Region 2,1.000000,2,-2.258680,"river, dam, lake, pond, stream, canal or irrigation channel",43,70,0,0,1,dirt,natural,3
+lumen_2018:1082,Lumen 2018,04000142,2018,Lumen,Region 3,0.333333,3,-0.347550,protected well,40,32,0,0,0,dirt,finished,4
+lumen_2018:1083,Lumen 2018,04000143,2018,Lumen,Region 4,0.000000,4,1.173400,public tap,20,41,0,1,0,cement,finished,0
+lumen_2018:1084,Lumen 2018,04000144,2018,Lumen,Region 1,0.000000,1,0.229790,public tap,34,18,0,1,0,cement,finished,1
+lumen_2018:1085,Lumen 2018,04000145,2018,Lumen,Region 2,0.000000,2,1.724820,piped on premises,0,51,0,1,0,cement,finished,1
+lumen_2018:1086,Lumen 2018,04000146,2018,Lumen,Region 3,0.000000,3,0.314300,protected well,21,75,0,1,0,cement,finished,2
+lumen_2018:1087,Lumen 2018,04000148,2018,Lumen,Region 1,0.000000,1,-1.161640,"river, dam, lake, pond, stream, canal or irrigation channel",55,52,0,0,1,dirt,natural,3
+lumen_2018:1088,Lumen 2018,04000149,2018,Lumen,Region 2,0.000000,2,-0.376200,protected well,36,26,0,0,0,dirt,finished,2
+lumen_2018:1089,Lumen 2018,04000150,2018,Lumen,Region 3,0.000000,3,0.282060,unprotected well,15,51,0,0,1,cement,finished,2
+lumen_2018:1090,Lumen 2018,04000151,2018,Lumen,Region 4,0.250000,4,0.352890,protected well,44,42,1,1,0,cement,finished,1
+lumen_2018:1091,Lumen 2018,04000152,2018,Lumen,Region 1,0.000000,1,0.841760,piped on premises,0,39,0,1,0,cement,finished,1
+lumen_2018:1092,Lumen 2018,04000153,2018,Lumen,Region 2,0.500000,2,-0.552540,unprotected well,45,40,0,0,1,dirt,natural,1
+lumen_2018:1093,Lumen 2018,04000155,2018,Lumen,Region 4,0.250000,4,-0.120710,"river, dam, lake, pond, stream, canal or irrigation channel",36,41,0,0,1,cement,finished,1
+lumen_2018:1094,Lumen 2018,04000156,2018,Lumen,Region 1,0.000000,1,0.453900,protected well,14,66,0,1,0,cement,finished,3
+lumen_2018:1095,Lumen 2018,04000157,2018,Lumen,Region 2,0.000000,2,0.891380,unprotected well,13,27,0,0,1,cement,finished,
+lumen_2018:1096,Lumen 2018,04000158,2018,Lumen,Region 3,0.000000,3,0.556610,piped on premises,0,39,0,1,0,cement,finished,2
+lumen_2018:1097,Lumen 2018,04000159,2018,Lumen,Region 4,0.500000,4,-0.507090,unprotected well,19,49,0,1,1,dirt,natural,3
+lumen_2018:1098,Lumen 2018,04000160,2018,Lumen,Region 1,0.000000,1,0.235900,public tap,51,37,0,1,0,cement,finished,2
+lumen_2018:1099,Lumen 2018,04000162,2018,Lumen,Region 3,0.000000,3,0.738660,public tap,18,41,0,1,0,cement,finished,4
+lumen_2018:1100,Lumen 2018,04000163,2018,Lumen,Region 4,0.250000,4,0.462390,piped on premises,0,31,1,1,0,cement,finished,2
+lumen_2018:1101,Lumen 2018,04000164,2018,Lumen,Region 1,0.000000,1,-0.876600,unprotected well,,36,0,0,1,dirt,natural,3
+lumen_2018:1102,Lumen 2018,04000165,2018,Lumen,Region 2,0.000000,2,-0.697620,piped on premises,0,63,0,0,0,dirt,natural,0
+lumen_2018:1103,Lumen 2018,04000166,2018,Lumen,Region 3,0.333333,3,0.233800,protected well,54,18,0,1,0,cement,finished,2
+lumen_2018:1104,Lumen 2018,04000167,2018,Lumen,Region 4,0.250000,4,1.340970,unprotected well,19,34,0,1,1,cement,finished,4
+lumen_2018:1105,Lumen 2018,04000169,2018,Lumen,Region 2,0.000000,2,0.248120,piped on premises,0,40,1,0,0,cement,finished,2
+lumen_2018:1106,Lumen 2018,04000170,2018,Lumen,Region 3,0.333333,3,-0.319360,piped on premises,0,18,0,0,0,dirt,finished,2
+lumen_2018:1107,Lumen 2018,04000171,2018,Lumen,Region 4,0.250000,4,-0.825200,public tap,37,27,0,0,0,dirt,natural,1
+lumen_2018:1108,Lumen 2018,04000172,2018,Lumen,Region 1,0.000000,1,0.873970,piped on premises,0,41,1,1,0,cement,finished,2
+lumen_2018:1109,Lumen 2018,04000173,2018,Lumen,Region 2,0.500000,2,0.510240,protected well,17,69,0,1,0,cement,finished,1
+lumen_2018:1110,Lumen 2018,04000174,2018,Lumen,Region 3,0.000000,3,-0.475250,"river, dam, lake, pond, stream, canal or irrigation channel",28,66,0,0,1,dirt,natural,2
+lumen_2018:1111,Lumen 2018,04000176,2018,Lumen,Region 1,1.000000,1,-0.992040,piped on premises,0,56,0,0,0,dirt,natural,1
+lumen_2018:1112,Lumen 2018,04000177,2018,Lumen,Region 2,0.000000,2,-1.407340,protected well,41,23,0,0,0,dirt,natural,1
+lumen_2018:1113,Lumen 2018,04000178,2018,Lumen,Region 3,0.333333,3,0.112460,protected well,41,,0,1,0,cement,finished,2
+lumen_2018:1114,Lumen 2018,04000179,2018,Lumen,Region 4,1.000000,4,-0.342510,piped on premises,0,52,0,0,0,dirt,finished,0
+lumen_2018:1115,Lumen 2018,04000180,2018,Lumen,Region 1,0.000000,1,0.442000,piped on premises,0,86,0,1,0,cement,finished,5
+lumen_2018:1116,Lumen 2018,04000181,2018,Lumen,Region 2,0.000000,2,-0.657960,protected well,9,42,0,0,0,dirt,natural,1
+lumen_2018:1117,Lumen 2018,04000183,2018,Lumen,Region 4,0.250000,4,1.554520,protected well,42,51,0,1,0,cement,finished,1
+lumen_2018:1118,Lumen 2018,04000184,2018,Lumen,Region 1,0.000000,1,0.147120,protected well,27,60,0,0,0,cement,finished,4
+lumen_2018:1119,Lumen 2018,04000185,2018,Lumen,Region 2,0.500000,2,-1.009270,"river, dam, lake, pond, stream, canal or irrigation channel",41,58,0,0,1,dirt,natural,3
+lumen_2018:1120,Lumen 2018,04000186,2018,Lumen,Region 3,0.333333,3,1.125560,protected well,40,51,0,1,0,cement,finished,2
+lumen_2018:1121,Lumen 2018,04000187,2018,Lumen,Region 4,0.000000,4,0.072000,piped on premises,0,61,0,0,0,cement,finished,2
+lumen_2018:1122,Lumen 2018,04000188,2018,Lumen,Region 1,0.000000,1,1.162710,protected well,38,46,0,1,0,cement,finished,2
+lumen_2018:1123,Lumen 2018,04000190,2018,Lumen,Region 3,0.333333,3,-0.763860,"river, dam, lake, pond, stream, canal or irrigation channel",47,68,0,0,1,dirt,natural,4
+lumen_2018:1124,Lumen 2018,04000191,2018,Lumen,Region 4,0.250000,4,-0.409590,piped on premises,0,32,0,0,0,dirt,finished,2
+lumen_2018:1125,Lumen 2018,04000192,2018,Lumen,Region 1,0.000000,1,0.071880,public tap,49,42,0,1,0,cement,finished,2
+lumen_2018:1126,Lumen 2018,04000193,2018,Lumen,Region 2,0.500000,2,-0.374720,public tap,26,38,0,0,0,dirt,finished,3
+lumen_2018:1127,Lumen 2018,04000194,2018,Lumen,Region 3,0.333333,3,-0.056950,protected well,27,25,1,0,0,cement,finished,2
+lumen_2018:1128,Lumen 2018,04000195,2018,Lumen,Region 4,0.250000,4,-0.826280,piped on premises,0,76,0,0,0,dirt,natural,1
+lumen_2018:1129,Lumen 2018,04000197,2018,Lumen,Region 2,1.000000,2,-0.258760,protected well,40,33,0,1,0,cement,finished,3
+lumen_2018:1130,Lumen 2018,04000198,2018,Lumen,Region 3,0.000000,3,0.180920,protected well,40,29,0,1,0,cement,finished,3
+lumen_2018:1131,Lumen 2018,04000199,2018,Lumen,Region 4,0.250000,4,-0.450950,piped on premises,0,61,0,0,0,dirt,natural,3
+lumen_2018:1132,Lumen 2018,04000200,2018,Lumen,Region 1,0.000000,1,-0.690340,public tap,41,53,0,0,0,dirt,natural,3
+lumen_2018:1133,Lumen 2018,04000201,2018,Lumen,Region 2,0.500000,2,-0.391320,public tap,,21,0,0,0,dirt,finished,2
+lumen_2018:1134,Lumen 2018,04000202,2018,Lumen,Region 3,0.333333,3,-1.856510,unprotected well,59,52,1,0,1,dirt,natural,3
+lumen_2018:1135,Lumen 2018,04000204,2018,Lumen,Region 1,0.000000,1,0.908260,protected well,15,21,0,1,0,cement,finished,2
+lumen_2018:1136,Lumen 2018,04000205,2018,Lumen,Region 2,1.000000,2,-0.159130,protected well,,39,0,0,0,cement,finished,4
+lumen_2018:1137,Lumen 2018,04000206,2018,Lumen,Region 3,0.000000,3,1.588560,protected well,46,57,0,1,0,cement,finished,2
+lumen_2018:1138,Lumen 2018,04000207,2018,Lumen,Region 4,0.250000,4,0.735820,public tap,38,67,1,1,0,cement,finished,3
+lumen_2018:1139,Lumen 2018,04000208,2018,Lumen,Region 1,0.000000,1,-0.012530,unprotected well,41,63,0,1,1,cement,finished,2
+lumen_2018:1140,Lumen 2018,04000209,2018,Lumen,Region 2,0.000000,2,-0.177160,"river, dam, lake, pond, stream, canal or irrigation channel",31,35,0,0,1,cement,finished,2
+lumen_2018:1141,Lumen 2018,04000211,2018,Lumen,Region 4,0.000000,4,0.053920,piped on premises,0,77,0,0,0,cement,finished,1
+lumen_2018:1142,Lumen 2018,04000212,2018,Lumen,Region 1,0.000000,1,-1.567130,"river, dam, lake, pond, stream, canal or irrigation channel",35,56,0,0,1,dirt,natural,3
+lumen_2018:1143,Lumen 2018,04000213,2018,Lumen,Region 2,0.000000,2,-0.640530,piped on premises,0,60,0,0,0,dirt,natural,2
+lumen_2018:1144,Lumen 2018,04000214,2018,Lumen,Region 3,0.333333,3,1.831260,protected well,35,34,0,1,0,cement,finished,2
+lumen_2018:1145,Lumen 2018,04000215,2018,Lumen,Region 4,0.500000,4,-0.706170,protected well,31,58,0,0,0,dirt,natural,4
+lumen_2018:1146,Lumen 2018,04000216,2018,Lumen,Region 1,0.000000,1,-1.369550,public tap,42,42,1,0,0,dirt,natural,3
+lumen_2018:1147,Lumen 2018,04000218,2018,Lumen,Region 3,0.333333,3,0.690270,piped on premises,0,51,0,1,0,cement,finished,1
+lumen_2018:1148,Lumen 2018,04000219,2018,Lumen,Region 4,0.750000,4,-0.784210,unprotected well,28,31,0,0,1,dirt,natural,2
+lumen_2018:1149,Lumen 2018,04000220,2018,Lumen,Region 1,0.000000,1,-0.213710,public tap,29,38,0,0,0,cement,finished,2
+lumen_2018:1150,Lumen 2018,04000221,2018,Lumen,Region 2,0.000000,2,0.837380,piped on premises,0,35,1,1,0,cement,finished,2
+lumen_2018:1151,Lumen 2018,04000222,2018,Lumen,Region 3,0.666667,3,-0.114600,protected well,47,37,0,0,0,cement,finished,2
+lumen_2018:1152,Lumen 2018,04000223,2018,Lumen,Region 4,0.500000,4,-0.835470,unprotected well,36,69,0,0,1,dirt,natural,3
+lumen_2018:1153,Lumen 2018,04000225,2018,Lumen,Region 2,0.500000,2,-0.922430,protected well,28,28,1,0,0,dirt,natural,2
+lumen_2018:1154,Lumen 2018,04000226,2018,Lumen,Region 3,0.000000,3,2.107230,piped on premises,0,74,0,1,0,dirt,finished,3
+lumen_2018:1155,Lumen 2018,04000227,2018,Lumen,Region 4,0.750000,4,0.575230,protected well,41,57,0,1,0,cement,finished,2
+lumen_2018:1156,Lumen 2018,04000228,2018,Lumen,Region 1,1.000000,1,-1.573860,"river, dam, lake, pond, stream, canal or irrigation channel",60,54,0,0,1,dirt,natural,3
+lumen_2018:1157,Lumen 2018,04000229,2018,Lumen,Region 2,0.500000,2,-0.438100,unprotected well,51,27,0,0,1,dirt,finished,2
+lumen_2018:1158,Lumen 2018,04000230,2018,Lumen,Region 3,0.000000,3,-0.453500,unprotected well,36,31,0,0,1,dirt,natural,2
+lumen_2018:1159,Lumen 2018,04000232,2018,Lumen,Region 1,0.000000,1,0.537680,protected well,33,37,0,1,0,cement,finished,1
+lumen_2018:1160,Lumen 2018,04000233,2018,Lumen,Region 2,0.500000,2,-0.706240,protected well,17,84,0,0,0,dirt,natural,2
+lumen_2018:1161,Lumen 2018,04000234,2018,Lumen,Region 3,0.333333,3,-0.459330,protected well,59,58,1,0,0,dirt,natural,4
+lumen_2018:1162,Lumen 2018,04000235,2018,Lumen,Region 4,0.000000,4,0.400690,protected well,46,53,0,1,0,cement,finished,3
+lumen_2018:1163,Lumen 2018,04000236,2018,Lumen,Region 1,0.000000,1,0.535870,public tap,40,44,0,0,0,cement,finished,3
+lumen_2018:1164,Lumen 2018,04000237,2018,Lumen,Region 2,0.500000,2,-0.818510,public tap,23,23,0,0,0,dirt,natural,3
+lumen_2018:1165,Lumen 2018,04000239,2018,Lumen,Region 4,0.500000,4,-0.305160,unprotected well,31,65,0,1,1,dirt,finished,4
+lumen_2018:1166,Lumen 2018,04000240,2018,Lumen,Region 1,0.000000,1,0.871410,protected well,30,39,0,1,0,cement,finished,3
+lumen_2018:1167,Lumen 2018,04000241,2018,Lumen,Region 2,0.500000,2,0.047390,piped on premises,0,78,0,1,0,cement,finished,2
+lumen_2018:1168,Lumen 2018,04000242,2018,Lumen,Region 3,0.333333,3,-1.469890,"river, dam, lake, pond, stream, canal or irrigation channel",15,50,0,0,1,dirt,natural,2
+lumen_2018:1169,Lumen 2018,04000243,2018,Lumen,Region 4,0.000000,4,-0.711240,public tap,33,24,0,0,0,dirt,natural,1
+lumen_2018:1170,Lumen 2018,04000244,2018,Lumen,Region 1,0.000000,1,1.441210,piped on premises,0,36,1,1,0,cement,finished,3
+lumen_2018:1171,Lumen 2018,04000246,2018,Lumen,Region 3,0.333333,3,0.298260,public tap,,67,0,0,0,cement,finished,3
+lumen_2018:1172,Lumen 2018,04000247,2018,Lumen,Region 4,0.500000,4,-0.502650,protected well,39,30,0,0,0,dirt,natural,1
+lumen_2018:1173,Lumen 2018,04000248,2018,Lumen,Region 1,1.000000,1,-1.364500,"river, dam, lake, pond, stream, canal or irrigation channel",54,32,0,0,1,dirt,natural,1
+lumen_2018:1174,Lumen 2018,04000249,2018,Lumen,Region 2,0.500000,2,-0.464250,"river, dam, lake, pond, stream, canal or irrigation channel",29,24,0,0,1,dirt,natural,4
+lumen_2018:1175,Lumen 2018,04000250,2018,Lumen,Region 3,0.000000,3,1.911740,protected well,20,80,0,1,0,cement,finished,4
+lumen_2018:1176,Lumen 2018,04000251,2018,Lumen,Region 4,0.500000,4,-0.015970,piped on premises,0,58,0,0,0,cement,finished,3
+lumen_2018:1177,Lumen 2018,04000253,2018,Lumen,Region 2,0.000000,2,0.501670,protected well,31,32,0,1,0,cement,finished,4
+lumen_2018:1178,Lumen 2018,04000254,2018,Lumen,Region 3,0.000000,3,0.001320,unprotected well,25,31,1,0,1,cement,finished,2
+lumen_2018:1179,Lumen 2018,04000255,2018,Lumen,Region 4,0.500000,4,0.192800,public tap,26,43,0,0,0,cement,finished,3
+lumen_2018:1180,Lumen 2018,04000256,2018,Lumen,Region 1,1.000000,1,0.644050,protected well,20,27,0,1,0,cement,finished,1
+lumen_2018:1181,Lumen 2018,04000257,2018,Lumen,Region 2,0.000000,2,1.225310,piped on premises,0,31,0,1,0,cement,finished,3
+lumen_2018:1182,Lumen 2018,04000258,2018,Lumen,Region 3,0.666667,3,0.332600,piped on premises,0,47,0,1,0,cement,finished,4
+lumen_2018:1183,Lumen 2018,04000260,2018,Lumen,Region 1,1.000000,1,-0.640390,public tap,35,18,1,0,0,dirt,natural,4
+lumen_2018:1184,Lumen 2018,04000261,2018,Lumen,Region 2,0.000000,2,-0.687390,unprotected well,30,37,0,0,1,dirt,natural,2
+lumen_2018:1185,Lumen 2018,04000262,2018,Lumen,Region 3,1.000000,3,-1.298710,"river, dam, lake, pond, stream, canal or irrigation channel",24,,0,0,1,dirt,natural,2
+lumen_2018:1186,Lumen 2018,04000263,2018,Lumen,Region 4,0.750000,4,-0.798970,"river, dam, lake, pond, stream, canal or irrigation channel",14,53,0,0,1,dirt,natural,1
+lumen_2018:1187,Lumen 2018,04000264,2018,Lumen,Region 1,1.000000,1,0.311690,piped on premises,0,55,0,1,0,cement,finished,1
+lumen_2018:1188,Lumen 2018,04000265,2018,Lumen,Region 2,0.000000,2,0.493450,"river, dam, lake, pond, stream, canal or irrigation channel",37,37,1,0,1,cement,finished,2
+lumen_2018:1189,Lumen 2018,04000267,2018,Lumen,Region 4,0.000000,4,-0.363360,"river, dam, lake, pond, stream, canal or irrigation channel",19,,0,0,1,dirt,finished,1
+lumen_2018:1190,Lumen 2018,04000268,2018,Lumen,Region 1,1.000000,1,0.451100,piped on premises,0,72,1,1,0,cement,finished,2
+lumen_2018:1191,Lumen 2018,04000269,2018,Lumen,Region 2,0.000000,2,0.972810,piped on premises,0,40,0,1,0,cement,finished,2
+lumen_2018:1192,Lumen 2018,04000270,2018,Lumen,Region 3,0.333333,3,-0.532390,"river, dam, lake, pond, stream, canal or irrigation channel",49,27,0,1,1,dirt,natural,2
+lumen_2018:1193,Lumen 2018,04000271,2018,Lumen,Region 4,0.250000,4,-1.262140,"river, dam, lake, pond, stream, canal or irrigation channel",11,52,0,0,1,dirt,natural,0
+lumen_2018:1194,Lumen 2018,04000272,2018,Lumen,Region 1,1.000000,1,-0.329440,piped on premises,0,59,0,0,0,dirt,finished,3
+lumen_2018:1195,Lumen 2018,04000274,2018,Lumen,Region 3,0.333333,3,-0.256850,"river, dam, lake, pond, stream, canal or irrigation channel",52,70,1,0,1,cement,finished,3
+lumen_2018:1196,Lumen 2018,04000275,2018,Lumen,Region 4,0.000000,4,-0.685330,unprotected well,40,34,0,0,1,dirt,natural,2
+lumen_2018:1197,Lumen 2018,04000276,2018,Lumen,Region 1,1.000000,1,-0.152540,"river, dam, lake, pond, stream, canal or irrigation channel",26,77,0,0,1,cement,finished,1
+lumen_2018:1198,Lumen 2018,04000277,2018,Lumen,Region 2,0.500000,2,0.288730,unprotected well,21,47,0,0,1,cement,finished,3
+lumen_2018:1199,Lumen 2018,04000278,2018,Lumen,Region 3,0.000000,3,-0.373330,piped on premises,0,75,1,0,0,dirt,finished,4
+lumen_2018:1200,Lumen 2018,04000279,2018,Lumen,Region 4,0.000000,4,0.389500,unprotected well,6,43,0,0,1,cement,finished,1
+lumen_2018:1201,Lumen 2018,04000281,2018,Lumen,Region 2,0.000000,2,2.605770,public tap,22,57,0,1,0,cement,finished,1
+lumen_2018:1202,Lumen 2018,04000282,2018,Lumen,Region 3,0.000000,3,0.545350,unprotected well,46,18,0,1,1,cement,finished,2
+lumen_2018:1203,Lumen 2018,04000283,2018,Lumen,Region 4,0.250000,4,0.240930,protected well,35,32,1,1,0,cement,finished,2
+lumen_2018:1204,Lumen 2018,04000284,2018,Lumen,Region 1,0.000000,1,-0.720050,protected well,43,45,0,0,0,dirt,natural,3
+lumen_2018:1205,Lumen 2018,04000285,2018,Lumen,Region 2,0.500000,2,-1.199740,protected well,29,46,0,0,0,dirt,natural,3
+lumen_2018:1206,Lumen 2018,04000286,2018,Lumen,Region 3,0.333333,3,0.096970,protected well,44,50,0,0,0,cement,finished,3
+lumen_2018:1207,Lumen 2018,04000288,2018,Lumen,Region 1,0.000000,1,1.082670,unprotected well,11,59,0,1,1,cement,finished,1
+lumen_2018:1208,Lumen 2018,04000289,2018,Lumen,Region 2,1.000000,2,-1.163430,public tap,42,72,0,0,0,dirt,natural,2
+lumen_2018:1209,Lumen 2018,04000290,2018,Lumen,Region 3,0.666667,3,0.341720,piped on premises,0,40,0,1,0,cement,finished,3
+lumen_2018:1210,Lumen 2018,04000291,2018,Lumen,Region 4,0.250000,4,0.119600,public tap,30,18,0,1,0,cement,finished,4
+lumen_2018:1211,Lumen 2018,04000292,2018,Lumen,Region 1,1.000000,1,1.329830,public tap,9,46,1,1,0,cement,finished,2
+lumen_2018:1212,Lumen 2018,04000293,2018,Lumen,Region 2,0.000000,2,0.028400,public tap,28,74,0,1,0,cement,finished,2
+lumen_2018:1213,Lumen 2018,04000295,2018,Lumen,Region 4,0.750000,4,-0.349250,public tap,51,32,0,0,0,dirt,finished,2
+lumen_2018:1214,Lumen 2018,04000296,2018,Lumen,Region 1,0.000000,1,1.099610,piped on premises,0,27,0,1,0,cement,finished,1
+lumen_2018:1215,Lumen 2018,04000297,2018,Lumen,Region 2,0.000000,2,0.092460,unprotected well,1,52,0,1,1,cement,finished,4
+lumen_2018:1216,Lumen 2018,04000298,2018,Lumen,Region 3,0.333333,3,-1.296400,protected well,18,18,0,0,0,dirt,natural,2
+lumen_2018:1217,Lumen 2018,04000299,2018,Lumen,Region 4,0.000000,4,1.720780,piped on premises,0,24,1,1,0,cement,finished,2
+lumen_2018:1218,Lumen 2018,04000300,2018,Lumen,Region 1,0.000000,1,-0.420850,protected well,8,55,1,1,0,dirt,finished,1
+lumen_2018:1219,Lumen 2018,04000302,2018,Lumen,Region 3,0.000000,3,-0.467940,protected well,32,35,0,0,0,dirt,natural,2
+lumen_2018:1220,Lumen 2018,04000303,2018,Lumen,Region 4,0.000000,4,1.484820,protected well,28,45,0,1,0,cement,finished,3
+lumen_2018:1221,Lumen 2018,04000304,2018,Lumen,Region 1,1.000000,1,0.165940,unprotected well,39,50,0,0,1,cement,finished,4
+lumen_2018:1222,Lumen 2018,04000305,2018,Lumen,Region 2,0.000000,2,0.176670,protected well,21,57,0,1,0,cement,finished,3
+lumen_2018:1223,Lumen 2018,04000306,2018,Lumen,Region 3,0.333333,3,0.495650,unprotected well,25,36,0,1,1,cement,finished,2
+lumen_2018:1224,Lumen 2018,04000307,2018,Lumen,Region 4,0.500000,4,-1.096820,protected well,28,52,0,0,0,dirt,natural,1
+lumen_2018:1225,Lumen 2018,04000309,2018,Lumen,Region 2,0.000000,2,1.080980,public tap,24,24,0,1,0,cement,finished,1
+lumen_2018:1226,Lumen 2018,04000310,2018,Lumen,Region 3,0.000000,3,-0.160590,protected well,59,37,0,0,0,cement,finished,1
+lumen_2018:1227,Lumen 2018,04000311,2018,Lumen,Region 4,0.000000,4,-0.170320,piped on premises,0,52,0,1,0,cement,finished,2
+lumen_2018:1228,Lumen 2018,04000312,2018,Lumen,Region 1,0.000000,1,-0.550700,protected well,17,71,0,0,0,dirt,natural,2
+lumen_2018:1229,Lumen 2018,04000313,2018,Lumen,Region 2,0.000000,2,-0.329590,unprotected well,35,29,0,1,1,dirt,finished,1
+lumen_2018:1230,Lumen 2018,04000314,2018,Lumen,Region 3,0.333333,3,0.381460,protected well,34,49,0,1,0,cement,finished,
+lumen_2018:1231,Lumen 2018,04000316,2018,Lumen,Region 1,0.000000,1,-0.984430,piped on premises,0,65,0,0,0,dirt,natural,1
+lumen_2018:1232,Lumen 2018,04000317,2018,Lumen,Region 2,0.500000,2,0.370270,piped on premises,0,24,0,1,0,cement,finished,2
+lumen_2018:1233,Lumen 2018,04000318,2018,Lumen,Region 3,0.000000,3,0.409880,protected well,40,32,0,0,0,cement,finished,2
+lumen_2018:1234,Lumen 2018,04000319,2018,Lumen,Region 4,1.000000,4,-1.540930,"river, dam, lake, pond, stream, canal or irrigation channel",47,46,1,0,1,dirt,natural,2
+lumen_2018:1235,Lumen 2018,04000320,2018,Lumen,Region 1,0.000000,1,-0.245390,piped on premises,0,55,0,0,0,cement,finished,2
+lumen_2018:1236,Lumen 2018,04000321,2018,Lumen,Region 2,0.500000,2,-0.010300,"river, dam, lake, pond, stream, canal or irrigation channel",27,53,0,0,1,cement,finished,1
+lumen_2018:1237,Lumen 2018,04000323,2018,Lumen,Region 4,0.000000,4,1.272790,protected well,60,53,0,1,0,cement,finished,3
+lumen_2018:1238,Lumen 2018,04000324,2018,Lumen,Region 1,1.000000,1,-1.022580,piped on premises,0,42,0,0,0,dirt,natural,1
+lumen_2018:1239,Lumen 2018,04000325,2018,Lumen,Region 2,0.000000,2,0.258870,protected well,48,44,0,1,0,cement,finished,3
+lumen_2018:1240,Lumen 2018,04000326,2018,Lumen,Region 3,0.000000,3,0.218580,"river, dam, lake, pond, stream, canal or irrigation channel",29,28,0,0,1,cement,finished,2
+lumen_2018:1241,Lumen 2018,04000327,2018,Lumen,Region 4,0.250000,4,1.084610,piped on premises,0,43,0,1,0,cement,finished,2
+lumen_2018:1242,Lumen 2018,04000328,2018,Lumen,Region 1,0.000000,1,-0.092880,piped on premises,,44,0,1,0,cement,finished,3
+lumen_2018:1243,Lumen 2018,04000330,2018,Lumen,Region 3,0.333333,3,-1.107730,public tap,44,30,0,0,0,dirt,natural,1
+lumen_2018:1244,Lumen 2018,04000331,2018,Lumen,Region 4,0.000000,4,0.605680,piped on premises,0,75,0,1,0,cement,finished,4
+lumen_2018:1245,Lumen 2018,04000332,2018,Lumen,Region 1,0.000000,1,0.466200,piped on premises,0,64,0,1,0,cement,finished,1
+lumen_2018:1246,Lumen 2018,04000333,2018,Lumen,Region 2,0.500000,2,0.119750,unprotected well,32,21,1,1,1,cement,finished,2
+lumen_2018:1247,Lumen 2018,04000334,2018,Lumen,Region 3,0.000000,3,0.521150,piped on premises,0,42,0,0,0,cement,finished,1
+lumen_2018:1248,Lumen 2018,04000335,2018,Lumen,Region 4,0.250000,4,0.255440,unprotected well,,73,1,1,1,cement,finished,3
+lumen_2018:1249,Lumen 2018,04000337,2018,Lumen,Region 2,0.000000,2,0.511580,piped on premises,0,58,0,0,0,cement,finished,4
+lumen_2018:1250,Lumen 2018,04000338,2018,Lumen,Region 3,0.000000,3,0.181940,public tap,36,51,0,1,0,cement,finished,2
+lumen_2018:1251,Lumen 2018,04000339,2018,Lumen,Region 4,1.000000,4,-0.275710,unprotected well,16,47,0,1,1,dirt,finished,2
+lumen_2018:1252,Lumen 2018,04000340,2018,Lumen,Region 1,0.000000,1,1.001510,piped on premises,0,18,0,1,0,cement,finished,1
+lumen_2018:1253,Lumen 2018,04000341,2018,Lumen,Region 2,0.000000,2,0.372580,piped on premises,0,48,0,1,0,cement,finished,2
+lumen_2018:1254,Lumen 2018,04000342,2018,Lumen,Region 3,0.000000,3,0.467740,protected well,8,46,0,1,0,cement,finished,1
+lumen_2018:1255,Lumen 2018,04000344,2018,Lumen,Region 1,1.000000,1,-0.000880,piped on premises,0,23,0,1,0,cement,finished,3
+lumen_2018:1256,Lumen 2018,04000345,2018,Lumen,Region 2,1.000000,2,-0.917860,"river, dam, lake, pond, stream, canal or irrigation channel",44,62,0,0,1,dirt,natural,3
+lumen_2018:1257,Lumen 2018,04000346,2018,Lumen,Region 3,0.333333,3,0.687810,unprotected well,26,22,0,1,1,cement,finished,2
+lumen_2018:1258,Lumen 2018,04000347,2018,Lumen,Region 4,0.500000,4,-0.153000,"river, dam, lake, pond, stream, canal or irrigation channel",40,49,0,0,1,cement,finished,1
+lumen_2018:1259,Lumen 2018,04000348,2018,Lumen,Region 1,1.000000,1,-0.569860,"river, dam, lake, pond, stream, canal or irrigation channel",31,49,0,0,1,dirt,natural,2
+lumen_2018:1260,Lumen 2018,04000349,2018,Lumen,Region 2,0.000000,2,0.918780,protected well,32,36,0,1,0,cement,finished,1
+lumen_2018:1261,Lumen 2018,04000351,2018,Lumen,Region 4,0.500000,4,0.789340,protected well,16,55,0,1,0,cement,finished,3
+lumen_2018:1262,Lumen 2018,04000352,2018,Lumen,Region 1,0.000000,1,0.144790,unprotected well,16,42,0,1,1,cement,finished,1
+lumen_2018:1263,Lumen 2018,04000353,2018,Lumen,Region 2,0.500000,2,-0.536380,unprotected well,28,30,0,0,1,dirt,natural,1
+lumen_2018:1264,Lumen 2018,04000354,2018,Lumen,Region 3,0.333333,3,-0.479530,"river, dam, lake, pond, stream, canal or irrigation channel",43,43,0,0,1,dirt,natural,3
+lumen_2018:1265,Lumen 2018,04000355,2018,Lumen,Region 4,0.500000,4,-0.906130,protected well,44,45,1,0,0,dirt,natural,3
+lumen_2018:1266,Lumen 2018,04000356,2018,Lumen,Region 1,0.000000,1,-1.218200,protected well,51,,0,0,0,dirt,natural,3
+lumen_2018:1267,Lumen 2018,04000358,2018,Lumen,Region 3,0.666667,3,-0.386370,public tap,35,21,0,0,0,dirt,finished,3
+lumen_2018:1268,Lumen 2018,04000359,2018,Lumen,Region 4,0.500000,4,0.568910,public tap,32,75,0,0,0,cement,finished,2

@@ -1,0 +1,855 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30.0,
+              -1.5
+            ],
+            [
+              30.92,
+              -1.5
+            ],
+            [
+              30.92,
+              -0.58
+            ],
+            [
+              30.0,
+              -0.58
+            ],
+            [
+              30.0,
+              -1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 1,
+        "district_name": "Training District 01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.0,
+              -1.5
+            ],
+            [
+              31.92,
+              -1.5
+            ],
+            [
+              31.92,
+              -0.58
+            ],
+            [
+              31.0,
+              -0.58
+            ],
+            [
+              31.0,
+              -1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 2,
+        "district_name": "Training District 02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.0,
+              -1.5
+            ],
+            [
+              32.92,
+              -1.5
+            ],
+            [
+              32.92,
+              -0.58
+            ],
+            [
+              32.0,
+              -0.58
+            ],
+            [
+              32.0,
+              -1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 3,
+        "district_name": "Training District 03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              33.0,
+              -1.5
+            ],
+            [
+              33.92,
+              -1.5
+            ],
+            [
+              33.92,
+              -0.58
+            ],
+            [
+              33.0,
+              -0.58
+            ],
+            [
+              33.0,
+              -1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 4,
+        "district_name": "Training District 04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34.0,
+              -1.5
+            ],
+            [
+              34.92,
+              -1.5
+            ],
+            [
+              34.92,
+              -0.58
+            ],
+            [
+              34.0,
+              -0.58
+            ],
+            [
+              34.0,
+              -1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 5,
+        "district_name": "Training District 05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30.0,
+              -0.5
+            ],
+            [
+              30.92,
+              -0.5
+            ],
+            [
+              30.92,
+              0.42000000000000004
+            ],
+            [
+              30.0,
+              0.42000000000000004
+            ],
+            [
+              30.0,
+              -0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 6,
+        "district_name": "Training District 06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.0,
+              -0.5
+            ],
+            [
+              31.92,
+              -0.5
+            ],
+            [
+              31.92,
+              0.42000000000000004
+            ],
+            [
+              31.0,
+              0.42000000000000004
+            ],
+            [
+              31.0,
+              -0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 7,
+        "district_name": "Riverbend"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.0,
+              -0.5
+            ],
+            [
+              32.92,
+              -0.5
+            ],
+            [
+              32.92,
+              0.42000000000000004
+            ],
+            [
+              32.0,
+              0.42000000000000004
+            ],
+            [
+              32.0,
+              -0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 8,
+        "district_name": "Training District 08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              33.0,
+              -0.5
+            ],
+            [
+              33.92,
+              -0.5
+            ],
+            [
+              33.92,
+              0.42000000000000004
+            ],
+            [
+              33.0,
+              0.42000000000000004
+            ],
+            [
+              33.0,
+              -0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 9,
+        "district_name": "Training District 09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34.0,
+              -0.5
+            ],
+            [
+              34.92,
+              -0.5
+            ],
+            [
+              34.92,
+              0.42000000000000004
+            ],
+            [
+              34.0,
+              0.42000000000000004
+            ],
+            [
+              34.0,
+              -0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 10,
+        "district_name": "Training District 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30.0,
+              0.5
+            ],
+            [
+              30.92,
+              0.5
+            ],
+            [
+              30.92,
+              1.42
+            ],
+            [
+              30.0,
+              1.42
+            ],
+            [
+              30.0,
+              0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 11,
+        "district_name": "Training District 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.0,
+              0.5
+            ],
+            [
+              31.92,
+              0.5
+            ],
+            [
+              31.92,
+              1.42
+            ],
+            [
+              31.0,
+              1.42
+            ],
+            [
+              31.0,
+              0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 12,
+        "district_name": "Training District 12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.0,
+              0.5
+            ],
+            [
+              32.92,
+              0.5
+            ],
+            [
+              32.92,
+              1.42
+            ],
+            [
+              32.0,
+              1.42
+            ],
+            [
+              32.0,
+              0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 13,
+        "district_name": "Training District 13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              33.0,
+              0.5
+            ],
+            [
+              33.92,
+              0.5
+            ],
+            [
+              33.92,
+              1.42
+            ],
+            [
+              33.0,
+              1.42
+            ],
+            [
+              33.0,
+              0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 14,
+        "district_name": "Training District 14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34.0,
+              0.5
+            ],
+            [
+              34.92,
+              0.5
+            ],
+            [
+              34.92,
+              1.42
+            ],
+            [
+              34.0,
+              1.42
+            ],
+            [
+              34.0,
+              0.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 15,
+        "district_name": "Training District 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30.0,
+              1.5
+            ],
+            [
+              30.92,
+              1.5
+            ],
+            [
+              30.92,
+              2.42
+            ],
+            [
+              30.0,
+              2.42
+            ],
+            [
+              30.0,
+              1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 16,
+        "district_name": "Training District 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.0,
+              1.5
+            ],
+            [
+              31.92,
+              1.5
+            ],
+            [
+              31.92,
+              2.42
+            ],
+            [
+              31.0,
+              2.42
+            ],
+            [
+              31.0,
+              1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 17,
+        "district_name": "Training District 17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.0,
+              1.5
+            ],
+            [
+              32.92,
+              1.5
+            ],
+            [
+              32.92,
+              2.42
+            ],
+            [
+              32.0,
+              2.42
+            ],
+            [
+              32.0,
+              1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 18,
+        "district_name": "Riverbend"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              33.0,
+              1.5
+            ],
+            [
+              33.92,
+              1.5
+            ],
+            [
+              33.92,
+              2.42
+            ],
+            [
+              33.0,
+              2.42
+            ],
+            [
+              33.0,
+              1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 19,
+        "district_name": "Training District 19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34.0,
+              1.5
+            ],
+            [
+              34.92,
+              1.5
+            ],
+            [
+              34.92,
+              2.42
+            ],
+            [
+              34.0,
+              2.42
+            ],
+            [
+              34.0,
+              1.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 20,
+        "district_name": "Training District 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              30.0,
+              2.5
+            ],
+            [
+              30.92,
+              2.5
+            ],
+            [
+              30.92,
+              3.42
+            ],
+            [
+              30.0,
+              3.42
+            ],
+            [
+              30.0,
+              2.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 21,
+        "district_name": "Training District 21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.0,
+              2.5
+            ],
+            [
+              31.92,
+              2.5
+            ],
+            [
+              31.92,
+              3.42
+            ],
+            [
+              31.0,
+              3.42
+            ],
+            [
+              31.0,
+              2.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 22,
+        "district_name": "Training District 22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.0,
+              2.5
+            ],
+            [
+              32.92,
+              2.5
+            ],
+            [
+              32.92,
+              3.42
+            ],
+            [
+              32.0,
+              3.42
+            ],
+            [
+              32.0,
+              2.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 23,
+        "district_name": "Training District 23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              33.0,
+              2.5
+            ],
+            [
+              33.92,
+              2.5
+            ],
+            [
+              33.92,
+              3.42
+            ],
+            [
+              33.0,
+              3.42
+            ],
+            [
+              33.0,
+              2.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 24,
+        "district_name": "Training District 24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              34.0,
+              2.5
+            ],
+            [
+              34.92,
+              2.5
+            ],
+            [
+              34.92,
+              3.42
+            ],
+            [
+              34.0,
+              3.42
+            ],
+            [
+              34.0,
+              2.5
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "d": 25,
+        "district_name": "Training District 25"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
