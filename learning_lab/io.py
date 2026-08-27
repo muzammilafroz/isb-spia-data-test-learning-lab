@@ -9,7 +9,7 @@ from urllib.request import urlopen
 import pandas as pd
 
 REPOSITORY = "muzammilafroz/applied-economics-data-learning-lab"
-DEFAULT_REF = "v1.0.0"
+DEFAULT_REF = "v1.0.1"
 
 
 def _patch_browser_http() -> None:

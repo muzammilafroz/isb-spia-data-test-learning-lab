@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 
-const RAW_ROOT = "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.0";
+const RAW_ROOT = "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.1";
 
 test("released site, raw data, and Colab target are public", async ({ page, request }) => {
   const data = await request.get(`${RAW_ROOT}/data/teaching/expected_outputs.json`);

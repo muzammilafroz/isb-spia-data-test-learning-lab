@@ -24,7 +24,7 @@ jobs:
         run: |
           for attempt in {1..30}; do
             if curl --fail --silent --show-error "https://muzammilafroz.github.io/applied-economics-data-learning-lab/" > /dev/null \
-              && curl --fail --silent --show-error "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.0/data/teaching/expected_outputs.json" > /dev/null; then
+              && curl --fail --silent --show-error "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.1/data/teaching/expected_outputs.json" > /dev/null; then
               exit 0
             fi
             sleep 10

@@ -15,7 +15,7 @@ def test_versioned_raw_url(monkeypatch):
     monkeypatch.delenv("LEARNING_LAB_DATA_BASE", raising=False)
     monkeypatch.delenv("LEARNING_LAB_DATA_REF", raising=False)
     assert get_data_url("survey_points.csv").endswith(
-        "/v1.0.0/data/teaching/survey_points.csv"
+        "/v1.0.1/data/teaching/survey_points.csv"
     )
 
 

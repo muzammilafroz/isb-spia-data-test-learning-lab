@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1
+
+- Renamed the repository and all public routes for a generic applied economics learning lab.
+- Updated the immutable raw-data and notebook helper references to the new repository path.
+
 ## v1.0.0
 
 - Added five executed tutorial notebooks and six blank formative assessment notebooks.

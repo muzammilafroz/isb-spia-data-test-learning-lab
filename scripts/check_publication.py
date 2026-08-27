@@ -5,7 +5,15 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-EXCLUDED_PARTS = {".git", ".venv", "node_modules", "_build", "dist", "tmp"}
+EXCLUDED_PARTS = {
+    ".git",
+    ".venv",
+    "node_modules",
+    "_build",
+    "dist",
+    "test-results",
+    "tmp",
+}
 SELF = Path(__file__).resolve()
 
 forbidden_names = {

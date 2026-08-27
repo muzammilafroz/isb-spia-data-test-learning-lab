@@ -49,7 +49,7 @@ if sys.platform == "emscripten":
     import pyodide_http
     pyodide_http.patch_all()
 
-RAW_CODE_ROOT = "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.0/learning_lab"
+RAW_CODE_ROOT = "https://raw.githubusercontent.com/muzammilafroz/applied-economics-data-learning-lab/v1.0.1/learning_lab"
 if sys.platform == "emscripten":
     from js import window
     if window.location.hostname in {"127.0.0.1", "localhost"}:
@@ -73,7 +73,7 @@ read_teaching_csv = lab_io.read_teaching_csv
 read_teaching_geojson = lab_io.read_teaching_geojson
 
 print("Runtime:", sys.platform)
-print("Data reference:", os.getenv("LEARNING_LAB_DATA_REF", "v1.0.0"))
+print("Data reference:", os.getenv("LEARNING_LAB_DATA_REF", "v1.0.1"))
 '''
 
 

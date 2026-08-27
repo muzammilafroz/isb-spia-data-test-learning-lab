@@ -27,11 +27,11 @@ Identifiers are strings. Blank values are intentional. The countries Lumen and N
 
 ## Versioned loading
 
-Public notebooks use raw GitHub files under release `v1.0.0`. Local and CI runs can override the source:
+Public notebooks use raw GitHub files under release `v1.0.1`. Local and CI runs can override the source:
 
 ```powershell
 $env:LEARNING_LAB_DATA_BASE = "data/teaching"
-$env:LEARNING_LAB_DATA_REF = "v1.0.0"
+$env:LEARNING_LAB_DATA_REF = "v1.0.1"
 ```
 
 The data are dedicated under CC0 1.0. See `LICENSE` in this directory.
