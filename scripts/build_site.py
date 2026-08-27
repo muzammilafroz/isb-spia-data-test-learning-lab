@@ -2,12 +2,12 @@
 
 from __future__ import annotations
 
-import os
 import argparse
+import os
+import re
 import shutil
 import subprocess
 import sys
-import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,6 +16,13 @@ DIST = ROOT / "dist"
 BASE_URL = "/isb-spia-data-test-learning-lab"
 ASSET_PLACEHOLDER = "/myst_assets_folder/"
 INDEX_REDIRECT = "<script>(function(){var p=window.location.pathname;if(p.endsWith('/index.html'))window.location.replace((p.slice(0,-10)||'/')+window.location.search+window.location.hash);})();</script>"
+MOBILE_SAFETY_STYLE = (
+    '<style id="learning-lab-mobile-safety">'
+    "@media(max-width:720px){html,body{max-width:100%;overflow-x:hidden}"
+    "pre,table{max-width:100%;overflow-x:auto}"
+    "img,svg,canvas{max-width:100%;height:auto}}"
+    "</style>"
+)
 
 
 def run(command: list[str], *, environment: dict[str, str] | None = None) -> None:
@@ -54,6 +61,8 @@ def finalize_book_export(html: Path) -> None:
                 '<button type="button" aria-label="Search course"',
                 updated,
             )
+            if MOBILE_SAFETY_STYLE not in updated:
+                updated = updated.replace("</head>", f"{MOBILE_SAFETY_STYLE}</head>")
         if path.name == "index.html" and INDEX_REDIRECT not in updated:
             updated = updated.replace("</head>", f"{INDEX_REDIRECT}</head>")
         if updated != content:
