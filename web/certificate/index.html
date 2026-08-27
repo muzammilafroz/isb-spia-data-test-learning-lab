@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Create a private, local self-assessed completion record.">
+  <title>Local completion record | Applied Data Coding Learning Lab</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="no-print">
+    <div class="shell">
+      <div class="eyebrow">Applied Data Coding Learning Lab</div>
+      <h1>Local completion record</h1>
+      <p class="lede">A display name is requested only now. It stays in this page and is not transmitted.</p>
+      <p><a href="../tests/">Return to test center</a> | <a href="../">Course home</a></p>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section id="eligibility-message" class="notice no-print" role="status" aria-live="polite"></section>
+    <section id="name-panel" class="panel no-print hidden">
+      <h2>Create the record</h2>
+      <label for="display-name">Learner display name</label>
+      <input id="display-name" type="text" maxlength="80" autocomplete="name">
+      <div class="actions"><button id="create-record" type="button">Create local record</button></div>
+    </section>
+
+    <article id="certificate" class="certificate hidden" aria-labelledby="certificate-title">
+      <div class="eyebrow">Independent self-study</div>
+      <h1 id="certificate-title">Self-assessed Learning Lab Completion Record</h1>
+      <p>This records that</p>
+      <h2 id="certificate-name"></h2>
+      <p>completed all five learning modules and the integrated capstone at or above the 80 percent mastery threshold.</p>
+      <table>
+        <thead><tr><th>Assessment</th><th>Best score</th></tr></thead>
+        <tbody id="certificate-scores"></tbody>
+      </table>
+      <p><strong>Completion time:</strong> <span id="completion-time"></span></p>
+      <p class="small">This is a local, self-assessed learning record. It is not an ISB credential, not an SPIA credential, and not externally verified. The site does not receive or retain the learner name, answers, or scores.</p>
+    </article>
+    <div id="print-actions" class="actions no-print hidden"><button type="button" id="print-record">Print or save as PDF</button></div>
+  </main>
+
+  <footer class="no-print"><div class="shell">No remote verification, identity check, analytics, or learner-data collection is used.</div></footer>
+  <script type="module" src="../assets/certificate.js"></script>
+</body>
+</html>

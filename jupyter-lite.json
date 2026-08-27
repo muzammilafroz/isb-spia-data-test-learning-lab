@@ -1,0 +1,11 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "Applied Data Coding Learning Lab",
+    "appUrl": "./lab",
+    "collaborative": false,
+    "disabledExtensions": [
+      "@jupyterlite/server-extension:service-worker"
+    ]
+  }
+}

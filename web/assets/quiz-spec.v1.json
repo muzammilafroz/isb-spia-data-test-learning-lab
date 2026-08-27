@@ -1,0 +1,840 @@
+{
+  "explanation_policy": "Reveal after a pass or after the second completed attempt.",
+  "modules": [
+    {
+      "lesson": "01_python_pandas_foundations.ipynb",
+      "module_id": "module-01",
+      "questions": [
+        {
+          "answer": 25,
+          "explanation": "Each row represents one fictional district, so shape[0] is 25.",
+          "prompt": "How many rows are in district_production.csv?",
+          "question_id": "m1_q01",
+          "type": "integer",
+          "variable": "m1_district_rows"
+        },
+        {
+          "answer": 25,
+          "explanation": "All 25 district codes are unique. This is why d is a safe join key.",
+          "prompt": "How many unique values are in the district code column d?",
+          "question_id": "m1_q02",
+          "type": "integer",
+          "variable": "m1_unique_codes"
+        },
+        {
+          "answer": "Riverbend",
+          "explanation": "Riverbend appears twice even though each district code is unique. Names are labels, not reliable keys.",
+          "prompt": "Which display name is deliberately used by two districts?",
+          "question_id": "m1_q03",
+          "type": "normalized-string",
+          "variable": "m1_duplicated_name"
+        },
+        {
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "choices": [
+            {
+              "label": "A",
+              "value": "A"
+            },
+            {
+              "label": "B",
+              "value": "B"
+            },
+            {
+              "label": "C",
+              "value": "C"
+            },
+            {
+              "label": "D",
+              "value": "D"
+            },
+            {
+              "label": "E",
+              "value": "E"
+            }
+          ],
+          "explanation": "The file contains four groups: A, B, C, and D.",
+          "prompt": "Select every sampling group present in survey_points.csv.",
+          "question_id": "m1_q04",
+          "type": "multi-select",
+          "variable": "m1_groups"
+        },
+        {
+          "answer": 50,
+          "explanation": "value_counts() shows 50 group A points.",
+          "prompt": "How many sampling points belong to group A?",
+          "question_id": "m1_q05",
+          "type": "integer",
+          "variable": "m1_group_a_count"
+        },
+        {
+          "answer": "integer",
+          "choices": [
+            {
+              "label": "Integer",
+              "value": "integer"
+            },
+            {
+              "label": "Floating point",
+              "value": "floating"
+            },
+            {
+              "label": "Text",
+              "value": "text"
+            },
+            {
+              "label": "Boolean",
+              "value": "boolean"
+            }
+          ],
+          "explanation": "The values are whole-number counts and pandas reads the column as an integer type.",
+          "prompt": "Which broad data type best describes the production column?",
+          "question_id": "m1_q06",
+          "type": "multiple-choice",
+          "variable": "m1_production_kind"
+        },
+        {
+          "answer": 0,
+          "explanation": "isna().sum() returns zero for this complete teaching column.",
+          "prompt": "How many production values are missing?",
+          "question_id": "m1_q07",
+          "type": "integer",
+          "variable": "m1_missing_production"
+        },
+        {
+          "answer": "one_to_one",
+          "choices": [
+            {
+              "label": "one_to_one",
+              "value": "one_to_one"
+            },
+            {
+              "label": "one_to_many",
+              "value": "one_to_many"
+            },
+            {
+              "label": "many_to_one",
+              "value": "many_to_one"
+            },
+            {
+              "label": "many_to_many",
+              "value": "many_to_many"
+            }
+          ],
+          "explanation": "one_to_one asks pandas to fail if either table repeats a district code.",
+          "prompt": "Which pandas merge validation contract should be used when both tables have one row per district code?",
+          "question_id": "m1_q08",
+          "type": "multiple-choice",
+          "variable": "m1_merge_contract"
+        }
+      ],
+      "test": "01_python_pandas_test.ipynb",
+      "title": "Python and pandas foundations"
+    },
+    {
+      "lesson": "02_geospatial_validation_mapping.ipynb",
+      "module_id": "module-02",
+      "questions": [
+        {
+          "answer": 25,
+          "explanation": "The GeoJSON contains one polygon feature for each of 25 district codes.",
+          "prompt": "How many district polygons are in the GeoJSON?",
+          "question_id": "m2_q01",
+          "type": "integer",
+          "variable": "m2_polygon_count"
+        },
+        {
+          "answer": "EPSG:4326",
+          "explanation": "The GeoJSON uses longitude and latitude in EPSG:4326.",
+          "prompt": "What coordinate reference system is assigned to the district GeoDataFrame?",
+          "question_id": "m2_q02",
+          "type": "normalized-string",
+          "variable": "m2_crs"
+        },
+        {
+          "answer": 12,
+          "explanation": "Six coordinate pairs occur twice, so 12 rows are members of duplicated pairs.",
+          "prompt": "How many point rows belong to a repeated longitude-latitude pair, counting both originals and repeats?",
+          "question_id": "m2_q03",
+          "type": "integer",
+          "variable": "m2_duplicated_rows"
+        },
+        {
+          "answer": 6,
+          "explanation": "Grouping by longitude and latitude reveals six coordinate pairs with a count above one.",
+          "prompt": "How many distinct longitude-latitude pairs are repeated?",
+          "question_id": "m2_q04",
+          "type": "integer",
+          "variable": "m2_duplicated_pairs"
+        },
+        {
+          "answer": 5,
+          "explanation": "The synthetic design contains five group D points.",
+          "prompt": "How many points belong to group D?",
+          "question_id": "m2_q05",
+          "type": "integer",
+          "variable": "m2_group_d_count"
+        },
+        {
+          "answer": "d",
+          "explanation": "The field d is unique in both tables. The display name is not unique.",
+          "prompt": "Which field should join production to district geometry?",
+          "question_id": "m2_q06",
+          "type": "normalized-string",
+          "variable": "m2_join_key"
+        },
+        {
+          "answer": "fisher_jenks",
+          "choices": [
+            {
+              "label": "Fisher-Jenks",
+              "value": "fisher_jenks"
+            },
+            {
+              "label": "Quantiles",
+              "value": "quantiles"
+            },
+            {
+              "label": "Equal intervals",
+              "value": "equal_interval"
+            },
+            {
+              "label": "Unvalidated manual breaks",
+              "value": "manual"
+            }
+          ],
+          "explanation": "Fisher-Jenks chooses breaks that reduce within-class variation in this skewed teaching distribution.",
+          "prompt": "Which classification method is used for the skewed production map?",
+          "question_id": "m2_q07",
+          "type": "multiple-choice",
+          "variable": "m2_classifier"
+        },
+        {
+          "answer": "outside_reserved_space",
+          "choices": [
+            {
+              "label": "In reserved space outside the map",
+              "value": "outside_reserved_space"
+            },
+            {
+              "label": "On top of the polygons",
+              "value": "over_data"
+            },
+            {
+              "label": "Remove the legend",
+              "value": "remove"
+            },
+            {
+              "label": "Shrink it until unreadable",
+              "value": "tiny"
+            }
+          ],
+          "explanation": "Reserved space outside the data axes keeps the map visible and the legend readable.",
+          "prompt": "Where should a large legend be placed when it would cover district polygons?",
+          "question_id": "m2_q08",
+          "type": "multiple-choice",
+          "variable": "m2_legend_strategy"
+        }
+      ],
+      "test": "02_geospatial_test.ipynb",
+      "title": "Geospatial validation and mapping"
+    },
+    {
+      "lesson": "03_household_rates_cleaning.ipynb",
+      "module_id": "module-03",
+      "questions": [
+        {
+          "answer": 23,
+          "explanation": "The columns test_01 through test_23 provide 23 possible member-test slots.",
+          "prompt": "How many test-result slots are present in the wide file?",
+          "question_id": "m3_q01",
+          "type": "integer",
+          "variable": "m3_test_slots"
+        },
+        {
+          "answer": 360,
+          "explanation": "There is one wide test row for each of 360 Lumen 2018 households.",
+          "prompt": "How many household rows are in the test-result file?",
+          "question_id": "m3_q02",
+          "type": "integer",
+          "variable": "m3_households"
+        },
+        {
+          "answer": 52,
+          "explanation": "Fifty-two rows have zero observed results across all 23 slots.",
+          "prompt": "How many households have no nonblank test result?",
+          "question_id": "m3_q03",
+          "type": "integer",
+          "variable": "m3_zero_denominators"
+        },
+        {
+          "answer": 308,
+          "explanation": "A rate is defined only when the denominator is positive, leaving 308 households.",
+          "prompt": "How many households have a defined positive rate?",
+          "question_id": "m3_q04",
+          "type": "integer",
+          "variable": "m3_valid_rates"
+        },
+        {
+          "answer": "04000001",
+          "explanation": "Reading the ID as text preserves its leading zero. The first row has no tests, so 04000001 is first with a rate.",
+          "prompt": "What is the first household ID with a defined rate? Keep all eight positions.",
+          "question_id": "m3_q05",
+          "type": "normalized-string",
+          "variable": "m3_first_valid_id"
+        },
+        {
+          "answer": 3,
+          "explanation": "Three observed results are inconclusive. They belong in the main denominator because they are nonblank test outcomes.",
+          "prompt": "How many nonblank results are labelled inconclusive?",
+          "question_id": "m3_q06",
+          "type": "integer",
+          "variable": "m3_other_outcomes"
+        },
+        {
+          "answer": "one_to_one",
+          "choices": [
+            {
+              "label": "one_to_one",
+              "value": "one_to_one"
+            },
+            {
+              "label": "one_to_many",
+              "value": "one_to_many"
+            },
+            {
+              "label": "many_to_one",
+              "value": "many_to_one"
+            },
+            {
+              "label": "many_to_many",
+              "value": "many_to_many"
+            }
+          ],
+          "explanation": "Both sides should contain each normalized household ID at most once.",
+          "prompt": "Which merge validation contract fits one survey row and one rate row per household ID?",
+          "question_id": "m3_q07",
+          "type": "multiple-choice",
+          "variable": "m3_merge_contract"
+        },
+        {
+          "answer": 1268,
+          "explanation": "The clean repeated cross-section contains 1,268 household-wave observations.",
+          "prompt": "How many rows are in the pooled clean analysis file?",
+          "question_id": "m3_q08",
+          "type": "integer",
+          "variable": "m3_clean_rows"
+        },
+        {
+          "answer": 419,
+          "explanation": "The documented water-source rule marks 419 rows as poorwater equal to one.",
+          "prompt": "How many pooled households are classified as using a poor water source?",
+          "question_id": "m3_q09",
+          "type": "integer",
+          "variable": "m3_poorwater_count"
+        },
+        {
+          "answer": "missing",
+          "choices": [
+            {
+              "label": "Missing",
+              "value": "missing"
+            },
+            {
+              "label": "Zero",
+              "value": "zero"
+            },
+            {
+              "label": "One",
+              "value": "one"
+            },
+            {
+              "label": "Delete the raw household row",
+              "value": "drop_raw_row"
+            }
+          ],
+          "explanation": "Zero divided by zero is undefined. Missing preserves that fact, while zero would falsely claim an observed zero positive rate.",
+          "prompt": "How should a zero-denominator household rate be represented?",
+          "question_id": "m3_q10",
+          "type": "multiple-choice",
+          "variable": "m3_zero_rate_rule"
+        }
+      ],
+      "test": "03_household_rates_test.ipynb",
+      "title": "Household rates and reproducible cleaning"
+    },
+    {
+      "lesson": "04_regression_fixed_effects.ipynb",
+      "module_id": "module-04",
+      "questions": [
+        {
+          "answer": 1268,
+          "explanation": "The pooled input has 1,268 rows before formula variables define a common model sample.",
+          "prompt": "How many observations are in the pooled clean file before model-specific missing-value deletion?",
+          "question_id": "m4_q01",
+          "type": "integer",
+          "variable": "m4_analysis_rows"
+        },
+        {
+          "answer": 4,
+          "explanation": "There are four fictional country-year survey waves.",
+          "prompt": "How many survey waves are represented?",
+          "question_id": "m4_q02",
+          "type": "integer",
+          "variable": "m4_wave_count"
+        },
+        {
+          "answer": 4,
+          "explanation": "Each survey wave is one observed country-year pair in this synthetic repeated cross-section.",
+          "prompt": "How many observed country-year pairs are represented?",
+          "question_id": "m4_q03",
+          "type": "integer",
+          "variable": "m4_country_year_pairs"
+        },
+        {
+          "answer": "HC1",
+          "choices": [
+            {
+              "label": "HC1",
+              "value": "HC1"
+            },
+            {
+              "label": "Nonrobust only",
+              "value": "nonrobust"
+            },
+            {
+              "label": "Cluster by an unavailable PSU",
+              "value": "cluster_psu"
+            },
+            {
+              "label": "Claim design consistency without fields",
+              "value": "bootstrap_claim"
+            }
+          ],
+          "explanation": "HC1 adjusts ordinary least-squares standard errors for heteroskedasticity. It does not recreate missing survey weights, strata, or clusters.",
+          "prompt": "Which heteroskedasticity-consistent covariance estimator is used when design fields are unavailable?",
+          "question_id": "m4_q04",
+          "type": "multiple-choice",
+          "variable": "m4_covariance"
+        },
+        {
+          "answer": "association",
+          "choices": [
+            {
+              "label": "Association",
+              "value": "association"
+            },
+            {
+              "label": "Causal effect",
+              "value": "causal_effect"
+            },
+            {
+              "label": "Randomized treatment effect",
+              "value": "treatment_effect"
+            },
+            {
+              "label": "Proof",
+              "value": "proof"
+            }
+          ],
+          "explanation": "Without a causal design, random assignment, or defensible instrument, the coefficient is an association.",
+          "prompt": "Which word best describes the estimated wealth-malaria relationship in this observational exercise?",
+          "question_id": "m4_q05",
+          "type": "multiple-choice",
+          "variable": "m4_claim_language"
+        },
+        {
+          "answer": -0.1557734269,
+          "explanation": "The adjusted HC1 model estimates about -0.1558. A one-unit higher synthetic wealth index is associated with a 0.156 lower positive-rate fraction, holding listed covariates fixed.",
+          "prompt": "Fit the documented adjusted model. What is the wealth_index coefficient?",
+          "question_id": "m4_q06",
+          "tolerance": {
+            "absolute": 0.001,
+            "relative": 0.001
+          },
+          "type": "float",
+          "variable": "m4_adjusted_wealth_coefficient"
+        },
+        {
+          "answer": "negative",
+          "explanation": "The fitted coefficient is below zero in the synthetic data.",
+          "prompt": "Is the adjusted wealth coefficient positive or negative?",
+          "question_id": "m4_q07",
+          "type": "normalized-string",
+          "variable": "m4_coefficient_sign"
+        },
+        {
+          "answer": 1244,
+          "explanation": "Missing head-age values reduce the common regression sample to 1,244 observations.",
+          "prompt": "How many observations enter the adjusted model after formula-level missing-value deletion?",
+          "question_id": "m4_q08",
+          "type": "integer",
+          "variable": "m4_common_sample"
+        }
+      ],
+      "test": "04_regression_test.ipynb",
+      "title": "Regression, fixed effects, and credibility"
+    },
+    {
+      "lesson": "05_validation_reproducibility_defense.ipynb",
+      "module_id": "module-05",
+      "questions": [
+        {
+          "answer": "true",
+          "explanation": "The manifest explicitly records that the teaching data are synthetic.",
+          "prompt": "What is the value of synthetic_only in data_manifest.json?",
+          "question_id": "m5_q01",
+          "type": "normalized-string",
+          "variable": "m5_synthetic_flag"
+        },
+        {
+          "answer": 11,
+          "explanation": "The manifest records the ten teaching datasets plus expected_outputs.json. The manifest does not hash itself.",
+          "prompt": "How many generated teaching files are recorded in the manifest?",
+          "question_id": "m5_q02",
+          "type": "integer",
+          "variable": "m5_manifest_files"
+        },
+        {
+          "answer": "detect_hidden_state",
+          "choices": [
+            {
+              "label": "Detect hidden state and ordering dependencies",
+              "value": "detect_hidden_state"
+            },
+            {
+              "label": "Change inconvenient results",
+              "value": "change_answers"
+            },
+            {
+              "label": "Skip cells that fail",
+              "value": "skip_errors"
+            },
+            {
+              "label": "Improve colors automatically",
+              "value": "decorate"
+            }
+          ],
+          "explanation": "A fresh run detects cells that silently depend on variables or imports left over from an earlier interactive session.",
+          "prompt": "Why execute a notebook from a fresh kernel?",
+          "question_id": "m5_q03",
+          "type": "multiple-choice",
+          "variable": "m5_fresh_kernel_reason"
+        },
+        {
+          "answer": "open_exact_file",
+          "choices": [
+            {
+              "label": "Open and inspect the exact saved file",
+              "value": "open_exact_file"
+            },
+            {
+              "label": "Check only that a path exists",
+              "value": "exists_only"
+            },
+            {
+              "label": "Assume plotting code guarantees readability",
+              "value": "trust_code"
+            },
+            {
+              "label": "Read only the filename",
+              "value": "check_name"
+            }
+          ],
+          "explanation": "Open the exact saved file at its intended display size and inspect clipping, overlap, encoding, and readability.",
+          "prompt": "What is the strongest check after saving a figure?",
+          "question_id": "m5_q04",
+          "type": "multiple-choice",
+          "variable": "m5_figure_check"
+        },
+        {
+          "answer": "byte_changes",
+          "choices": [
+            {
+              "label": "Unexpected byte changes",
+              "value": "byte_changes"
+            },
+            {
+              "label": "Causal identification",
+              "value": "causality"
+            },
+            {
+              "label": "Unavailable survey weights",
+              "value": "missing_weights"
+            },
+            {
+              "label": "Whether a color is attractive",
+              "value": "plot_taste"
+            }
+          ],
+          "explanation": "A cryptographic hash changes when the file bytes change, so it detects unexpected input drift.",
+          "prompt": "What does a stored file hash help detect?",
+          "question_id": "m5_q05",
+          "type": "multiple-choice",
+          "variable": "m5_hash_purpose"
+        },
+        {
+          "answer": "specific_verified",
+          "choices": [
+            {
+              "label": "Describe assistance and independent verification",
+              "value": "specific_verified"
+            },
+            {
+              "label": "Deny assistance that occurred",
+              "value": "deny"
+            },
+            {
+              "label": "Claim AI is responsible for errors",
+              "value": "delegate"
+            },
+            {
+              "label": "Give a vague statement with no verification",
+              "value": "vague"
+            }
+          ],
+          "explanation": "A useful disclosure states what AI assisted with and what the author independently checked and remains responsible for.",
+          "prompt": "Which AI disclosure is defensible?",
+          "question_id": "m5_q06",
+          "type": "multiple-choice",
+          "variable": "m5_ai_disclosure"
+        },
+        {
+          "answer": "repeated_cross_section",
+          "choices": [
+            {
+              "label": "Repeated cross-section",
+              "value": "repeated_cross_section"
+            },
+            {
+              "label": "Household panel",
+              "value": "household_panel"
+            },
+            {
+              "label": "Single time series",
+              "value": "time_series"
+            },
+            {
+              "label": "Randomized experiment",
+              "value": "experiment"
+            }
+          ],
+          "explanation": "Different households are observed in each survey wave, so the pooled data are a repeated cross-section.",
+          "prompt": "What is the pooled four-wave dataset: a panel or a repeated cross-section?",
+          "question_id": "m5_q07",
+          "type": "multiple-choice",
+          "variable": "m5_data_structure"
+        },
+        {
+          "answer": "purpose_and_constraint",
+          "choices": [
+            {
+              "label": "Purpose and data constraint",
+              "value": "purpose_and_constraint"
+            },
+            {
+              "label": "A package name without context",
+              "value": "package_name"
+            },
+            {
+              "label": "The largest possible claim",
+              "value": "large_claim"
+            },
+            {
+              "label": "An apology before the evidence",
+              "value": "apology"
+            }
+          ],
+          "explanation": "Start with the analytical purpose and the actual data constraint, then explain the rule, validation, limitation, and alternatives.",
+          "prompt": "What should come first when defending an analytical decision?",
+          "question_id": "m5_q08",
+          "type": "multiple-choice",
+          "variable": "m5_interview_opening"
+        }
+      ],
+      "test": "05_validation_test.ipynb",
+      "title": "Validation, reproducibility, and interview defense"
+    },
+    {
+      "lesson": null,
+      "module_id": "capstone",
+      "questions": [
+        {
+          "answer": 80,
+          "explanation": "The sampling-point file contains 80 rows.",
+          "prompt": "How many sampling-point rows are present?",
+          "question_id": "cap_q01",
+          "type": "integer",
+          "variable": "cap_point_count"
+        },
+        {
+          "answer": 24458,
+          "explanation": "The maximum synthetic production value is 24,458.",
+          "prompt": "What is the largest district production value?",
+          "question_id": "cap_q02",
+          "type": "integer",
+          "variable": "cap_maximum_production"
+        },
+        {
+          "answer": 25,
+          "explanation": "District code 25 contains the maximum production value.",
+          "prompt": "Which district code d has that largest production value?",
+          "question_id": "cap_q03",
+          "type": "integer",
+          "variable": "cap_maximum_district_code"
+        },
+        {
+          "answer": 308,
+          "explanation": "Only households with at least one nonblank test outcome have a defined rate.",
+          "prompt": "How many Lumen 2018 households have a defined positive rate?",
+          "question_id": "cap_q04",
+          "type": "integer",
+          "variable": "cap_valid_rate_households"
+        },
+        {
+          "answer": 3,
+          "explanation": "Three nonblank slots contain the label inconclusive.",
+          "prompt": "How many observed test results are inconclusive?",
+          "question_id": "cap_q05",
+          "type": "integer",
+          "variable": "cap_inconclusive_results"
+        },
+        {
+          "answer": 0.5,
+          "explanation": "The household has one positive result among two observed results, so its rate is 0.5.",
+          "prompt": "What is the positive rate for household 04000001?",
+          "question_id": "cap_q06",
+          "tolerance": {
+            "absolute": 1e-06,
+            "relative": 0.0
+          },
+          "type": "float",
+          "variable": "cap_first_valid_rate"
+        },
+        {
+          "answer": 1268,
+          "explanation": "The four synthetic waves contribute 1,268 rows after the undefined Lumen 2018 rates are excluded from this prepared analysis file.",
+          "prompt": "How many household-wave rows are in the pooled clean file?",
+          "question_id": "cap_q07",
+          "type": "integer",
+          "variable": "cap_pooled_rows"
+        },
+        {
+          "answer": 0.330441640379,
+          "explanation": "The mean of the zero-one poorwater indicator is about 0.33044.",
+          "prompt": "What fraction of pooled households use a poor water source? Report a value from zero to one.",
+          "question_id": "cap_q08",
+          "tolerance": {
+            "absolute": 0.0001,
+            "relative": 0.001
+          },
+          "type": "float",
+          "variable": "cap_poorwater_share"
+        },
+        {
+          "answer": -0.1502429673,
+          "explanation": "The unadjusted HC1 model estimates about -0.15024 on the synthetic data.",
+          "prompt": "In positive_rate ~ wealth_index, what is the wealth_index coefficient?",
+          "question_id": "cap_q09",
+          "tolerance": {
+            "absolute": 0.001,
+            "relative": 0.001
+          },
+          "type": "float",
+          "variable": "cap_unadjusted_wealth_coefficient"
+        },
+        {
+          "answer": "survey_wave",
+          "choices": [
+            {
+              "label": "Survey-wave fixed effects",
+              "value": "survey_wave"
+            },
+            {
+              "label": "Household fixed effects for unrelated households",
+              "value": "household"
+            },
+            {
+              "label": "Both full country and year sets despite rank redundancy",
+              "value": "country_plus_year"
+            },
+            {
+              "label": "No effects and no disclosure",
+              "value": "none_claim"
+            }
+          ],
+          "explanation": "A survey-wave category directly identifies each observed country-year wave.",
+          "prompt": "Which fixed effect directly represents the four observed survey waves without redundant country and year dummy sets?",
+          "question_id": "cap_q10",
+          "type": "multiple-choice",
+          "variable": "cap_fixed_effect"
+        },
+        {
+          "answer": "negatively_associated",
+          "choices": [
+            {
+              "label": "Negatively associated",
+              "value": "negatively_associated"
+            },
+            {
+              "label": "Caused a reduction",
+              "value": "caused_reduction"
+            },
+            {
+              "label": "Proved the mechanism",
+              "value": "proved"
+            },
+            {
+              "label": "Estimated a randomized effect",
+              "value": "randomized"
+            }
+          ],
+          "explanation": "The observational design supports a negative association, not a causal impact claim.",
+          "prompt": "Which phrase is appropriate for the regression result?",
+          "question_id": "cap_q11",
+          "type": "multiple-choice",
+          "variable": "cap_result_language"
+        },
+        {
+          "answer": [
+            "weights",
+            "psu",
+            "strata"
+          ],
+          "choices": [
+            {
+              "label": "Survey weights",
+              "value": "weights"
+            },
+            {
+              "label": "Primary sampling units",
+              "value": "psu"
+            },
+            {
+              "label": "Strata",
+              "value": "strata"
+            },
+            {
+              "label": "The synthetic wealth index",
+              "value": "wealth"
+            }
+          ],
+          "explanation": "Survey weights, primary sampling units, and strata are all unavailable. HC1 does not substitute for these design fields.",
+          "prompt": "Select every survey-design field that is unavailable in this teaching setup and cannot be invented.",
+          "question_id": "cap_q12",
+          "type": "multi-select",
+          "variable": "cap_missing_design_fields"
+        }
+      ],
+      "test": "06_capstone_test.ipynb",
+      "title": "Integrated capstone"
+    }
+  ],
+  "pass_percent": 80,
+  "schema_version": 1
+}

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Private, browser-local self-study tests for the Applied Data Coding Learning Lab.">
+  <title>Test center | Applied Data Coding Learning Lab</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header>
+    <div class="shell">
+      <div class="eyebrow">Applied Data Coding Learning Lab</div>
+      <h1>Test center</h1>
+      <p class="lede">Use manual answers or paste the JSON bundle printed by a test notebook. Passing requires 80 percent. Attempts are unlimited.</p>
+      <p><a href="../">Course home</a> | <a href="../lab/">JupyterLite</a></p>
+      <div class="notice" role="note">Answers, scores, progress, and certificate names stay in this browser. There is no submission server, account, analytics, or remote certification. Client-side answer keys are inspectable.</div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <nav id="module-nav" class="module-nav" aria-label="Assessment modules"></nav>
+
+    <section class="panel" aria-labelledby="bundle-title">
+      <h2 id="bundle-title">Paste a notebook answer bundle</h2>
+      <p class="small">This fills the matching fields. You can still review and edit them before grading.</p>
+      <label for="bundle-json">Notebook JSON</label>
+      <textarea id="bundle-json" spellcheck="false" placeholder='{"schema_version": 1, "module_id": "module-01", "answers": {...}}'></textarea>
+      <div class="actions"><button id="paste-bundle" type="button">Paste notebook bundle</button></div>
+      <div id="bundle-status" role="status" aria-live="polite"></div>
+    </section>
+
+    <section aria-labelledby="test-title">
+      <h2 id="test-title">Loading assessment...</h2>
+      <p id="test-meta" class="small"></p>
+      <form id="quiz-form" novalidate></form>
+      <div class="actions"><button id="grade-button" type="button">Grade completed attempt</button></div>
+      <div id="grade-summary" class="panel" role="status" aria-live="polite"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="progress-title">
+      <h2 id="progress-title">Local progress</h2>
+      <div id="progress-table"></div>
+      <div class="actions">
+        <button id="export-progress" type="button" class="secondary">Export progress JSON</button>
+        <label class="button secondary" for="import-progress">Import progress JSON</label>
+        <input id="import-progress" class="hidden" type="file" accept="application/json,.json">
+        <a id="certificate-link" class="button hidden" href="../certificate/">Create local completion record</a>
+      </div>
+      <div id="progress-status" role="status" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer><div class="shell">Independent educational resource. Not an official ISB or SPIA product, test, credential, or certificate.</div></footer>
+  <script type="module" src="../assets/quiz.js"></script>
+</body>
+</html>

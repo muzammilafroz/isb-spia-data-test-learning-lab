@@ -1,0 +1,36 @@
+name: Verify public release
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  live-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Wait for Pages and versioned raw data
+        shell: bash
+        run: |
+          for attempt in {1..30}; do
+            if curl --fail --silent --show-error "https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/" > /dev/null \
+              && curl --fail --silent --show-error "https://raw.githubusercontent.com/muzammilafroz/isb-spia-data-test-learning-lab/v1.0.0/data/teaching/expected_outputs.json" > /dev/null; then
+              exit 0
+            fi
+            sleep 10
+          done
+          exit 1
+      - name: Run live public checks
+        env:
+          LIVE_SITE: https://muzammilafroz.github.io/isb-spia-data-test-learning-lab/
+        run: npm run test:live

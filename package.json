@@ -1,0 +1,15 @@
+{
+  "name": "applied-data-coding-learning-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/js/*.test.mjs",
+    "test:e2e": "playwright test tests/e2e/site.spec.mjs",
+    "test:live": "playwright test tests/e2e/live.spec.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.55.0"
+  }
+}

@@ -1,0 +1,116 @@
+:root {
+  color-scheme: light;
+  --ink: #183044;
+  --muted: #52697b;
+  --paper: #f7fafc;
+  --panel: #ffffff;
+  --line: #cbd8e2;
+  --brand: #0b6e75;
+  --brand-dark: #07555a;
+  --good: #146c43;
+  --bad: #a2352a;
+  --soft: #e9f4f4;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: linear-gradient(180deg, #eef7f6 0, var(--paper) 18rem);
+  line-height: 1.55;
+}
+
+a { color: var(--brand-dark); }
+
+.shell { width: min(1100px, calc(100% - 2rem)); margin: 0 auto; }
+
+header { padding: 2rem 0 1rem; }
+
+.eyebrow { color: var(--brand-dark); font-weight: 800; letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; }
+
+h1 { max-width: 850px; margin: .4rem 0 .7rem; font-size: clamp(2rem, 5vw, 3.4rem); line-height: 1.06; }
+h2, h3 { line-height: 1.2; }
+
+.lede { max-width: 800px; color: var(--muted); font-size: 1.08rem; }
+
+.notice, .panel, .question, .certificate {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgb(24 48 68 / 7%);
+}
+
+.notice { padding: .85rem 1rem; border-left: 5px solid var(--brand); }
+.panel { padding: 1.1rem; margin: 1rem 0; }
+.question { padding: 1rem; margin: .9rem 0; }
+
+.module-nav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .55rem; margin: 1rem 0; }
+.module-nav a { padding: .7rem; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); text-decoration: none; font-weight: 650; }
+.module-nav a[aria-current="page"] { border-color: var(--brand); background: var(--soft); }
+
+label { display: block; font-weight: 650; margin-bottom: .35rem; }
+input[type="text"], input[type="number"], textarea, select {
+  width: 100%;
+  min-height: 2.7rem;
+  border: 1px solid #8ba0b0;
+  border-radius: 8px;
+  padding: .65rem .75rem;
+  color: var(--ink);
+  background: #fff;
+  font: inherit;
+}
+textarea { min-height: 9rem; resize: vertical; }
+
+.choice { display: flex; align-items: flex-start; gap: .55rem; margin: .45rem 0; font-weight: 500; }
+.choice input { margin-top: .32rem; }
+
+button, .button {
+  border: 0;
+  border-radius: 9px;
+  padding: .7rem 1rem;
+  background: var(--brand);
+  color: white;
+  font: inherit;
+  font-weight: 750;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+button:hover, .button:hover { background: var(--brand-dark); }
+.secondary { color: var(--brand-dark); background: var(--soft); border: 1px solid #8ab9bb; }
+
+.actions { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin: 1rem 0; }
+.status { font-weight: 750; }
+.good { color: var(--good); }
+.bad { color: var(--bad); }
+.feedback { margin-top: .75rem; padding: .75rem; border-radius: 8px; background: #f2f6f8; }
+.feedback.correct { border-left: 4px solid var(--good); }
+.feedback.incorrect { border-left: 4px solid var(--bad); }
+.hidden { display: none !important; }
+.small { color: var(--muted); font-size: .9rem; }
+
+footer { margin-top: 2rem; padding: 2rem 0 3rem; color: var(--muted); border-top: 1px solid var(--line); }
+
+.certificate { padding: clamp(1.2rem, 5vw, 3rem); text-align: center; border: 8px double #2b6266; }
+.certificate table { margin: 1.2rem auto; border-collapse: collapse; width: min(650px, 100%); }
+.certificate th, .certificate td { padding: .5rem; border-bottom: 1px solid var(--line); text-align: left; }
+
+#progress-table { overflow-x: auto; }
+#progress-table table { width: 100%; border-collapse: collapse; }
+#progress-table th, #progress-table td { padding: .55rem; border-bottom: 1px solid var(--line); text-align: left; }
+
+@media (max-width: 720px) {
+  .shell { width: min(100% - 1rem, 1100px); }
+  header { padding-top: 1.2rem; }
+  .module-nav { grid-template-columns: 1fr; }
+  .panel, .question { border-radius: 10px; }
+}
+
+@media print {
+  body { background: white; }
+  header, footer, .no-print { display: none !important; }
+  .shell { width: 100%; }
+  .certificate { box-shadow: none; break-inside: avoid; }
+}
